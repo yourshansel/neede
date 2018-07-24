@@ -1,0 +1,47 @@
+.div {
+  display: flex;
+}
+
+.cardComponent{
+  height: auto;
+  min-height: 256px;
+  width: 320px;
+  margin: 24px;
+  background-color: #F8F8F8;
+  border-radius: 4px;
+  box-shadow: 1px 2px 2px rgb(81,86,229, 0.3);
+
+}
+
+div.cardComponent:hover {
+  box-shadow: 1px 2px 24px rgb(81,86,229, 0.3);
+  cursor: pointer;
+}
+
+.cardComponent_name {
+  font-family: Montserrat;
+  font-weight: 560;
+  font-size: 16px;
+  color: #5156E5;
+  padding-left: 24px;
+}
+
+
+.cardComponent_description {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 12px;
+  color: #818C9F;
+  padding-top: 4px;
+  padding-left: 24px;
+  padding-right: 24px;
+  line-height: 1.6;
+}
+
+.cardComponent_img {
+  height: 160px;
+  width: 100%;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  margin-bottom: 24px;
+}
