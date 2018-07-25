@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import './CardComponent.css';
+import './css/CardComponent.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class CardComponent extends Component {
   constructor(props) {
@@ -10,7 +11,7 @@ class CardComponent extends Component {
     return (
       <div className="cardComponent">
       <img  src={screenshot} alt="Card image cap" className="cardComponent_img"/>
-      <a href={url} className="cardComponent_name">{name}</a>
+      <a href={url} className="cardComponent_name" target="_blank">{name}</a>
       <p className="cardComponent_description">{description}</p>
       </div>
       );

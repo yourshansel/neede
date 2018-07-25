@@ -1,0 +1,4 @@
+.array-component{
+  flex-wrap: wrap;
+  display: flex;
+}
