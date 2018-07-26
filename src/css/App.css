@@ -3,12 +3,13 @@
 }
 
 .main-header{
+  margin-top: 80px;
   color: #212121;
   font-family: Montserrat;
   font-weight: bold;
   font-size: 32px;
-  padding-top: 80px;
-  padding-left: 24px;
+  margin-bottom: 8px;
+  margin-left: 72px;
 }
 
 .main-description{
@@ -16,5 +17,5 @@
   font-family: Montserrat;
   font-weight: 400;
   font-size: 14px;
-  padding-left: 24px;
+  margin-left: 72px;
 }

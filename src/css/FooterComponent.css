@@ -1,0 +1,35 @@
+.footer-component-background{
+  width: auto;
+  background-color: #ECEFF2;
+  height: 320px;
+  display: flex;
+}
+
+
+.footer-component-header {
+  font-family: Montserrat;
+  font-weight: bold;
+  color: #212121;
+  font-size: 16px;
+  margin-left: 72px;
+  padding-top: 56px;
+}
+
+.footer-component-description {
+  font-family: Montserrat;
+  font-weight: 400;
+  color: #818C9F;
+  font-size: 14px;
+  margin-left: 72px;
+  max-width: 440px;
+}
+
+a:link {
+    color: #818C9F;
+    text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: #5156E5;
+}
