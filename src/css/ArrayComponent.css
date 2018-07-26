@@ -3,7 +3,6 @@
 }
 
 
-
 .array-component{
   margin-top: 32px;
   flex-wrap: wrap;
@@ -47,9 +46,24 @@
 
 .filter-button:hover{
   color: #5156E5;
+  font-weight: 560;
 }
 
 .filter-button:active{
   color: #5156E5;
-  font-weight: 600;
+  font-weight: 560;
+}
+
+.filter-button-active{
+  width: 160px;
+  height: 16px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 560;
+  color: #5156E5;
+  margin-left: 40px;
+  margin-top: 24px;
+  margin-bottom:24px;
+  margin-right: 72px;
+  cursor: pointer;
 }
