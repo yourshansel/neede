@@ -1,0 +1,26 @@
+.header{
+  margin-top: 80px;
+  color: #212121;
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 32px;
+  margin-bottom: 8px;
+  margin-left: 72px;
+}
+
+.description{
+  color: #818C9F;
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 14px;
+  margin-left: 72px;
+  margin-right: 72px;
+}
+
+.header-hidden{
+  display: none;
+}
+
+.description-hidden{
+  display: none;
+}

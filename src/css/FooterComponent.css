@@ -24,12 +24,12 @@
   max-width: 440px;
 }
 
-a:link {
+.footer-component-description a:link {
     color: #818C9F;
     text-decoration: underline;
 }
 
 /* mouse over link */
-a:hover {
+.footer-component-description a:hover {
     color: #5156E5;
 }
