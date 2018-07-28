@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import ArrayComponent from './ArrayComponent.js';
+import MainComponent from './MainComponent.js';
 import './css/App.css'
+import Navigation from './Navigation.js';
 
 
 class App extends Component {
@@ -12,7 +13,8 @@ class App extends Component {
     render() {
       return(
       <div className="main-background">
-      <ArrayComponent/>
+      <Navigation/>
+      <MainComponent/>
       </div>
       )
     }
