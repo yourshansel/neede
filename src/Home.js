@@ -24,8 +24,8 @@ class Home extends Component {
     return (
 
       <div>
-      <p className="header">Design Resources</p>
-      <p className="description">A collection of useful online resources for designers.</p>
+      <div className="header">Design Resources</div>
+      <div className="description">A collection of useful online resources for designers.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

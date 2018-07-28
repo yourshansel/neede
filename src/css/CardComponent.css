@@ -6,14 +6,16 @@
   height: auto;
   min-height: 256px;
   width: 320px;
-  margin-right: 4%;
   margin-bottom: 80px;
   background-color: #F8F8F8;
   border-radius: 4px;
   box-shadow: 1px 1px 4px rgb(81,86,229, 0.3);
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 div.cardComponent:hover {
+  opacity: 1;
   box-shadow: 1px 2px 32px rgb(81,86,229, 0.3);
   position: relative;
   top: -5px;
@@ -50,4 +52,8 @@ div.cardComponent:hover {
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
   margin-bottom: 24px;
+}
+
+@media screen and (max-width : 720px){
+  .cardComponent{margin-bottom: 40px;}
 }

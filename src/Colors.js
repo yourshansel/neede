@@ -26,6 +26,8 @@ class Colors extends Component {
 
     return (
 
+
+
       <div>
       <p className="header">Colors</p>
       <p className="description">Resources for color inspiration, palette management and more.</p>

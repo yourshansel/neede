@@ -13,7 +13,6 @@ class AboutComponent extends Component {
       <div>
       <p className="header">About</p>
       <p className="description">Description about Neede.</p>
-
       </div>
     )}
   }

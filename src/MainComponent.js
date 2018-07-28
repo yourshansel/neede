@@ -17,7 +17,7 @@ import About from './About';
 import { Switch, Route, HashRouter } from 'react-router-dom';
 
 import data from './needelibrary.json';
-import HeaderComponent from './HeaderComponent.js';
+
 
 import './css/MainComponent.css';
 
