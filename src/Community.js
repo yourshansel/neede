@@ -27,8 +27,8 @@ class Community extends Component {
     return (
 
       <div>
-      <p className="header">Community</p>
-      <p className="description">Community Design Description.</p>
+      <div className="header">Community</div>
+      <div className="description">Community Design Description.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

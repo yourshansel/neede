@@ -27,8 +27,8 @@ class Typography extends Component {
     return (
 
       <div>
-      <p className="header">Typography</p>
-      <p className="description">Typography Design Description.</p>
+      <div className="header">Typography</div>
+      <div className="description">Typography Design Description.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

@@ -27,8 +27,8 @@ class Software extends Component {
     return (
 
       <div>
-      <p className="header">Software</p>
-      <p className="description">Software Design Description.</p>
+      <div className="header">Software</div>
+      <div className="description">Software Design Description.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

@@ -27,8 +27,8 @@ class UI extends Component {
     return (
 
       <div>
-      <p className="header">UI Design</p>
-      <p className="description">UI Design Description.</p>
+      <div className="header">UI Design</div>
+      <div className="description">UI Design Description.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

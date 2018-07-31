@@ -27,8 +27,8 @@ class Icons extends Component {
     return (
 
       <div>
-      <p className="header">Icons</p>
-      <p className="description">Icons Design Description.</p>
+      <div className="header">Icons</div>
+      <div className="description">Icons Design Description.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

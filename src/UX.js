@@ -27,8 +27,8 @@ class UX extends Component {
     return (
 
       <div>
-      <p className="header">UX Design</p>
-      <p className="description">UX Design Description.</p>
+      <div className="header">UX Design</div>
+      <div className="description">UX Design Description.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

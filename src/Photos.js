@@ -27,8 +27,8 @@ class Photos extends Component {
     return (
 
       <div>
-      <p className="header">Photos</p>
-      <p className="description">Photos Design Description.</p>
+      <div className="header">Photos</div>
+      <div className="description">Photos Design Description.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

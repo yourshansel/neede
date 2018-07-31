@@ -29,8 +29,8 @@ class Colors extends Component {
 
 
       <div>
-      <p className="header">Colors</p>
-      <p className="description">Resources for color inspiration, palette management and more.</p>
+      <div className="header">Colors</div>
+      <div className="description">Resources for color inspiration, palette management and more.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

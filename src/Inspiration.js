@@ -27,8 +27,8 @@ class Inspiration extends Component {
     return (
 
       <div>
-      <p className="header">Inspiration</p>
-      <p className="description">Inspiration Design Description.</p>
+      <div className="header">Inspiration</div>
+      <div className="description">Inspiration Design Description.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

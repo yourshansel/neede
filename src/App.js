@@ -2,18 +2,37 @@ import React, { Component } from 'react';
 import MainComponent from './MainComponent.js';
 import './css/App.css'
 import Navigation from './Navigation.js';
+import MobileHeader from './MobileHeader.js';
 
 
 class App extends Component {
   constructor() {
     super();
+    this.state = { isToggleOn: false }
+    this.menuToggle = this.menuToggle.bind(this);
+    this.componentDidMount = this.componentDidMount.bind(this);
   }
+
+  menuToggle() {
+    this.setState(prevState => ({
+        isToggleOn: !prevState.isToggleOn
+      }));
+    }
+
+  componentDidMount() {
+     window.scrollTo(0, 0);
+     this.setState ({
+       isToggleOn: false
+     })
+  }
+
 
 
     render() {
       return(
       <div className="main-background">
-      <Navigation/>
+      <MobileHeader menuToggle={this.menuToggle} isToggleOn={this.state.isToggleOn}/>
+      <Navigation isToggleOn={this.state.isToggleOn} componentDidMount={this.componentDidMount}/>
       <MainComponent/>
       </div>
       )
