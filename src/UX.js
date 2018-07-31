@@ -28,7 +28,7 @@ class UX extends Component {
 
       <div>
       <div className="header">UX Design</div>
-      <div className="description">UX Design Description.</div>
+      <div className="description">Articles on UX best practices and tools for user testing.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

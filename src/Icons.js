@@ -28,7 +28,7 @@ class Icons extends Component {
 
       <div>
       <div className="header">Icons</div>
-      <div className="description">Icons Design Description.</div>
+      <div className="description">Resources for icons, pattern organization and management.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

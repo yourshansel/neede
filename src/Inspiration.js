@@ -28,7 +28,7 @@ class Inspiration extends Component {
 
       <div>
       <div className="header">Inspiration</div>
-      <div className="description">Inspiration Design Description.</div>
+      <div className="description">Mobile & Web design trends, product inspirations and more. </div>
       <div className="array-component">{cardComps}</div>
 
       </div>

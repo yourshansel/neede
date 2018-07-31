@@ -28,7 +28,7 @@ class Photos extends Component {
 
       <div>
       <div className="header">Photos</div>
-      <div className="description">Photos Design Description.</div>
+      <div className="description">Resources for stock photos, image organization and more.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

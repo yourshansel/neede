@@ -28,7 +28,7 @@ class UI extends Component {
 
       <div>
       <div className="header">UI Design</div>
-      <div className="description">UI Design Description.</div>
+      <div className="description">Design templates, sketch resources and component libraries.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

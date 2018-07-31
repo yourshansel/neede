@@ -28,7 +28,7 @@ class Community extends Component {
 
       <div>
       <div className="header">Community</div>
-      <div className="description">Community Design Description.</div>
+      <div className="description">Showcase your work, ask questions and keep up with the latest news.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

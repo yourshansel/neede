@@ -28,7 +28,7 @@ class Typography extends Component {
 
       <div>
       <div className="header">Typography</div>
-      <div className="description">Typography Design Description.</div>
+      <div className="description">Font libraries, inspiration and all things font related.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>

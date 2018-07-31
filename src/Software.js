@@ -28,7 +28,7 @@ class Software extends Component {
 
       <div>
       <div className="header">Software</div>
-      <div className="description">Software Design Description.</div>
+      <div className="description">Digital design, prototyping and collaboration tools.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>
