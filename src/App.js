@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-import MainComponent from './MainComponent.js';
-import './css/App.css'
+import RoutingComponent from './RoutingComponent.js';
 import Navigation from './Navigation.js';
 import MobileHeader from './MobileHeader.js';
+import './css/App.css';
+
 
 
 class App extends Component {
@@ -33,7 +34,7 @@ class App extends Component {
       <div className="main-background">
       <MobileHeader menuToggle={this.menuToggle} isToggleOn={this.state.isToggleOn}/>
       <Navigation isToggleOn={this.state.isToggleOn} componentDidMount={this.componentDidMount}/>
-      <MainComponent/>
+      <RoutingComponent/>
       </div>
       )
     }

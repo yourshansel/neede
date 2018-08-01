@@ -3,10 +3,7 @@ import './css/MainComponent.css';
 
 class About extends Component {
 
-  constructor() {
-    super();
 
-  }
 
 
 

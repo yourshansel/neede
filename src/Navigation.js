@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './css/MainComponent.css';
 import IconComponent from './IconComponent.js';
-import { NavLink, Switch, HashRouter, Route } from 'react-router-dom';
+import { NavLink, Switch, HashRouter } from 'react-router-dom';
 
 
 
@@ -9,10 +9,6 @@ import { NavLink, Switch, HashRouter, Route } from 'react-router-dom';
 
 
 class Navigation extends Component {
-
-  constructor() {
-    super();
-  }
 
 
 
@@ -25,6 +21,7 @@ class Navigation extends Component {
           <Switch>
         <div>
           <NavLink exact to="/" className="nav-button" activeStyle={{fontWeight: '560',color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="home"/>Home</NavLink>
+          <NavLink to="/Favorites"  className="nav-button" activeStyle={{fontWeight: '560',color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="favorite"/>Favorites</NavLink>
           <NavLink to="/Colors"  className="nav-button" activeStyle={{fontWeight: '560',color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="color"/>Colors</NavLink>
           <NavLink to="/Community"  className="nav-button" activeStyle={{fontWeight: '560',color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="community"/>Community</NavLink>
           <NavLink to="/Icons"  className="nav-button" activeStyle={{fontWeight: '560',color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="icon"/>Icons</NavLink>

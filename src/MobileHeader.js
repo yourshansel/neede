@@ -3,9 +3,7 @@ import './css/MainComponent.css';
 import IconComponent from './IconComponent.js';
 
 class MobileHeader extends Component {
-  constructor() {
-    super();
-  }
+
 
 
 
