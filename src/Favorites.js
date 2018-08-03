@@ -1,28 +1,43 @@
 import React, { Component } from 'react';
 import './css/MainComponent.css';
 import CardComponent from './CardComponent.js';
-import { store } from './CardComponent.js';
-
-
+import { store } from './App.js';
+import { connect } from 'react-redux';
 
 class Favorites extends Component {
+    constructor(props) {
+        super(props);
+        this.favToggle = this.favToggle.bind(this);
+        this.state = {
+            storeData: []
+        }
+    }
 
-  constructor() {
-    super();
-    
+    componentWillReceiveProps(nextProps){
+        if(nextProps.storeData !== this.state.storeData){
+            this.setState({
+                storeData: nextProps.storeData
+            })
+        }
+    }
 
-  }
+    favToggle(){
+      this.setState(prevState => ({
+          fav: !prevState.fav
+        }));
+
+    }
+
+
+
+
 
 
   render() {
 
-
-
-    let cardComps = store.getState().map(data => {
-      return (
-        <CardComponent data = {data} />
-      )
-    })
+    
+        let cardComps = store.getState().map(data => {
+            return <CardComponent data = {data}  />});
 
     return (
 
@@ -36,4 +51,12 @@ class Favorites extends Component {
   }
 }
 
-export default Favorites;
+
+const mapStateToProps = state => {
+    return {
+        storeData: state
+    };
+};
+
+
+export default connect(mapStateToProps)(Favorites);

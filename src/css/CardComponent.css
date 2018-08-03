@@ -6,7 +6,7 @@
   height: auto;
   min-height: 256px;
   width: 320px;
-  margin-bottom: 80px;
+  margin-bottom: 64px;
   background-color: #F8F8F8;
   border-radius: 4px;
   box-shadow: 1px 1px 4px rgb(81,86,229, 0.3);
@@ -20,6 +20,7 @@
   position: relative;
   top: -5px;
 }
+
 
 .cardComponent:hover .CTA-container {
   display: block;
@@ -59,11 +60,12 @@
 }
 
 .CTA-container{
+  z-index: 1;
   display: none;
   position: absolute;
   width: 56px;
   height: 24px;
-  box-shadow: 1px 2px 8px rgb(81,86,229, 0.3);
+  box-shadow: 1px 2px 16px rgb(81,86,229, 0.3);
   margin-top : 8px;
   margin-left: 256px;
   border-radius: 2px;
@@ -85,6 +87,50 @@
   fill: #5156E5;
   cursor: pointer;
 }
+
+.CTA-icon-selected{
+  width: 16px;
+  height: 16px;
+  padding-left: 8px;
+  padding-top: 4px;
+  fill: #E45050;
+  cursor: pointer;
+  animation: fav 0.4s ease-out forwards;
+}
+
+
+
+.slideUp {
+    animation: slide-up 0.4s ease-out forwards;
+}
+
+
+@keyframes slide-up {
+    0% {
+       transform: translateY(8%);
+       opacity: 0;
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+
+    }
+
+
+
+
+@keyframes fav {
+      0% {
+       transform: translateY(8%);
+       opacity: 0;
+      }
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+      }
+
+      }
 
 
 

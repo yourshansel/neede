@@ -6,8 +6,8 @@ import data from './needelibrary.json';
 
 class Home extends Component {
 
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = { data }
   }
 

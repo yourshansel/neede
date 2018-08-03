@@ -3,7 +3,9 @@ import RoutingComponent from './RoutingComponent.js';
 import Navigation from './Navigation.js';
 import MobileHeader from './MobileHeader.js';
 import './css/App.css';
-
+import { createStore, applyMiddleware } from 'redux';
+import { createLogger } from 'redux-logger'
+import { rootReducer } from './CardComponent';
 
 
 class App extends Component {
@@ -34,10 +36,14 @@ class App extends Component {
       <div className="main-background">
       <MobileHeader menuToggle={this.menuToggle} isToggleOn={this.state.isToggleOn}/>
       <Navigation isToggleOn={this.state.isToggleOn} componentDidMount={this.componentDidMount}/>
-      <RoutingComponent/>
+      <RoutingComponent />
       </div>
       )
     }
   }
+
+  export const store = createStore(rootReducer, applyMiddleware(createLogger()));
+
+
 
 export default App;

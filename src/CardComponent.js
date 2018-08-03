@@ -1,47 +1,55 @@
 import React, { Component } from 'react';
 import './css/CardComponent.css';
 import IconComponent from './IconComponent.js';
-import { createStore } from 'redux';
+import { store } from './App.js'
 
-export const initialState = [];
+export function rootReducer(state = [], action) {
 
-function rootReducer(favArray = initialState, action) {
+
   switch(action.type) {
     case 'ADD_FAVORITE':
-    return favArray.concat([action.data]);
+    return [...state,action.data];
     case 'SUB_FAVORITE':
-    return favArray.filter(favArray => favArray.name !== action.data.name);
+    return [...state.filter(state => state.name !== action.data.name)];
     default:
-      return favArray;
+      return state;
   }
 }
 
-export const store = createStore(rootReducer, initialState);
+
+
+
+;
 
 class CardComponent extends Component {
   constructor(props) {
     super(props);
+    this.state = { fav : false };
     this.toggleFavorites = this.toggleFavorites.bind(this);
 
 
   }
+
+
 
   toggleFavorites(e) {
     if
     (store.getState().includes(this.props.data))
   {
     console.log(this.props.data.name + ' removed from favorites');
+    this.setState({fav : false})
     store.dispatch({type: 'SUB_FAVORITE', data: this.props.data});
-    console.log(store.getState());
+    // alert(this.props.data.name + ' has been removed from favorites');
 
   }
     else{
 
     console.log(this.props.data.name + ' added to favorites');
+    this.setState({fav : true})
     store.dispatch({type: 'ADD_FAVORITE', data: this.props.data});
-    console.log(store.getState());
+    // alert(this.props.data.name + ' has been added to favorites');
+  }
 
-    }
 
   }
 
@@ -49,10 +57,12 @@ class CardComponent extends Component {
   render() {
     let {name, description, url , screenshot} = this.props.data;
     return (
-      <div className="cardComponent">
+      <div className="cardComponent slideUp">
         <div className="CTA-container">
           <div className="CTA-wrapper">
-            <div onClick={() => this.toggleFavorites(this.props.data)}className="CTA-icon"><IconComponent icon="favorite"/></div>
+            <div onClick={() => this.toggleFavorites(this.props.data)}
+            className={this.state.fav ? "CTA-icon-selected" : "CTA-icon"}>
+            <IconComponent icon={this.state.fav ? "favorited" : "favorite"}/></div>
             <a href={url} className="CTA-icon" target="_blank"><IconComponent icon="link"/></a>
         </div>
       </div>
@@ -64,4 +74,8 @@ class CardComponent extends Component {
       );
     };
   };
-export default CardComponent;
+
+
+
+
+  export default CardComponent;
