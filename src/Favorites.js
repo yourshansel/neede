@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './css/MainComponent.css';
 import CardComponent from './CardComponent.js';
 import { store } from './App.js';
-import { connect } from 'react-redux';
 
 class Favorites extends Component {
     constructor(props) {
@@ -35,7 +34,7 @@ class Favorites extends Component {
 
   render() {
 
-    
+
         let cardComps = store.getState().map(data => {
             return <CardComponent data = {data}  />});
 
@@ -52,11 +51,7 @@ class Favorites extends Component {
 }
 
 
-const mapStateToProps = state => {
-    return {
-        storeData: state
-    };
-};
 
 
-export default connect(mapStateToProps)(Favorites);
+
+export default Favorites;

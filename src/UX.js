@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import './css/MainComponent.css';
 import CardComponent from './CardComponent.js';
-
+import { store } from './App.js';
 import data from './needelibrary.json';
+import { uniqBy, sortBy } from 'lodash';
 
 class UX extends Component {
 
@@ -17,8 +18,8 @@ class UX extends Component {
 
   render() {
 
-
-    let cardComps = this.state.data.filter(data => data.category === "UX").map(data => {
+    const mergedData=  uniqBy(store.getState().concat(this.state.data), "name");
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "UX").map(data => {
       return (
         <CardComponent data = {data} />
       )

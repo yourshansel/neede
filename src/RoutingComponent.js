@@ -12,6 +12,7 @@ import UI from './UI';
 import UX from './UX';
 import About from './About';
 import Favorites from './Favorites'
+import { connect } from 'react-redux';
 
 import { Switch, Route, HashRouter } from 'react-router-dom';
 
@@ -21,6 +22,9 @@ import './css/MainComponent.css';
 
 
 class RoutingComponent extends Component {
+  constructor(props){
+    super(props);
+  }
 
 
   render() {
@@ -48,4 +52,13 @@ class RoutingComponent extends Component {
   }
 }
 
-export default RoutingComponent;
+const mapStateToProps = state => {
+    return {
+        storeData: state
+    };
+};
+
+
+
+
+export default connect(mapStateToProps)(RoutingComponent);

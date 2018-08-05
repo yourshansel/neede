@@ -1,29 +1,46 @@
+/* Card Component Styles */
+
 .div {
   display: flex;
 }
 
+.slideUp {
+    animation: slide-up 0.4s ease-out forwards;
+}
+
+
 .cardComponent{
-  height: auto;
-  min-height: 256px;
+  height: 272px;
   width: 320px;
   margin-bottom: 64px;
-  background-color: #F8F8F8;
-  border-radius: 4px;
-  box-shadow: 1px 1px 4px rgb(81,86,229, 0.3);
+  background-color: #FFF;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgb(81,86,229, 0.1);
   margin-left: 16px;
   margin-right: 16px;
 }
 
 .cardComponent:hover {
   opacity: 1;
-  box-shadow: 1px 2px 32px rgb(81,86,229, 0.3);
+  box-shadow: 0px 2px 32px rgb(81,86,229, 0.1);
   position: relative;
   top: -5px;
-}
 
+
+}
 
 .cardComponent:hover .CTA-container {
   display: block;
+}
+
+
+.cardComponent_img {
+  height: 160px;
+  width: 100%;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom: 4px solid #F8F8F8;
+  margin-bottom: 16px;
 }
 
 .cardComponent_name {
@@ -51,13 +68,11 @@
   line-height: 1.6;
 }
 
-.cardComponent_img {
-  height: 160px;
-  width: 100%;
-  border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
-  margin-bottom: 24px;
-}
+
+
+
+/*Card Component CTA Styles */
+
 
 .CTA-container{
   z-index: 1;
@@ -98,12 +113,13 @@
   animation: fav 0.4s ease-out forwards;
 }
 
+/* Notification System */
 
-
-.slideUp {
-    animation: slide-up 0.4s ease-out forwards;
+.notification-system{
+  display: block;
 }
 
+/*  HELPER CSS */
 
 @keyframes slide-up {
     0% {
@@ -124,19 +140,33 @@
       0% {
        transform: translateY(8%);
        opacity: 0;
+       -webkit-transform: scale(1.0);
+       -moz-transition: scale(1.0);
+        transition: scale(1.0);
       }
+    50% {
+      -webkit-transform: scale(1.2);
+      -moz-transition: scale(1.2);
+       transition: scale(1.2);
+      transform-origin: center;
+    }
+
     100% {
         transform: translateY(0px);
         opacity: 1;
+        -webkit-transform: scale(1.0);
+        -moz-transition: scale(1.0);
+         transition: scale(1.0);
       }
 
       }
 
 
-
+/* Media Queries */
 
 
 @media screen and (max-width : 720px){
-  .cardComponent{margin-bottom: 40px;}
+  .cardComponent{margin-bottom: 24px;}
   .CTA-container{display:block;}
+  .notification-system{display:none;}
 }

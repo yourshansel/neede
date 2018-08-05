@@ -6,7 +6,7 @@ import './css/App.css';
 import { createStore, applyMiddleware } from 'redux';
 import { createLogger } from 'redux-logger'
 import { rootReducer } from './CardComponent';
-
+import { loadState, saveState } from './localStorage.js';
 
 class App extends Component {
   constructor() {
@@ -42,7 +42,14 @@ class App extends Component {
     }
   }
 
-  export const store = createStore(rootReducer, applyMiddleware(createLogger()));
+
+
+  const persistedState = loadState();
+  export const store = createStore(rootReducer, persistedState, applyMiddleware(createLogger()));
+
+  store.subscribe(() => {
+    saveState(store.getState());
+  });
 
 
 

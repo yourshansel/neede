@@ -12,9 +12,11 @@
 }
 
 
+/* Navigation Styles */
+
 .nav{
   width: 200px;
-  background-color: #fff;
+  background-color: #FFF;
   height: 100vh;
   position: sticky;
   top: 0px;
@@ -53,7 +55,7 @@
   fill: #5156E5;
 }
 
-.nav-icons{
+.spacer{
   margin-right: 8px;
 }
 
@@ -93,6 +95,8 @@
 }
 
 
+/* Text Styles */
+
 .header{
   color: #212121;
   font-family: Montserrat;
@@ -112,7 +116,7 @@
   margin-bottom: 24px;
 }
 
-
+/* Mobile Styles */
 
 .mobile-header{
   display:none;
@@ -129,13 +133,14 @@
   width: 16px;
   height: 16px;
   fill: #212121;
-  margin: 24px;
+  margin: 40px 24px;
 }
 
 .mobile-menu-off{
   width: 16px;
   height: 16px;
-  margin: 24px;
+  fill: #212121;
+  margin: 40px 24px;
 }
 
 .mobile-menu:hover{
@@ -144,10 +149,10 @@
 }
 
 .neede-logo{
-  width: 24px;
-  height: 24px;
-  background-color: #5156E5;
+  width: 40px;
+  height: 40px;
   margin-top: 24px;
+  fill: #212121;
   margin-bottom: 24px;
 }
 
@@ -161,6 +166,7 @@
   height: 100vh;
   top: 0px;
   box-shadow: 1px 0px 16px rgb(102,118,222,0.1);
+  animation: nav-on 0.25s ease-out forwards;
 }
 
 .mobile-overlay{
@@ -177,7 +183,22 @@
 }
 
 
+/* Helper */
 
+
+@keyframes nav-on {
+    0% {
+       transform: translateX(-100%);
+       opacity: 0;
+    }
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+
+    }
+
+/* Media Queries */
 
 
 @media screen and (max-width : 720px){

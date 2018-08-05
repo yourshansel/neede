@@ -1,25 +1,33 @@
 import React, { Component } from 'react';
 import './css/MainComponent.css';
 import CardComponent from './CardComponent.js';
-
+import { store } from './App.js';
 import data from './needelibrary.json';
+import { uniqBy, sortBy } from 'lodash';
+import { loadState, saveState } from './localStorage.js';
+
+
+
+
 
 class Home extends Component {
 
   constructor(props) {
     super(props);
-    this.state = { data }
-  }
-
+    this.state = { data };
+}
 
 
   render() {
 
-    let cardComps = this.state.data.map(data => {
+    const mergedData =  uniqBy(store.getState().concat(this.state.data), "name");
+    let cardComps = sortBy(mergedData, "name").map(data => {
       return (
         <CardComponent data = {data} />
       )
-    })
+    });
+
+
 
     return (
 

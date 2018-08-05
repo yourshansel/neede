@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './css/MainComponent.css';
 import IconComponent from './IconComponent.js';
+import LogoComponent from './LogoComponent.js';
 
 class MobileHeader extends Component {
 
@@ -15,7 +16,7 @@ class MobileHeader extends Component {
         <div className="mobile-container">
         <div onClick={this.props.menuToggle} className={this.props.isToggleOn ? "mobile-menu-off":"mobile-menu"}><IconComponent icon="menu"/></div>
         <div onClick={this.props.menuToggle} className={this.props.isToggleOn ? "mobile-overlay":"mobile-overlay-off"}/>
-        <div className="neede-logo"/>
+        <div className="neede-logo"><LogoComponent icon="needelogo"/></div>
         <div className="mobile-menu-off"/>
         </div>
       </div>
