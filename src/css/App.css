@@ -6,25 +6,8 @@
 
 
 
-@media screen and (max-width : 720px){
+@media screen and (max-width : 768px){
 
   .main-background{display:block;}
 
-}
-
-@media only screen
-and (min-width : 768px)
-and (max-width : 1024px)
-and (-webkit-min-device-pixel-ratio: 2) {
-
-  .main-background{display:block;}
-}
-
-
-@media only screen
-and (min-width : 768px)
-and (max-width : 1024px)
-and (-webkit-min-device-pixel-ratio: 1) {
-
-  .main-background{display:block;}
 }

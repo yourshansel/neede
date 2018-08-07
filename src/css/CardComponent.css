@@ -171,7 +171,8 @@
 /* Media Queries */
 
 
-@media screen and (max-width : 720px){
+
+@media screen and (max-width : 768px){
   .cardComponent{margin-bottom: 24px;}
   .CTA-container{display:block;}
   .notification-system{display:none;}
