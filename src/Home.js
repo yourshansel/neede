@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 import './css/MainComponent.css';
 import CardComponent from './CardComponent.js';
-import { store } from './App.js';
 import data from './needelibrary.json';
 import { uniqBy, sortBy } from 'lodash';
-import { loadState, saveState } from './localStorage.js';
-
+import { store } from './App.js';
 
 
 

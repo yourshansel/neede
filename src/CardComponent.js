@@ -31,7 +31,6 @@ export function rootReducer(state=[], action) {
 class CardComponent extends Component {
   constructor(props) {
     super(props);
-    // this._addNotification = this._addNotification.bind(this);
     this.toggleFavorites = this.toggleFavorites.bind(this);
 
 
@@ -41,29 +40,6 @@ class CardComponent extends Component {
     this._notificationSystem = this.refs.notificationSystem;
   }
 
-//
-//   _addNotification(event) {
-//     if (store.getState().includes(this.props.data))
-//     {
-//     this._notificationSystem.addNotification({
-//       message: this.props.data.name + ' has been removed from Favorites',
-//       autoDismiss: 3,
-//       level: 'info',
-//       position: 'tr',
-//       dismissible: 'click'
-//     });
-//   }
-//   else {
-//     this._notificationSystem.addNotification({
-//       message: this.props.data.name + ' has been added to Favorites',
-//       autoDismiss: 3,
-//       level: 'info',
-//       position: 'tr',
-//       dismissible: 'click'
-//     });
-//   }
-// }
-//
 
 
 
@@ -111,7 +87,7 @@ class CardComponent extends Component {
       fav = false;
     }
     return (
-      <div>
+      <div className="cardComponent_wrapper">
         <div className="notification-system"><NotificationSystem style={style} ref="notificationSystem"/></div>
           <div className="cardComponent slideUp">
             <div className="CTA-container">

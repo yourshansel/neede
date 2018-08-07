@@ -1,6 +1,6 @@
 /* Card Component Styles */
 
-.div {
+.cardComponent_wrapper{
   display: flex;
 }
 
@@ -10,7 +10,7 @@
 
 
 .cardComponent{
-  height: 272px;
+  height: auto;
   width: 320px;
   margin-bottom: 64px;
   background-color: #FFF;
@@ -30,6 +30,10 @@
 }
 
 .cardComponent:hover .CTA-container {
+  display: block;
+}
+
+.cardComponent:hover .cardComponent_category_wrapper{
   display: block;
 }
 

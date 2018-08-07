@@ -116,6 +116,43 @@
   margin-bottom: 24px;
 }
 
+.about-header {
+  color: #212121;
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 32px;
+  margin-bottom: 8px;
+  margin-left: 72px;
+}
+
+.about-description{
+  color: #818C9F;
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 14px;
+  margin-left: 72px;
+  margin-right: 120px;
+  margin-bottom: 16px;
+  max-width: 640px;
+  text-align: left;
+  line-height: 1.6;
+}
+
+.about-link {
+  color: #818C9F;
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.6;
+
+}
+
+.about-spacer {
+  height: 40px;
+}
+
+
 /* Mobile Styles */
 
 .mobile-header{
@@ -210,5 +247,7 @@
   .array-component{justify-content: space-evenly; margin: auto;}
   .nav-header{margin-top : 72px;}
   .nav-button{padding-top: 8px; padding-bottom: 8px;}
+  .about-header {text-align: center; margin-left: 48px; margin-right: 48px; margin-top: 40px; margin-bottom: 16px;}
+  .about-description {text-align: center; margin-left: 48px; margin-right: 48px; margin-bottom: 24px; line-height: 2}
 
 }
