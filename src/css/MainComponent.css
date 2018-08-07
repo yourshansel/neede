@@ -1,3 +1,5 @@
+@import 'fonts.css';
+
 .main-array{
   display: flex;
 }
@@ -24,8 +26,8 @@
 }
 
 .nav-header {
-  font-family: Montserrat;
-  font-weight: bold;
+  font-family: Montserrat-Bold;
+  /* font-weight: bold; */
   color: #212121;
   font-size: 16px;
   margin: 96px 72px 20px 40px;
@@ -37,7 +39,7 @@
   height: 16px;
   font-family: Montserrat;
   font-size: 12px;
-  font-weight: 400;
+  /* font-weight: 400; */
   color: #818C9F;
   margin-left: 40px;
   padding-top: 12px;
@@ -61,7 +63,7 @@
 
 .nav-copyright {
   font-family: Montserrat;
-  font-weight: 400;
+  /* font-weight: 400; */
   color: #818C9F;
   font-size: 10px;
   position: fixed;
@@ -76,11 +78,11 @@
 }
 
 .nav-footer-item{
-  font-family: Montserrat;
+  font-family: Montserrat-Medium;
   padding-right: 16px;
   padding-bottom: 16px;
   text-decoration: none;
-  font-weight: 560;
+  /* font-weight: 560; */
   font-size: 12px;
   color: #818C9F;
 }
@@ -99,8 +101,8 @@
 
 .header{
   color: #212121;
-  font-family: Montserrat;
-  font-weight: bold;
+  font-family: Montserrat-Bold;
+  /* font-weight: bold; */
   font-size: 32px;
   margin-top: 80px;
   margin-bottom: 8px;
@@ -110,7 +112,7 @@
 .description{
   color: #818C9F;
   font-family: Montserrat;
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 14px;
   margin-left: 72px;
   margin-bottom: 24px;
@@ -118,8 +120,8 @@
 
 .about-header {
   color: #212121;
-  font-family: Montserrat;
-  font-weight: bold;
+  font-family: Montserrat-Bold;
+  /* font-weight: bold; */
   font-size: 14px;
   margin-top: 32px;
   margin-bottom: 8px;
@@ -129,7 +131,7 @@
 .about-description{
   color: #818C9F;
   font-family: Montserrat;
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 14px;
   margin-left: 72px;
   margin-right: 120px;
@@ -142,7 +144,7 @@
 .about-link {
   color: #818C9F;
   font-family: Montserrat;
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 14px;
   line-height: 1.6;
 

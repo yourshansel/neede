@@ -1,3 +1,5 @@
+@import 'fonts.css';
+
 /* Card Component Styles */
 
 .cardComponent_wrapper{
@@ -48,8 +50,8 @@
 }
 
 .cardComponent_name {
-  font-family: Montserrat;
-  font-weight: 560;
+  font-family: Montserrat-Medium;
+  /* font-weight: 560; */
   font-size: 16px;
   color: #5156E5;
   padding-left: 24px;
@@ -63,7 +65,7 @@
 
 .cardComponent_description {
   font-family: Montserrat;
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 12px;
   color: #818C9F;
   padding-left: 24px;
