@@ -4,9 +4,9 @@
   "private": true,
   "homepage": "https://neede.co/neede",
   "dependencies": {
-    "gh-pages": "^1.0.0",
     "@redux-beacon/google-analytics": "^1.0.3",
     "bootstrap": "^4.1.2",
+    "gh-pages": "^1.2.0",
     "lodash": "^4.17.10",
     "lodash.includes": "^4.3.0",
     "react": "^16.4.1",
@@ -18,11 +18,12 @@
     "reactstrap": "^6.3.0",
     "redux": "^4.0.0",
     "redux-beacon": "^2.0.3",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "serve": "^9.4.0"
   },
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
