@@ -2,7 +2,7 @@
   "name": "needeapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://neede.co/neede",
+  "homepage": "https://yourshansel.github.io/neede",
   "dependencies": {
     "@redux-beacon/google-analytics": "^1.0.3",
     "bootstrap": "^4.1.2",
