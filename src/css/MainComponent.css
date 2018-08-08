@@ -102,6 +102,7 @@
   margin-top: 80px;
   margin-bottom: 8px;
   margin-left: 72px;
+  animation: appear 0.4s ease-out forwards;
 }
 
 .description{
@@ -110,6 +111,7 @@
   font-size: 14px;
   margin-left: 72px;
   margin-bottom: 24px;
+  animation: appear 0.4s ease-out forwards;
 }
 
 .about-header {
@@ -119,6 +121,7 @@
   margin-top: 32px;
   margin-bottom: 8px;
   margin-left: 72px;
+  animation: appear 0.4s ease-out forwards;
 }
 
 .about-description{
@@ -131,6 +134,7 @@
   max-width: 640px;
   text-align: left;
   line-height: 1.6;
+  animation: appear 0.4s ease-out forwards;
 }
 
 .about-link {
@@ -233,6 +237,17 @@
     }
 
     }
+
+@keyframes appear {
+    0% {
+       opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+    }
+
 
 /* Media Queries */
 
