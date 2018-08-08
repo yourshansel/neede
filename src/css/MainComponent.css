@@ -63,21 +63,20 @@
   font-family: Montserrat;
   color: #818C9F;
   font-size: 10px;
-  position: fixed;
-  bottom: 16px;
-  display: flex;
+  padding-top: 8px;
 }
 
 .nav-footer{
   margin-left: 40px;
   position: fixed;
   bottom: 32px;
-  display: flex;
+  display: block;
 }
 
 .nav-footer-item{
   font-family: Montserrat-Medium;
   padding-right: 16px;
+  padding-top: 16px;
   padding-bottom: 16px;
   text-decoration: none;
   font-size: 12px;
@@ -200,17 +199,21 @@
   animation: nav-on 0.25s ease-out forwards;
 }
 
+
+.mobile-overlay-off{
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  display: none;
+  position: fixed;
+}
+
 .mobile-overlay{
   z-index: 2;
   position: fixed;
   width: 100%;
   height: 100%;
   background-color: rgb(33,33,33,0.8);
-}
-
-.mobile-overlay-off{
-    display: none;
-    position: fixed;
 }
 
 
@@ -245,6 +248,5 @@ and (max-width : 1024px){
   .about-header {text-align: center; margin-left: 48px; margin-right: 48px; margin-top: 40px; margin-bottom: 16px;}
   .about-description {text-align: center; margin-left: 48px; margin-right: 48px; margin-bottom: 24px; line-height: 2}
   .nav-footer{bottom: 64px;}
-  .nav-copyright{bottom: 48px;}
 
 }
