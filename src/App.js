@@ -8,7 +8,7 @@ import { createLogger } from 'redux-logger'
 import { rootReducer } from './CardComponent';
 import { loadState, saveState } from './localStorage.js';
 import ReactGA from 'react-ga';
-ReactGA.initialize('UA-000000-01');
+ReactGA.initialize('UA-123483640-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 class App extends Component {
