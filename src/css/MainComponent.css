@@ -211,6 +211,8 @@
 .mobile-overlay{
   z-index: 2;
   position: fixed;
+  top: 0px;
+  left: 0px;
   width: 100%;
   height: 100%;
   background-color: rgb(33,33,33,0.8);
@@ -235,7 +237,8 @@
 /* Media Queries */
 
 
-@media screen and (min-width : 375px)
+@media screen
+and (min-width : 375px)
 and (max-width : 1024px){
 
   .nav {display:none;}
@@ -247,6 +250,5 @@ and (max-width : 1024px){
   .nav-button{padding-top: 8px; padding-bottom: 8px;}
   .about-header {text-align: center; margin-left: 48px; margin-right: 48px; margin-top: 40px; margin-bottom: 16px;}
   .about-description {text-align: center; margin-left: 48px; margin-right: 48px; margin-bottom: 24px; line-height: 2}
-  .nav-footer{bottom: 64px;}
 
 }
