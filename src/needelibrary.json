@@ -5,7 +5,7 @@
    "url": "https://color.adobe.com/",
    "description": "Create color schemes with the color wheel or browse thousands of color combinations.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-adobecolorcde8c1b615d1c365.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Colors",
@@ -13,7 +13,7 @@
    "url": "https://brandcolors.net/",
    "description": "The biggest collection of color codes used by popular brands all around the world.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-brandcolorsdb24569971b7d8d5.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Colors",
@@ -21,7 +21,7 @@
    "url": "https://www.colorhexa.com/",
    "description": "Encyclopedia on colors and generating matching color palettes for your designs.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-colorhexa4231141590c7c018.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Colors",
@@ -29,7 +29,7 @@
    "url": "https://colorhunt.co/",
    "description": "An open collection of curated color palette inspiration for your projects.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-colorhuntb67d45ecc30d314f.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Colors",
@@ -37,7 +37,7 @@
    "url": "http://color.method.ac/",
    "description": "A fun color matching game that trains your eye to learn about color pairing.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-colormethodb58c03f6aa62a5c5.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Colors",
@@ -45,7 +45,7 @@
    "url": "https://mycolor.space/",
    "description": "Generate color palettes and schemes for your designs from your favorite color.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-ColorSpace4fdafe59c8d9b221.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Colors",
@@ -53,7 +53,7 @@
    "url": "http://khroma.co/train/",
    "description": "Personalized Color Patette Generator powered by Artificial Intelligence.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-khroma9eab2e2fbeb58455.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Colors",
@@ -61,7 +61,7 @@
    "url": "http://sipapp.io/",
    "description": "Desktop app for color palette management, organization and exporting.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-SipApp5bb4d79b2eb75d08.jpg",
-   "price": "$"
+   "feature": true
  },
  {
    "category": "Colors",
@@ -69,7 +69,7 @@
    "url": "https://usecontrast.com/",
    "description": "Desktop app for creating more accessible color schemes following the WCAG.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-usecontraste67092671b215275.jpg",
-   "price": "$"
+   "feature": true
  },
  {
    "category": "Colors",
@@ -77,7 +77,7 @@
    "url": "https://webgradients.com/",
    "description": "Collection of linear gradients for use as content backdrop ready in multiple formats.",
    "screenshot": "https://picoolio.net/images/2018/07/24/colors-WebGradients1db40ee0d619c8d0.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -85,15 +85,15 @@
    "url": "https://www.behance.net/",
    "description": "Showcase and discover the latest work by creative professionals across industries.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-behance728c6c5859584056.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
    "name": "Designer News",
    "url": "https://www.designernews.co/",
-   "description": "Community for designersp to share latest news and events.",
+   "description": "Community for design and technology professionals to share latest news and events.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-designernews291b63fba03a0042.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -101,7 +101,7 @@
    "url": "http://www.designerstalk.com/forums/",
    "description": "Forum for designers from all disciplines to discuss about ideas and industry news.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-designerstalka9ea33dcedf95962.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -109,7 +109,7 @@
    "url": "https://dribbble.com/",
    "description": "Online community to showcase, discover work and connect with other designers.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-dribbble1b10a01de29720c7.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -117,7 +117,7 @@
    "url": "https://askplaybook.com/",
    "description": "Community for asking questions about career advice for and from designers.",
    "screenshot": "https://picoolio.net/images/2018/08/06/community-playbook81f1c709cf9d96cf.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -125,7 +125,7 @@
    "url": "https://producthunt.com",
    "description": "Discover new products released each day, explore and support upcoming products.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-Producthunt26cdc0ea80bf8c69.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -133,7 +133,7 @@
    "url": "https://www.smashingmagazine.com/",
    "description": "Editorial content, resources and for web developers and web designers.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-smashingmagazinebb8f72ccf872c6a8.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -141,7 +141,7 @@
    "url": "https://spectrum.chat/",
    "description": "A chatting and discussion platform with mutiple design and technology communities.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-spectrume616ab0ce6805cbf.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -149,7 +149,7 @@
    "url": "https://ux.stackexchange.com/",
    "description": "Question and Answer site for user experience researchers and experts.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-uxstackexchange292d341be74e5c40.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Community",
@@ -157,7 +157,7 @@
    "url": "https://www.webdesignernews.com/",
    "description": "Daily curated stories for web designers and developers.",
    "screenshot": "https://picoolio.net/images/2018/07/24/community-webdesignernewsdb3126c9509b9ff3.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -165,7 +165,7 @@
    "url": "https://applypixels.com/",
    "description": "Icon & UI templates for mobile and web design.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-applypixels51f0c1c7d79479f6.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -173,7 +173,7 @@
    "url": "https://feathericons.com/",
    "description": "Collection of simple open sources icons built for consistency and readability.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-feathericonsbe3c053ae9add6cc.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -181,7 +181,7 @@
    "url": "https://www.flaticon.com/",
    "description": "Vector based icons prepared in multiple formats.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-flaticon5e0f499dea7c496a.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -189,7 +189,7 @@
    "url": "https://fontawesome.com",
    "description": "Icon set and toolkit for Web design.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-fontawesomec5e64c9a9c100c58.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -197,7 +197,7 @@
    "url": "https://graphicburger.com/",
    "description": "Design resources for graphic and visual design.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-graphicburger86c696c601283b1e.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -205,7 +205,7 @@
    "url": "https://www.iconfinder.com/",
    "description": "Marketplace for designer icon packs.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-iconfinder317dcadbb1dd64c2.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -213,15 +213,15 @@
    "url": "https://geticonjar.com/",
    "description": "Organisational tool for your icon libraries.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-iconjaree0c1bfa9960e379.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
-   "name": "Iconmonstr",
+   "name": "iconmonstr",
    "url": "https://iconmonstr.com/",
    "description": "Simple icons all made by the same creator.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-iconmonstr64e30a1d787c5f3f.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -229,7 +229,7 @@
    "url": "https://www.mapbox.com/maki-icons/",
    "description": "Icon set made specifically for map designers.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-mapboxmakif9bb01ab87fa13b4.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -237,7 +237,7 @@
    "url": "https://thenounproject.com/",
    "description": "An extensive collection of icons for everything.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-nounprojectaf8ea35dc2d968b4.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Icons",
@@ -245,7 +245,7 @@
    "url": "http://svgicons.sparkk.fr/",
    "description": "Collection of SVG Icons specifically designed for the web.",
    "screenshot": "https://picoolio.net/images/2018/07/24/icons-svgicons127134147356fc53.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -253,7 +253,7 @@
    "url": "https://www.awwwards.com/",
    "description": "Best web design trends and competition.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-awwwards66830a66eaf65a34.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -261,7 +261,7 @@
    "url": "http://collectui.com/",
    "description": "Daily inspiration collected from the dailyui challenge archive.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-collectui3d868a255783f6bd.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -269,7 +269,7 @@
    "url": "http://www.goodweb.design/",
    "description": "Curated landing page designs organized by section.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-goodwebdesign2e084ba8d9f94195.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -277,7 +277,7 @@
    "url": "https://httpster.net/",
    "description": "Inspiration for websites around the world.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-httpster46851b6834493e34.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -285,7 +285,7 @@
    "url": "https://www.lapa.ninja/",
    "description": "Inspiration for landing page designs.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-lapaninja13879f4e6a2e41ae.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -293,7 +293,7 @@
    "url": "https://mobbin.design/",
    "description": "Hand-picked collection of some of the latest mobile design patterns.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-mobbindesignbef90380f27291d9.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -301,7 +301,7 @@
    "url": "http://nicelydone.club/products/",
    "description": "Product inspiration for design patterns.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-nicelydone7785ed0b9c10eb83.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -309,7 +309,7 @@
    "url": "https://www.prototypr.io/home/",
    "description": "Daily design news, inspirations and deals.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-prototyprb22b95114c54c99b.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -317,7 +317,7 @@
    "url": "https://reallygoodemails.com/",
    "description": "A curated ollection of really good email designs from various companies.",
    "screenshot": "https://picoolio.net/images/2018/08/06/inspiration-really-good-emailscfa76b6c052ac2a5.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -325,7 +325,7 @@
    "url": "https://siiimple.com/",
    "description": "Inspiration for minimalistically styled websites,",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-siiimple5da422405bab9b9b.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Inspiration",
@@ -333,7 +333,7 @@
    "url": "https://sitesee.co/",
    "description": "Curated gallery of beautiful modern websites.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-sitesee251e1886b98d6a38.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Photo",
@@ -341,7 +341,7 @@
    "url": "https://500px.com",
    "description": "Online community and marketplace for photography.",
    "screenshot": "https://picoolio.net/images/2018/07/24/photos-500pxc0c7bf0aa4c43c44.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Photo",
@@ -349,7 +349,7 @@
    "url": "https://barnimages.com/",
    "description": "Collection of free high-resolution photos for use in personal and commercial projects.",
    "screenshot": "https://picoolio.net/images/2018/07/24/photos-barnimagesbb71821665331c88.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Photo",
@@ -357,7 +357,7 @@
    "url": "https://deathtothestockphoto.com/",
    "description": "Photo resources for creatives.",
    "screenshot": "https://picoolio.net/images/2018/07/24/photos-deathtostock9bee6dd7eb239e7a.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Photo",
@@ -365,7 +365,7 @@
    "url": "https://www.flickr.com/",
    "description": "Image hosting site with online community.",
    "screenshot": "https://picoolio.net/images/2018/07/24/photos-flickr3d3c503264eb4a46.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Photo",
@@ -373,7 +373,7 @@
    "url": "https://www.pexels.com/",
    "description": "Free stock photos with Creative Commons Zero (CC0) License.",
    "screenshot": "https://picoolio.net/images/2018/07/24/photos-pexelsd72c538401b1b9cf.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Photo",
@@ -381,7 +381,7 @@
    "url": "https://www.pinterest.com",
    "description": "Discover and organize your photos with pinterest boards.",
    "screenshot": "https://picoolio.net/images/2018/07/24/photos-pinterest6048864926e6d561.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Photo",
@@ -389,7 +389,7 @@
    "url": "https://pixabay.com/",
    "description": "Royalty free stock photos and videos.",
    "screenshot": "https://picoolio.net/images/2018/07/24/photos-pixabay78de0f0e4381fc9b.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Photo",
@@ -397,7 +397,7 @@
    "url": "https://unsplash.com/",
    "description": "Curated collection of high resolution stock photos by photographers.",
    "screenshot": "https://picoolio.net/images/2018/07/24/photos-unsplashe7905d06eaa7d156.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -405,7 +405,7 @@
    "url": "https://www.goabstract.com/",
    "description": "Secure version control and design workflow management for Sketch files.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-goabstract5a8970b9ca1cf3a6.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -413,7 +413,7 @@
    "url": "https://affinity.serif.com/en-us/",
    "description": "Professional graphics and editing software.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-affinity2681cf864dc4b03c.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -421,7 +421,7 @@
    "url": "https://atomic.io/",
    "description": "Advanced interactive design software.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-atomic7632a92a51a27b3a.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -429,15 +429,15 @@
    "url": "https://evrybo.com/",
    "description": "Design collaboration tool and workflow management for teams.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-evrybo02572e12f2a26aa5.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
    "name": "Figma",
    "url": "https://www.figma.com/",
    "description": "Browser-based interface design tool for prototyping and gathering feedback.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-figma98693c8d7831eeb7.jpg",
-   "price": ""
+   "screenshot": "https://picoolio.net/images/2018/07/24/software-evrybo02572e12f2a26aa5.jpg",
+   "feature": true
  },
  {
    "category": "Software",
@@ -445,15 +445,15 @@
    "url": "https://framer.com/",
    "description": "Interactive design and prototyping tool. ",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-framerc4fc80bc9feefdae.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
-   "name": "InVision",
+   "name": "Invision",
    "url": "https://www.invisionapp.com/",
    "description": "Digital product design, workflow & collaboration tool.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-invisionappaa4fc6fc49a21e44.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -461,7 +461,7 @@
    "url": "https://marvelapp.com/",
    "description": "Collaborative design platform for digital design & prototyping.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-marvel6d40c56f26c17362.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -469,7 +469,7 @@
    "url": "https://niice.co",
    "description": "Collaboration tool for creative discussion within teams.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-niice86d4ffe5b883873f.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -477,7 +477,7 @@
    "url": "http://principleformac.com/",
    "description": "Prototyping tool for animated design and interaction.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-principle0b32197347aa6aec.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -485,7 +485,7 @@
    "url": "https://sketchapp.com/",
    "description": "Digital design toolkit for interface design.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-sketch7d8939f47e0fba48.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Software",
@@ -493,7 +493,7 @@
    "url": "https://zeplin.io/",
    "description": "Collaboration tool for UI designers & front-end developers.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-zeplin9bb004436156f291.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Typography",
@@ -501,7 +501,7 @@
    "url": "https://www.dafont.com/",
    "description": "An extensive collection of downloadable fonts for use in various projects.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-dafont7692c7a93f836abf.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Typography",
@@ -509,15 +509,15 @@
    "url": "https://fontsinuse.com/",
    "description": "An archive for discovering fonts used in various designs.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-fontsinuseafe14f81b5a992d8.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Typography",
    "name": "Glyphs",
    "url": "https://glyphsapp.com/",
-   "description": "Mac app for designing, editing and creating custom fonts.",
+   "description": "Desktop app for designing, editing and creating custom fonts.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-glyphs3f04ebeca9095554.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Typography",
@@ -525,7 +525,7 @@
    "url": "https://fonts.google.com/",
    "description": "Google's collection of over 800 free open-sourced fonts for use in your projects.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-googlefonts8b1b08edfcf16f14.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Typography",
@@ -533,7 +533,7 @@
    "url": "https://typekit.com/",
    "description": "Adobe's subscription service for fonts synced directly to softwares or websites.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-adobetypekit5dd80c4b99a3fe89.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Typography",
@@ -541,7 +541,7 @@
    "url": "http://typespiration.com/",
    "description": "Inspiration for web font combinations with ready-to-use HTML/CSS code.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-typespiration58464ee555cd71d6.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Typography",
@@ -549,7 +549,7 @@
    "url": "http://typographica.org/",
    "description": "Review and commentary on difference typefaces and typebooks.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-typographica44b4ed0646502f57.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "Typography",
@@ -557,7 +557,7 @@
    "url": "https://www.youworkforthem.com/fonts/",
    "description": "A marketplace for designer fonts in difference licensing options.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-youworkforthem507a2aa705ab6de0.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -565,7 +565,7 @@
    "url": "https://greatsimple.io/",
    "description": "UI resources for wireframes, graphic interfaces, icons and core elements.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-greatsimple20fb0ffbc81f3a41.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -573,7 +573,7 @@
    "url": "https://psddd.co/",
    "description": "Extensive collection of free resources - Photoshop, Sketch, Web & Mobile UI templates.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-psddd6df368bb85bea35f.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -581,7 +581,7 @@
    "url": "https://semantic-ui.com/",
    "description": "User interface component library for designers and web developers.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-semanticui09284dc1f02ed3d5.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -589,7 +589,7 @@
    "url": "https://lstore.graphics",
    "description": "Device mockups and scene creators for laying out your designs.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-lstore7bc23998b2b935ab.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -597,7 +597,7 @@
    "url": "https://www.sketchappsources.com/",
    "description": "Collection of free and premium Sketch resources for mobile, web, UI and UX design.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-sketchappsources668717c4b1c0a723.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -605,7 +605,7 @@
    "url": "https://sketch.fordesignrs.com/",
    "description": "Collection of Sketch resources - templates, plugins, tutorials and more.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-sketchfordesignersa9c9c2c366597bfe.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -613,7 +613,7 @@
    "url": "https://ui8.net/",
    "description": "Free and Paid UI Template and Wireframing Kits.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-ui808f1032e5b609e42.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -621,7 +621,7 @@
    "url": "https://uispace.net/",
    "description": "Collection of UI resources for Photoshop, Illustrator, Sketch & Web Design.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-uispacec8971a550679ceb8.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UI",
@@ -629,15 +629,15 @@
    "url": "https://www.uistencils.com/",
    "description": "Stationaries, tools and materials for sketching prototypes and wireframes.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ui-uistencilsfd101af7b7ec9a4a.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
    "name": "Dark Patterns",
    "url": "https://darkpatterns.org/",
-   "description": "Exposed decepting user interfaces and types of tricks used to deceive users.",
+   "description": "Website that exposes decepting user interfaces and types of tricks used to deceive users.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-darkpatternsebf847bffb575cc6.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -645,7 +645,7 @@
    "url": "http://www.designkit.org/",
    "description": "IDEO's platform to learn about human-centered design and best practices.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-designkitae0887e2a4718a51.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -653,7 +653,7 @@
    "url": "https://lawsofux.com/",
    "description": "Collection of maxims and principles for designing user interfaces.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-lawsofux68fea2f3fcaadc39.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -661,7 +661,7 @@
    "url": "http://littlebigdetails.com/",
    "description": "A collection of finer design details that leads to user delight in their user experience. ",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-littlebigdetails0bbc5d046000fce6.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -669,7 +669,7 @@
    "url": "https://lookback.io/",
    "description": "Tool for recording user interactions during user interviews and usability testing.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-lookback0d5e2da8df2aa983.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -677,7 +677,7 @@
    "url": "https://www.microsoft.com/design/inclusive/",
    "description": "Toolkit designed by Microsoft for designing for inclusivity and accesibility.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-microsoftinclusivedesigndbbadea48c8ad2e5.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -685,7 +685,7 @@
    "url": "https://www.usability.gov/",
    "description": "Lessons and resources for learning about UX best practices.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-usabilitygov46acb31ec7202918.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -693,7 +693,7 @@
    "url": "https://usabilityhub.com/",
    "description": "User testing platform to conduct usability testing and collect insights from your users.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-usabilityhub58e838fdba58fa0c.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -701,7 +701,7 @@
    "url": "https://www.useronboard.com/",
    "description": "Inspiration for designing the onboarding experience from some of the popular websites.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-useronboard40d72ebe1f7ea479.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -709,7 +709,7 @@
    "url": "https://www.usertesting.com/",
    "description": "User experience research and insights platform to improving the user experience.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-usertesting55f6537c04045ff5.jpg",
-   "price": ""
+   "feature": true
  },
  {
    "category": "UX",
@@ -717,6 +717,6 @@
    "url": "https://www.uxpin.com/",
    "description": "Platform for collaborating on design systems, prototyping and product development.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-uxpin8866c5b3090d28d3.jpg",
-   "price": ""
+   "feature": true
  }
 ]

@@ -82,7 +82,7 @@ class CardComponent extends Component {
 
 
   render() {
-    let {name, description, url , screenshot, fav} = this.props.data;
+    let {feature, name, description, url , screenshot, fav} = this.props.data;
     if (!fav) {
       fav = false;
     }
@@ -99,9 +99,13 @@ class CardComponent extends Component {
                   <a href={url} className="CTA-icon" target="_blank"><IconComponent icon="link"/></a>
               </div>
             </div>
-          <img src={screenshot} alt="" className="cardComponent_img"/>
-          <a href={url} className="cardComponent_name" target="_blank">{name}</a>
-          <p className="cardComponent_description">{description}</p>
+            <img src={screenshot} alt="" className="cardComponent_img"/>
+            <a href={url} className="cardComponent_name" target="_blank">{name}</a>
+            <p className="cardComponent_description">{description}</p>
+          <div className="feature-label-wrapper">
+            <div className={this.props.data.feature ? "hide-feature-label" : "show-feature-label"}>NEW!
+          </div>
+          </div>
         </div>
       </div>
       );
