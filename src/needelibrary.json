@@ -436,7 +436,7 @@
    "name": "Figma",
    "url": "https://www.figma.com/",
    "description": "Browser-based interface design tool for prototyping and gathering feedback.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-evrybo02572e12f2a26aa5.jpg",
+   "screenshot": "https://picoolio.net/images/2018/07/24/software-figma98693c8d7831eeb7.jpg",
    "price": ""
  },
  {
@@ -449,7 +449,7 @@
  },
  {
    "category": "Software",
-   "name": "Invision",
+   "name": "InVision",
    "url": "https://www.invisionapp.com/",
    "description": "Digital product design, workflow & collaboration tool.",
    "screenshot": "https://picoolio.net/images/2018/07/24/software-invisionappaa4fc6fc49a21e44.jpg",
@@ -515,7 +515,7 @@
    "category": "Typography",
    "name": "Glyphs",
    "url": "https://glyphsapp.com/",
-   "description": "Desktop app for designing, editing and creating custom fonts.",
+   "description": "Mac app for designing, editing and creating custom fonts.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-glyphs3f04ebeca9095554.jpg",
    "price": ""
  },
