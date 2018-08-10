@@ -19,7 +19,7 @@ class Inspiration extends Component {
   render() {
 
     const mergedData =  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, ["feature","name"]).filter(data => data.category === "Inspiration").map(data => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Inspiration").map(data => {
       return (
         <CardComponent data = {data} />
       )

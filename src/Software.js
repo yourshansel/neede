@@ -20,7 +20,7 @@ class Software extends Component {
   render() {
 
     const mergedData=  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, ["feature","name"]).filter(data => data.category === "Software").map(data => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Software").map(data => {
       return (
         <CardComponent data = {data} />
       )

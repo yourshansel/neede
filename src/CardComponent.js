@@ -102,10 +102,6 @@ class CardComponent extends Component {
             <img src={screenshot} alt="" className="cardComponent_img"/>
             <a href={url} className="cardComponent_name" target="_blank">{name}</a>
             <p className="cardComponent_description">{description}</p>
-          <div className="feature-label-wrapper">
-            <div className={this.props.data.feature ? "hide-feature-label" : "show-feature-label"}>NEW!
-          </div>
-          </div>
         </div>
       </div>
       );
