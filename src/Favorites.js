@@ -32,6 +32,7 @@ class Favorites extends Component {
 
 
 
+
   render() {
 
 

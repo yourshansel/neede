@@ -82,10 +82,12 @@ class CardComponent extends Component {
 
 
   render() {
-    let {feature, name, description, url , screenshot, fav} = this.props.data;
+    let {name, description, url , screenshot, fav} = this.props.data;
+
     if (!fav) {
-      fav = false;
-    }
+  fav = false;
+}
+
     return (
       <div className="cardComponent_wrapper">
         <div className="notification-system"><NotificationSystem style={style} ref="notificationSystem"/></div>

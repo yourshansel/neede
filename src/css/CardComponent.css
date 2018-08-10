@@ -10,28 +10,6 @@
     animation: slide-up 0.4s ease-out forwards;
 }
 
-.feature-label-wrapper{
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin: 8px;
-    background-color: #5156E5;
-    border-radius: 4px;
-}
-
-.show-feature-label {
-    display: block;
-    margin: 4px 8px;
-    font-family: Montserrat;
-    font-size: 12px;
-    color: #FFF;
-
-}
-
-.hide-feature-label {
-    display: none;
-}
-
 .cardComponent{
   height: auto;
   width: 320px;

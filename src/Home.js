@@ -19,7 +19,7 @@ class Home extends Component {
   render() {
 
     const mergedData =  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").map(data => {
+    let cardComps = sortBy(mergedData, ["feature", "name"]).map(data => {
       return (
         <CardComponent data = {data} />
       )
@@ -33,6 +33,7 @@ class Home extends Component {
       <div className="header">Design Resources</div>
       <div className="description">A collection of useful online resources for designers.</div>
       <div className="array-component">{cardComps}</div>
+
 
       </div>
     )
