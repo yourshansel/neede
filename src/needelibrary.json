@@ -232,6 +232,13 @@
  },
  {
    "category": "Inspiration",
+   "name": "Empty States",
+   "url": "http://emptystat.es/",
+   "description": "Inspiration website for different types of design for empty states.",
+   "screenshot": "https://picoolio.net/images/2018/08/11/inspiration-empty-statesd6e6e12770c8f75d.jpg"
+ },
+ {
+   "category": "Inspiration",
    "name": "Good Web Design",
    "url": "http://www.goodweb.design/",
    "description": "Curated landing page designs organized by section.",
@@ -479,7 +486,7 @@
    "category": "Typography",
    "name": "Typographica",
    "url": "http://typographica.org/",
-   "description": "Review and commentary on difference typefaces and typebooks.",
+   "description": "Review and commentary on different typefaces and typebooks.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-typographica44b4ed0646502f57.jpg"
  },
  {
@@ -513,9 +520,9 @@
  {
    "category": "UI",
    "name": "Simple Mockups",
-   "url": "https://lstore.graphics",
+   "url": "https://lstore.graphics/simplemockups/",
    "description": "Device mockups and scene creators for laying out your designs.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-lstore7bc23998b2b935ab.jpg"
+   "screenshot": "https://picoolio.net/images/2018/08/11/ui-lstore2567fdb96a6b946b2.jpg"
  },
  {
    "category": "UI",
