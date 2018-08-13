@@ -225,6 +225,13 @@
  },
  {
    "category": "Inspiration",
+   "name": "BP&O",
+   "url": "https://bpando.org/",
+   "description": "Articles and reviews on branding, packaging and logo design works.",
+   "screenshot": "https://picoolio.net/images/2018/08/13/inspiration-bpando83800e194f9b6a33.jpg"
+ },
+ {
+   "category": "Inspiration",
    "name": "Collect UI",
    "url": "http://collectui.com/",
    "description": "Daily inspiration collected from the dailyui challenge archive.",
@@ -278,6 +285,13 @@
    "url": "https://www.prototypr.io/home/",
    "description": "Daily design news, inspirations and deals.",
    "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-prototyprb22b95114c54c99b.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Pttrns",
+   "url": "https://pttrns.com/",
+   "description": "A collection of some of the finest mobile design patterns across iOS and Android.",
+   "screenshot": "https://picoolio.net/images/2018/08/13/inspiration-pttrns4daa11941f63d190.jpg"
  },
  {
    "category": "Inspiration",
@@ -414,6 +428,13 @@
  },
  {
    "category": "Software",
+   "name": "Material Design",
+   "url": "https://material.io",
+   "description": "Google's design system that covers a wide spectrum of digital design principles and guidelines.",
+   "screenshot": "https://picoolio.net/images/2018/08/13/software-material-designcb7e92897884d67d.jpg"
+ },
+ {
+   "category": "Software",
    "name": "Niice",
    "url": "https://niice.co",
    "description": "Collaboration tool for creative discussion within teams.",
@@ -486,7 +507,7 @@
    "category": "Typography",
    "name": "Typographica",
    "url": "http://typographica.org/",
-   "description": "Review and commentary on different typefaces and typebooks.",
+   "description": "Review and commentary on difference typefaces and typebooks.",
    "screenshot": "https://picoolio.net/images/2018/07/24/typography-typographica44b4ed0646502f57.jpg"
  },
  {
@@ -520,9 +541,9 @@
  {
    "category": "UI",
    "name": "Simple Mockups",
-   "url": "https://lstore.graphics/simplemockups/",
+   "url": "https://lstore.graphics",
    "description": "Device mockups and scene creators for laying out your designs.",
-   "screenshot": "https://picoolio.net/images/2018/08/11/ui-lstore2567fdb96a6b946b2.jpg"
+   "screenshot": "https://picoolio.net/images/2018/07/24/ui-lstore7bc23998b2b935ab.jpg"
  },
  {
    "category": "UI",
