@@ -23,6 +23,7 @@ class CarbonAd extends Component{
 
     return(
       <div className="carbon-ad-wrapper">
+      <div className="carbon-ad-tag">Sponsored</div>
       <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CK7DVK7I&placement=needeco" id="_carbonads_js"></script>
       </div>
     )
