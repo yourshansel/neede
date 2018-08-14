@@ -4,6 +4,8 @@ import CardComponent from './CardComponent.js';
 import { store } from './App.js';
 import data from './needelibrary.json';
 import { uniqBy, sortBy } from 'lodash';
+import CarbonAd from './CarbonAd.js';
+
 
 class Icons extends Component {
 
@@ -30,7 +32,7 @@ class Icons extends Component {
       <div>
       <div className="header">Icons</div>
       <div className="description">Resources for icons, pattern organization and management.</div>
-      <div className="array-component">{cardComps}</div>
+      <div className="array-component">{cardComps}<CarbonAd/></div>
 
       </div>
     )

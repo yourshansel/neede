@@ -4,6 +4,8 @@ import CardComponent from './CardComponent.js';
 import { store } from './App.js';
 import data from './needelibrary.json';
 import { uniqBy, sortBy } from 'lodash';
+import CarbonAd from './CarbonAd.js';
+
 
 
 
@@ -32,7 +34,7 @@ class Photos extends Component {
       <div>
       <div className="header">Photos</div>
       <div className="description">Resources for stock photos, image organization and more.</div>
-      <div className="array-component">{cardComps}</div>
+      <div className="array-component">{cardComps}<CarbonAd/></div>
 
       </div>
     )

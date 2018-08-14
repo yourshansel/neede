@@ -4,6 +4,8 @@ import CardComponent from './CardComponent.js';
 import { store } from './App.js';
 import data from './needelibrary.json';
 import { uniqBy, sortBy } from 'lodash';
+import CarbonAd from './CarbonAd.js';
+
 
 class UX extends Component {
 
@@ -30,7 +32,7 @@ class UX extends Component {
       <div>
       <div className="header">UX Design</div>
       <div className="description">Articles on UX best practices and tools for user testing.</div>
-      <div className="array-component">{cardComps}</div>
+      <div className="array-component">{cardComps}<CarbonAd/></div>
 
       </div>
     )

@@ -33,7 +33,7 @@ class Home extends Component {
       <div>
       <div className="header">Design Resources</div>
       <div className="description">A collection of useful online resources for designers.</div>
-      <div className="array-component"><CarbonAd/>{cardComps}</div>
+      <div className="array-component">{cardComps}<CarbonAd/></div>
 
 
       </div>

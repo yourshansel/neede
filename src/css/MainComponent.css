@@ -283,13 +283,14 @@ and (max-width : 1024px){
 .carbon-ad-wrapper{
   display: block;
   animation: slide-up 0.4s ease-out forwards;
-  height: 272px;
+  height: auto;
   width: 320px;
   background-color: #FFF;
   border-radius: 8px;
   box-shadow: 0px 2px 8px rgb(81,86,229, 0.1);
   margin-left: 16px;
   margin-right: 16px;
+  margin-bottom: 64px;
 }
 
 .carbon-ad-wrapper:hover {

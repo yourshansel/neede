@@ -4,6 +4,8 @@ import CardComponent from './CardComponent.js';
 import { store } from './App.js';
 import data from './needelibrary.json';
 import { uniqBy, sortBy } from 'lodash';
+import CarbonAd from './CarbonAd.js';
+
 
 
 class Software extends Component {
@@ -31,7 +33,7 @@ class Software extends Component {
       <div>
       <div className="header">Software</div>
       <div className="description">Digital design, prototyping and collaboration tools.</div>
-      <div className="array-component">{cardComps}</div>
+      <div className="array-component">{cardComps}<CarbonAd/></div>
 
       </div>
     )

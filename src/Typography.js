@@ -4,6 +4,8 @@ import CardComponent from './CardComponent.js';
 import { store } from './App.js';
 import data from './needelibrary.json';
 import { uniqBy, sortBy } from 'lodash';
+import CarbonAd from './CarbonAd.js';
+
 
 
 class Typography extends Component {
@@ -33,7 +35,7 @@ class Typography extends Component {
       <div>
       <div className="header">Typography</div>
       <div className="description">Font libraries, inspiration and all things font related.</div>
-      <div className="array-component">{cardComps}</div>
+      <div className="array-component">{cardComps}<CarbonAd/></div>
 
       </div>
     )

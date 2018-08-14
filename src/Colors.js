@@ -3,6 +3,7 @@ import './css/MainComponent.css';
 import CardComponent from './CardComponent.js';
 import { uniqBy, sortBy } from 'lodash';
 import { store } from './App.js';
+import CarbonAd from './CarbonAd.js';
 
 import data from './needelibrary.json';
 
@@ -33,7 +34,7 @@ class Colors extends Component {
       <div>
       <div className="header">Colors</div>
       <div className="description">Resources for color inspiration, palette management and more.</div>
-      <div className="array-component">{cardComps}</div>
+      <div className="array-component">{cardComps}<CarbonAd/></div>
 
       </div>
     )
