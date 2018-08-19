@@ -35,7 +35,7 @@ class Navigation extends Component {
 
           <div className="nav-footer">
             <NavLink to="/About"  className="nav-footer-item" onClick={() => this.props.componentDidMount()}>About</NavLink>
-            <a href="mailto:neede.design@gmail.com" className="nav-footer-item">Contact</a>
+            <a href="mailto:yourshansel@gmail.com" className="nav-footer-item">Contact</a>
             <div className="nav-copyright">© 2018 Neede Design.</div>
           </div>
 
