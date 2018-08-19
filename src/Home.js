@@ -5,8 +5,7 @@ import data from './needelibrary.json';
 import { uniqBy, sortBy } from 'lodash';
 import { store } from './App.js';
 import CarbonAd from './CarbonAd.js';
-
-
+import EmailForm from './EmailForm.js';
 
 
 class Home extends Component {
