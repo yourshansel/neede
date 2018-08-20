@@ -11,8 +11,6 @@ class CarbonAd extends Component{
         carbonAdscript.src = "//cdn.carbonads.com/carbon.js?serve=CK7DVK7I&placement=needeco";
         carbonAdscript.async = true;
         document.body.appendChild(carbonAdscript);
-
-    console.log("updating")
   }
 
 

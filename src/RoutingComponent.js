@@ -22,9 +22,7 @@ import './css/MainComponent.css';
 
 
 class RoutingComponent extends Component {
-  constructor(props){
-    super(props);
-  }
+
 
 
   render() {

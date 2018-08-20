@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './css/MainComponent.css';
 import IconComponent from './IconComponent.js';
 import { NavLink, Switch, HashRouter } from 'react-router-dom';
+import Analytics from 'react-router-ga';
 
 
 
@@ -18,6 +19,7 @@ class Navigation extends Component {
       <div className={this.props.isToggleOn ? "nav-on":"nav"}>
         <div className="nav-header">Categories</div>
         <HashRouter>
+        <Analytics id='UA-123483640-1' debug>
           <Switch>
         <div>
 
@@ -45,6 +47,7 @@ class Navigation extends Component {
 
           </div>
           </Switch>
+          </Analytics>
           </HashRouter>
         </div>
 
