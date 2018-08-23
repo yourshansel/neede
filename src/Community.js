@@ -22,18 +22,21 @@ class Community extends Component {
   render() {
 
     const mergedData =  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Community").map(data => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Community").map((data, index) => {
       return (
-        <CardComponent data = {data} />
+        <CardComponent data = {data} key = {index} />
       )
     })
+
+    cardComps.splice(8, 0, <CarbonAd/>);
+
 
     return (
 
       <div>
       <div className="header">Community</div>
       <div className="description">Showcase your work, ask questions and keep up with the latest news.</div>
-      <div className="array-component">{cardComps}<CarbonAd/></div>
+      <div className="array-component">{cardComps}</div>
 
       </div>
     )

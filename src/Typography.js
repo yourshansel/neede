@@ -24,18 +24,21 @@ class Typography extends Component {
   render() {
 
     const mergedData=  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Typography").map(data => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Typography").map((data, index) => {
       return (
-        <CardComponent data = {data} />
+        <CardComponent data = {data} key = {index}/>
       )
     })
+
+    cardComps.splice(8, 0, <CarbonAd/>);
+
 
     return (
 
       <div>
       <div className="header">Typography</div>
       <div className="description">Font libraries, inspiration and all things font related.</div>
-      <div className="array-component">{cardComps}<CarbonAd/></div>
+      <div className="array-component">{cardComps}</div>
 
       </div>
     )

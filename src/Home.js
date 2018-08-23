@@ -7,6 +7,8 @@ import { store } from './App.js';
 import CarbonAd from './CarbonAd.js';
 
 
+
+
 class Home extends Component {
 
   constructor(props) {
@@ -18,11 +20,19 @@ class Home extends Component {
   render() {
 
     const mergedData =  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").map(data => {
+    let cardComps = sortBy(mergedData, "name").map((data, index) =>
+      {
       return (
-        <CardComponent data = {data} />
+
+        <CardComponent data = {data} key={index}/>
       )
     });
+
+    cardComps.splice(8, 0, <CarbonAd/>);
+
+
+
+
 
 
 
@@ -31,7 +41,7 @@ class Home extends Component {
       <div>
       <div className="header">Design Resources</div>
       <div className="description">A collection of useful online resources for designers.</div>
-      <div className="array-component">{cardComps}<CarbonAd/></div>
+      <div className="array-component">{cardComps}</div>
 
 
       </div>

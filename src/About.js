@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import './css/MainComponent.css';
-import EmailForm from './EmailForm.js';
-
 
 
 

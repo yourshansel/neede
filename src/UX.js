@@ -21,18 +21,21 @@ class UX extends Component {
   render() {
 
     const mergedData=  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "UX").map(data => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "UX").map((data, index) => {
       return (
-        <CardComponent data = {data} />
+        <CardComponent data = {data} key = {index} />
       )
     })
+
+    cardComps.splice(8, 0, <CarbonAd/>);
+
 
     return (
 
       <div>
       <div className="header">UX Design</div>
       <div className="description">Articles on UX best practices and tools for user testing.</div>
-      <div className="array-component">{cardComps}<CarbonAd/></div>
+      <div className="array-component">{cardComps}</div>
 
       </div>
     )

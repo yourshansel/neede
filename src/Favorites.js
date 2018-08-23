@@ -36,8 +36,8 @@ class Favorites extends Component {
   render() {
 
 
-        let cardComps = store.getState().map(data => {
-            return <CardComponent data = {data}  />});
+        let cardComps = store.getState().map((data, index) => {
+            return <CardComponent data = {data} key = {index}  />});
 
     return (
 

@@ -21,11 +21,14 @@ class Colors extends Component {
   render() {
 
     const mergedData =  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Colors").map(data => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Colors").map((data, index) => {
       return (
-        <CardComponent data = {data} />
+        <CardComponent data = {data} key = {index} />
       )
     })
+
+    cardComps.splice(8, 0, <CarbonAd/>);
+
 
     return (
 
@@ -34,7 +37,7 @@ class Colors extends Component {
       <div>
       <div className="header">Colors</div>
       <div className="description">Resources for color inspiration, palette management and more.</div>
-      <div className="array-component">{cardComps}<CarbonAd/></div>
+      <div className="array-component">{cardComps}</div>
 
       </div>
     )

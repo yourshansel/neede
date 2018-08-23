@@ -23,18 +23,21 @@ class Photos extends Component {
   render() {
 
     const mergedData=  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Photo").map(data => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Photo").map((data, index) => {
       return (
-        <CardComponent data = {data} />
+        <CardComponent data = {data} key = {index} />
       )
     })
+
+    cardComps.splice(8, 0, <CarbonAd/>);
+
 
     return (
 
       <div>
       <div className="header">Photos</div>
       <div className="description">Resources for stock photos, image organization and more.</div>
-      <div className="array-component">{cardComps}<CarbonAd/></div>
+      <div className="array-component">{cardComps}</div>
 
       </div>
     )
