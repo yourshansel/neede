@@ -12,6 +12,7 @@ import UI from './UI';
 import UX from './UX';
 import About from './About';
 import Favorites from './Favorites'
+import Branding from './Branding';
 import { connect } from 'react-redux';
 
 import { Switch, Route, HashRouter } from 'react-router-dom';
@@ -33,6 +34,7 @@ class RoutingComponent extends Component {
       <Switch>
       <Route exact path="/"  component={Home} />
       <Route exact path="/Favorites" component={Favorites} />
+      <Route exact path="/Branding" component={Branding} />
       <Route exact path="/Colors" component={Colors} />
       <Route exact path="/Community" component={Community} />
       <Route exact path="/Icons" component={Icons} />

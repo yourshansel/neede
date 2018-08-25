@@ -225,13 +225,6 @@
  },
  {
    "category": "Inspiration",
-   "name": "BP&O",
-   "url": "https://bpando.org/",
-   "description": "Articles and reviews on branding, packaging and logo design works.",
-   "screenshot": "https://picoolio.net/images/2018/08/13/inspiration-bpando83800e194f9b6a33.jpg"
- },
- {
-   "category": "Inspiration",
    "name": "Collect UI",
    "url": "http://collectui.com/",
    "description": "Daily inspiration collected from the dailyui challenge archive.",
@@ -656,5 +649,54 @@
    "url": "https://www.uxpin.com/",
    "description": "Platform for collaborating on design systems, prototyping and product development.",
    "screenshot": "https://picoolio.net/images/2018/07/24/ux-uxpin8866c5b3090d28d3.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Design Principles",
+   "url": "https://principles.design/",
+   "description": "A collection of articles and examples of Design Principles that make a good product.",
+   "screenshot": "https://picoolio.net/images/2018/08/25/ux-designprinciplesa4916d8e83431efa.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Make My Persona",
+   "url": "https://www.hubspot.com/make-my-persona",
+   "description": "Template tool to help you build your own user persona easily.",
+   "screenshot": "https://picoolio.net/images/2018/08/25/ux-make-my-persona38b1b5fe652d3b38.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Picular",
+   "url": "https://picular.co",
+   "description": "Interesting website to search for colors with keywords like searching on Google.",
+   "screenshot": "https://picoolio.net/images/2018/08/25/colors-picularbff38da5662cc32e.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "BP&O",
+   "url": "https://bpando.org/",
+   "description": "Articles and reviews on branding, packaging and logo design works.",
+   "screenshot": "https://picoolio.net/images/2018/08/13/inspiration-bpando83800e194f9b6a33.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Brand New",
+   "url": "https://www.underconsideration.com/brandnew",
+   "description": "Editorial on corporate logo identity.",
+   "screenshot": "https://picoolio.net/images/2018/08/25/branding-brand-new1d984a32d0c4e0ec.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Find Guidelines",
+   "url": "http://www.findguidelin.es/",
+   "description": "Search brand assets and web guidelines of the most famous brands.",
+   "screenshot": "https://picoolio.net/images/2018/08/25/branding-find-guidelines003fc25add6e5091.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Identity Designed",
+   "url": "https://identitydesigned.com/",
+   "description": "A compilation of visual identities from design studios all over the world.",
+   "screenshot": "https://picoolio.net/images/2018/08/25/branding-identitiy-designed1f23a001db8d176b.jpg"
  }
 ]
