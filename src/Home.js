@@ -28,7 +28,7 @@ class Home extends Component {
       )
     });
 
-    cardComps.splice(8, 0, <CarbonAd/>);
+    cardComps.splice(5, 0, <CarbonAd/>);
 
 
 
