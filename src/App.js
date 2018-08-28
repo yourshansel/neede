@@ -10,8 +10,7 @@ import { loadState, saveState } from './localStorage.js';
 import ReactGA from 'react-ga';
 
 
-ReactGA.initialize('UA-123483640-1');
-ReactGA.pageview(window.location.pathname + window.location.search);
+
 
 class App extends Component {
   constructor() {
