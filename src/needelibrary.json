@@ -694,9 +694,51 @@
  },
  {
    "category": "Branding",
-   "name": "Identity Designed",
+   "name": "Identiy Designed",
    "url": "https://identitydesigned.com/",
    "description": "A compilation of visual identities from design studios all over the world.",
    "screenshot": "https://picoolio.net/images/2018/08/25/branding-identitiy-designed1f23a001db8d176b.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Logo by ShapeFactory",
+   "url": "https://logo.shapefactory.co/",
+   "description": "Create simple hassle-free logo designs quickly.",
+   "screenshot": "https://picoolio.net/images/2018/09/02/branding-logo-shapefactoryf622e7c00a2d9cdf.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Instant Logo Search",
+   "url": "http://instantlogosearch.com",
+   "description": "Search and download logos from the most popular brands.",
+   "screenshot": "https://picoolio.net/images/2018/09/02/branding-instant-logo-search3825691c0c5baf81.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Draw IO",
+   "url": "https://www.draw.io/",
+   "description": "Create flowcharts and wireframes easily with this free online diagram software.",
+   "screenshot": "https://picoolio.net/images/2018/09/02/ux-draw-io98038b0ab11d3a6d.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Brand New Roman",
+   "url": "https://www.brandnewroman.com",
+   "description": "Typography style made up by brand logos.",
+   "screenshot": "https://picoolio.net/images/2018/09/02/typography-brand-new-roman1cadd05d0f69962a.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Archetype",
+   "url": "https://archetypeapp.com/",
+   "description": "Tool for creating consistent typography styles across projects.",
+   "screenshot": "https://picoolio.net/images/2018/09/02/typography-archetypeappe530e1ae145dc1a3.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "UnDraw",
+   "url": "https://undraw.co",
+   "description": "A collection of beautiful illustrations that you can use for your projects for free.",
+   "screenshot": "https://picoolio.net/images/2018/09/02/ui-unDrawed103a347bbe00cd.jpg"
  }
 ]
