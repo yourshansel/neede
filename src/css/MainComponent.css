@@ -4,6 +4,10 @@
   display: flex;
 }
 
+.header-2{
+  font-size: 24px;
+  color: #12122;
+}
 
 .array-component{
   margin-top: 32px;
