@@ -740,5 +740,26 @@
    "url": "https://undraw.co",
    "description": "A collection of beautiful illustrations that you can use for your projects for free.",
    "screenshot": "https://picoolio.net/images/2018/09/02/ui-unDrawed103a347bbe00cd.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Whimsical",
+   "url": "https://whimsical.co/",
+   "description": "A cool web app for creating flowcharts, user journeys and wireframes for your projects.",
+   "screenshot": "https://picoolio.net/images/2018/09/21/software-whimsicalf4d3bc38e0962be6.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Diverse UI",
+   "url": "https://diverseui.com/",
+   "description": "Great site to get images for profile pictures, personas for personal or commercial projects.",
+   "screenshot": "https://picoolio.net/images/2018/09/21/photos-diverse-ui5ad9b0bf4557461b.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Negative Space",
+   "url": "https://negativespace.co/",
+   "description": "Free stock photos for personal and commmercial use. Search through hashtags or colors.",
+   "screenshot": "https://picoolio.net/images/2018/09/21/photos-negative-spacesa100e14e5208f6f2.jpg"
  }
 ]
