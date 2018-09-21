@@ -423,7 +423,7 @@
    "category": "Software",
    "name": "Material Design",
    "url": "https://material.io",
-   "description": "Google's design system that covers a wide spectrum of digital design principles and guidelines.",
+   "description": "Google's design system that covers digital design principles and guidelines.",
    "screenshot": "https://picoolio.net/images/2018/08/13/software-material-designcb7e92897884d67d.jpg"
  },
  {
@@ -752,14 +752,14 @@
    "category": "Photo",
    "name": "Diverse UI",
    "url": "https://diverseui.com/",
-   "description": "Great site to get images for profile pictures, personas for personal or commercial projects.",
+   "description": "Great site to get images for creating user personas.",
    "screenshot": "https://picoolio.net/images/2018/09/21/photos-diverse-ui5ad9b0bf4557461b.jpg"
  },
  {
    "category": "Photo",
    "name": "Negative Space",
    "url": "https://negativespace.co/",
-   "description": "Free stock photos for personal and commmercial use. Search through hashtags or colors.",
+   "description": "Search free stock photos for personal and commmercial use with hashtags or colors.",
    "screenshot": "https://picoolio.net/images/2018/09/21/photos-negative-spacesa100e14e5208f6f2.jpg"
  }
 ]
