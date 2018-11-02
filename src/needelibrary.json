@@ -423,7 +423,7 @@
    "category": "Software",
    "name": "Material Design",
    "url": "https://material.io",
-   "description": "Google's design system that covers digital design principles and guidelines.",
+   "description": "Google's design system that covers a wide spectrum of digital design principles and guidelines.",
    "screenshot": "https://picoolio.net/images/2018/08/13/software-material-designcb7e92897884d67d.jpg"
  },
  {
@@ -752,14 +752,63 @@
    "category": "Photo",
    "name": "Diverse UI",
    "url": "https://diverseui.com/",
-   "description": "Great site to get images for creating user personas.",
+   "description": "Great site to get images for profile pictures, personas for personal or commercial projects.",
    "screenshot": "https://picoolio.net/images/2018/09/21/photos-diverse-ui5ad9b0bf4557461b.jpg"
  },
  {
    "category": "Photo",
    "name": "Negative Space",
    "url": "https://negativespace.co/",
-   "description": "Search free stock photos for personal and commmercial use with hashtags or colors.",
+   "description": "Free stock photos for personal and commmercial use. Search through hashtags or colors.",
    "screenshot": "https://picoolio.net/images/2018/09/21/photos-negative-spacesa100e14e5208f6f2.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Sans Forgetica",
+   "url": "http://sansforgetica.rmit/",
+   "description": "A font designed by RMIT to help in remembering notes.",
+   "screenshot": "https://picoolio.net/images/2018/11/02/typography-sansforgetica0a627de079df0664.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Stock Up",
+   "url": "https://www.sitebuilderreport.com/stock-up",
+   "description": "Stock photo indexing site with over 25,000 free photos.",
+   "screenshot": "https://picoolio.net/images/2018/11/02/photos-stock-up6b9cb42e7e8cb647.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Ffonts",
+   "url": "https://www.ffonts.net/",
+   "description": "Free fonts for Windows & Mac.",
+   "screenshot": "https://picoolio.net/images/2018/11/02/typography-ffonts519b65930dd7a36d.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Font Reach",
+   "url": "https://www.fontreach.com/",
+   "description": "Search for fonts and see what other websites are using them.",
+   "screenshot": "https://picoolio.net/images/2018/11/02/typography-fontreachc12c47f1c87f564d.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Bestfolios",
+   "url": "https://www.bestfolios.com/home",
+   "description": "A useful site for portfolio, resume and case study inspiration.",
+   "screenshot": "https://picoolio.net/images/2018/11/02/inspiration-bestfolios64f14b5440b671a9.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Nappy",
+   "url": "https://www.nappy.co/",
+   "description": "Free high resolution stock photo of black and brown people.",
+   "screenshot": "https://picoolio.net/images/2018/11/02/photos-nappy787c49b47ffe6a06.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Avataaars",
+   "url": "https://getavataaars.com",
+   "description": "Free online avatar generator for profiles",
+   "screenshot": "https://picoolio.net/images/2018/11/02/ui-avataaars981c6c5a093f2c45.jpg"
  }
 ]
