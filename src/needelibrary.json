@@ -735,7 +735,7 @@
    "screenshot": "https://picoolio.net/images/2018/09/02/typography-archetypeappe530e1ae145dc1a3.jpg"
  },
  {
-   "category": "UI",
+   "category": "Icons",
    "name": "UnDraw",
    "url": "https://undraw.co",
    "description": "A collection of beautiful illustrations that you can use for your projects for free.",
@@ -810,5 +810,33 @@
    "url": "https://getavataaars.com",
    "description": "Free online avatar generator for profiles",
    "screenshot": "https://picoolio.net/images/2018/11/02/ui-avataaars981c6c5a093f2c45.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Isometric Love",
+   "url": "https://isometriclove.com/",
+   "description": "A collection of cute isometric objects illustrations for your design projects",
+   "screenshot": "https://picoolio.net/images/2018/11/17/icons-isometric-love85858b47953bd25a.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Coverr",
+   "url": "http://www.coverr.co/",
+   "description": "Beautifuly, free stock video footage for your homepage",
+   "screenshot": "https://picoolio.net/images/2018/11/17/photos-coverrce4e71898802edb7.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Cruip",
+   "url": "https://cruip.com/",
+   "description": "Free HTML landing page templates",
+   "screenshot": "https://picoolio.net/images/2018/11/17/ui-cruip7c4f16fa6472dde7.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "UI Jar",
+   "url": "https://uijar.com/",
+   "description": "Curated design inspiration for web, mobile and design content",
+   "screenshot": "https://picoolio.net/images/2018/11/17/ui-uijar6f58a80a8e16d080.jpg"
  }
 ]
