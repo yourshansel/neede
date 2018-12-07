@@ -838,5 +838,47 @@
    "url": "https://uijar.com/",
    "description": "Curated design inspiration for web, mobile and design content",
    "screenshot": "https://picoolio.net/images/2018/11/17/ui-uijar6f58a80a8e16d080.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Brandmark",
+   "url": "https://brandmark.io/",
+   "description": "An AI-powered Logo Design Creator",
+   "screenshot": "https://picoolio.net/images/2018/12/07/branding-brandmark554999ef53746518.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Hemingway App",
+   "url": "http://www.hemingwayapp.com/",
+   "description": "Text checker improving your writing for readability",
+   "screenshot": "https://picoolio.net/images/2018/12/07/ux-hemingwaya1ff0f622bfca4da.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Overflow",
+   "url": "https://overflow.io/",
+   "description": "Easy to use wireframing tool for creating user flows",
+   "screenshot": "https://picoolio.net/images/2018/12/07/software-overflow56c702908b907857.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Humaaans",
+   "url": "https://www.humaaans.com/",
+   "description": "Design library for illustrations of people for Sketch and Invision Studio",
+   "screenshot": "https://picoolio.net/images/2018/12/07/ui-humaaans3abff23c3fabf557.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "References Design",
+   "url": "https://references.design/",
+   "description": "Organisational tool for images and articles that inspires your creativity",
+   "screenshot": "https://picoolio.net/images/2018/12/07/software-referencesdesign34a98e8c41c08a0c.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "User Persona Images",
+   "url": "https://www.userpersonaimages.com/",
+   "description": "Free stock photos for user persona images",
+   "screenshot": "https://picoolio.net/images/2018/12/07/photos-userpersona71ba93497e519d5d.jpg"
  }
 ]
