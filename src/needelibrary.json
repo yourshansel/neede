@@ -1,884 +1,884 @@
 [
  {
-   "category": "Colors",
-   "name": "Adobe Color Wheel",
-   "url": "https://color.adobe.com/",
-   "description": "Create color schemes with the color wheel or browse thousands of color combinations.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-adobecolorcde8c1b615d1c365.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Brand Colors",
-   "url": "https://brandcolors.net/",
-   "description": "The biggest collection of color codes used by popular brands all around the world.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-brandcolorsdb24569971b7d8d5.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Color Hexa",
-   "url": "https://www.colorhexa.com/",
-   "description": "Encyclopedia on colors and generating matching color palettes for your designs.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-colorhexa4231141590c7c018.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Color Hunt",
-   "url": "https://colorhunt.co/",
-   "description": "An open collection of curated color palette inspiration for your projects.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-colorhuntb67d45ecc30d314f.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Color Method",
-   "url": "http://color.method.ac/",
-   "description": "A fun color matching game that trains your eye to learn about color pairing.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-colormethodb58c03f6aa62a5c5.jpg"
- },
- {
-   "category": "Colors",
-   "name": "ColorSpace",
-   "url": "https://mycolor.space/",
-   "description": "Generate color palettes and schemes for your designs from your favorite color.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-ColorSpace4fdafe59c8d9b221.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Khroma",
-   "url": "http://khroma.co/train/",
-   "description": "Personalized Color Patette Generator powered by Artificial Intelligence.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-khroma9eab2e2fbeb58455.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Sip",
-   "url": "http://sipapp.io/",
-   "description": "Desktop app for color palette management, organization and exporting.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-SipApp5bb4d79b2eb75d08.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Use Contrast",
-   "url": "https://usecontrast.com/",
-   "description": "Desktop app for creating more accessible color schemes following the WCAG.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-usecontraste67092671b215275.jpg"
- },
- {
-   "category": "Colors",
-   "name": "WebGradients",
-   "url": "https://webgradients.com/",
-   "description": "Collection of linear gradients for use as content backdrop ready in multiple formats.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/colors-WebGradients1db40ee0d619c8d0.jpg"
- },
- {
-   "category": "Community",
-   "name": "Behance",
-   "url": "https://www.behance.net/",
-   "description": "Showcase and discover the latest work by creative professionals across industries.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-behance728c6c5859584056.jpg"
- },
- {
-   "category": "Community",
-   "name": "Designer News",
-   "url": "https://www.designernews.co/",
-   "description": "Community for design and technology professionals to share latest news and events.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-designernews291b63fba03a0042.jpg"
- },
- {
-   "category": "Community",
-   "name": "Designers Talk",
-   "url": "http://www.designerstalk.com/forums/",
-   "description": "Forum for designers from all disciplines to discuss about ideas and industry news.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-designerstalka9ea33dcedf95962.jpg"
- },
- {
-   "category": "Community",
-   "name": "Dribbble",
-   "url": "https://dribbble.com/",
-   "description": "Online community to showcase, discover work and connect with other designers.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-dribbble1b10a01de29720c7.jpg"
- },
- {
-   "category": "Community",
-   "name": "Playbook",
-   "url": "https://askplaybook.com/",
-   "description": "Community for asking questions about career advice for and from designers.",
-   "screenshot": "https://picoolio.net/images/2018/08/06/community-playbook81f1c709cf9d96cf.jpg"
- },
- {
-   "category": "Community",
-   "name": "Product Hunt",
-   "url": "https://producthunt.com",
-   "description": "Discover new products released each day, explore and support upcoming products.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-Producthunt26cdc0ea80bf8c69.jpg"
- },
- {
-   "category": "Community",
-   "name": "Smashing Magazine",
-   "url": "https://www.smashingmagazine.com/",
-   "description": "Editorial content, resources and for web developers and web designers.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-smashingmagazinebb8f72ccf872c6a8.jpg"
- },
- {
-   "category": "Community",
-   "name": "Spectrum",
-   "url": "https://spectrum.chat/",
-   "description": "A chatting and discussion platform with mutiple design and technology communities.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-spectrume616ab0ce6805cbf.jpg"
- },
- {
-   "category": "Community",
-   "name": "UX Stack Exchange",
-   "url": "https://ux.stackexchange.com/",
-   "description": "Question and Answer site for user experience researchers and experts.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-uxstackexchange292d341be74e5c40.jpg"
- },
- {
-   "category": "Community",
-   "name": "Web designer News",
-   "url": "https://www.webdesignernews.com/",
-   "description": "Daily curated stories for web designers and developers.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/community-webdesignernewsdb3126c9509b9ff3.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Apply Pixels",
-   "url": "https://applypixels.com/",
-   "description": "Icon & UI templates for mobile and web design.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-applypixels51f0c1c7d79479f6.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Feather Icons",
-   "url": "https://feathericons.com/",
-   "description": "Collection of simple open sources icons built for consistency and readability.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-feathericonsbe3c053ae9add6cc.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Flaticon",
-   "url": "https://www.flaticon.com/",
-   "description": "Vector based icons prepared in multiple formats.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-flaticon5e0f499dea7c496a.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Font Awesome",
-   "url": "https://fontawesome.com",
-   "description": "Icon set and toolkit for Web design.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-fontawesomec5e64c9a9c100c58.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Graphic Burger",
-   "url": "https://graphicburger.com/",
-   "description": "Design resources for graphic and visual design.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-graphicburger86c696c601283b1e.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Iconfinder",
-   "url": "https://www.iconfinder.com/",
-   "description": "Marketplace for designer icon packs.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-iconfinder317dcadbb1dd64c2.jpg"
- },
- {
-   "category": "Icons",
-   "name": "IconJar",
-   "url": "https://geticonjar.com/",
-   "description": "Organisational tool for your icon libraries.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-iconjaree0c1bfa9960e379.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Iconmonstr",
-   "url": "https://iconmonstr.com/",
-   "description": "Simple icons all made by the same creator.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-iconmonstr64e30a1d787c5f3f.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Maki Icons",
-   "url": "https://www.mapbox.com/maki-icons/",
-   "description": "Icon set made specifically for map designers.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-mapboxmakif9bb01ab87fa13b4.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Nounproject",
-   "url": "https://thenounproject.com/",
-   "description": "An extensive collection of icons for everything.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-nounprojectaf8ea35dc2d968b4.jpg"
- },
- {
-   "category": "Icons",
-   "name": "SVG Icons",
-   "url": "http://svgicons.sparkk.fr/",
-   "description": "Collection of SVG Icons specifically designed for the web.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/icons-svgicons127134147356fc53.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Awwwards",
-   "url": "https://www.awwwards.com/",
-   "description": "Best web design trends and competition.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-awwwards66830a66eaf65a34.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Collect UI",
-   "url": "http://collectui.com/",
-   "description": "Daily inspiration collected from the dailyui challenge archive.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-collectui3d868a255783f6bd.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Empty States",
-   "url": "http://emptystat.es/",
-   "description": "Inspiration website for different types of design for empty states.",
-   "screenshot": "https://picoolio.net/images/2018/08/11/inspiration-empty-statesd6e6e12770c8f75d.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Good Web Design",
-   "url": "http://www.goodweb.design/",
-   "description": "Curated landing page designs organized by section.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-goodwebdesign2e084ba8d9f94195.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Httpster",
-   "url": "https://httpster.net/",
-   "description": "Inspiration for websites around the world.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-httpster46851b6834493e34.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Lapa",
-   "url": "https://www.lapa.ninja/",
-   "description": "Inspiration for landing page designs.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-lapaninja13879f4e6a2e41ae.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Mobbin Design",
-   "url": "https://mobbin.design/",
-   "description": "Hand-picked collection of some of the latest mobile design patterns.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-mobbindesignbef90380f27291d9.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Nicely Done",
-   "url": "http://nicelydone.club/products/",
-   "description": "Product inspiration for design patterns.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-nicelydone7785ed0b9c10eb83.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Prototypr",
-   "url": "https://www.prototypr.io/home/",
-   "description": "Daily design news, inspirations and deals.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-prototyprb22b95114c54c99b.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Pttrns",
-   "url": "https://pttrns.com/",
-   "description": "A collection of some of the finest mobile design patterns across iOS and Android.",
-   "screenshot": "https://picoolio.net/images/2018/08/13/inspiration-pttrns4daa11941f63d190.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Really Good Emails",
-   "url": "https://reallygoodemails.com/",
-   "description": "A curated ollection of really good email designs from various companies.",
-   "screenshot": "https://picoolio.net/images/2018/08/06/inspiration-really-good-emailscfa76b6c052ac2a5.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Siiimple",
-   "url": "https://siiimple.com/",
-   "description": "Inspiration for minimalistically styled websites,",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-siiimple5da422405bab9b9b.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Sitesee",
-   "url": "https://sitesee.co/",
-   "description": "Curated gallery of beautiful modern websites.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/inspiration-sitesee251e1886b98d6a38.jpg"
- },
- {
-   "category": "Photo",
-   "name": "500px",
-   "url": "https://500px.com",
-   "description": "Online community and marketplace for photography.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/photos-500pxc0c7bf0aa4c43c44.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Barn Images",
-   "url": "https://barnimages.com/",
-   "description": "Collection of free high-resolution photos for use in personal and commercial projects.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/photos-barnimagesbb71821665331c88.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Death To Stock",
-   "url": "https://deathtothestockphoto.com/",
-   "description": "Photo resources for creatives.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/photos-deathtostock9bee6dd7eb239e7a.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Flickr",
-   "url": "https://www.flickr.com/",
-   "description": "Image hosting site with online community.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/photos-flickr3d3c503264eb4a46.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Pexels",
-   "url": "https://www.pexels.com/",
-   "description": "Free stock photos with Creative Commons Zero (CC0) License.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/photos-pexelsd72c538401b1b9cf.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Pinterest",
-   "url": "https://www.pinterest.com",
-   "description": "Discover and organize your photos with pinterest boards.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/photos-pinterest6048864926e6d561.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Pixabay",
-   "url": "https://pixabay.com/",
-   "description": "Royalty free stock photos and videos.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/photos-pixabay78de0f0e4381fc9b.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Unsplash",
-   "url": "https://unsplash.com/",
-   "description": "Curated collection of high resolution stock photos by photographers.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/photos-unsplashe7905d06eaa7d156.jpg"
- },
- {
-   "category": "Software",
-   "name": "Abstract",
-   "url": "https://www.goabstract.com/",
-   "description": "Secure version control and design workflow management for Sketch files.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-goabstract5a8970b9ca1cf3a6.jpg"
- },
- {
-   "category": "Software",
-   "name": "Affinity",
-   "url": "https://affinity.serif.com/en-us/",
-   "description": "Professional graphics and editing software.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-affinity2681cf864dc4b03c.jpg"
- },
- {
-   "category": "Software",
-   "name": "Atomic ",
-   "url": "https://atomic.io/",
-   "description": "Advanced interactive design software.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-atomic7632a92a51a27b3a.jpg"
- },
- {
-   "category": "Software",
-   "name": "Evrybo",
-   "url": "https://evrybo.com/",
-   "description": "Design collaboration tool and workflow management for teams.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-evrybo02572e12f2a26aa5.jpg"
- },
- {
-   "category": "Software",
-   "name": "Figma",
-   "url": "https://www.figma.com/",
-   "description": "Browser-based interface design tool for prototyping and gathering feedback.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-figma98693c8d7831eeb7.jpg"
- },
- {
-   "category": "Software",
-   "name": "Framer",
-   "url": "https://framer.com/",
-   "description": "Interactive design and prototyping tool. ",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-framerc4fc80bc9feefdae.jpg"
- },
- {
-   "category": "Software",
-   "name": "InVision",
-   "url": "https://www.invisionapp.com/",
-   "description": "Digital product design, workflow & collaboration tool.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-invisionappaa4fc6fc49a21e44.jpg"
- },
- {
-   "category": "Software",
-   "name": "Marvel",
-   "url": "https://marvelapp.com/",
-   "description": "Collaborative design platform for digital design & prototyping.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-marvel6d40c56f26c17362.jpg"
- },
- {
-   "category": "Software",
-   "name": "Material Design",
-   "url": "https://material.io",
-   "description": "Google's design system that covers a wide spectrum of digital design principles and guidelines.",
-   "screenshot": "https://picoolio.net/images/2018/08/13/software-material-designcb7e92897884d67d.jpg"
- },
- {
-   "category": "Software",
-   "name": "Niice",
-   "url": "https://niice.co",
-   "description": "Collaboration tool for creative discussion within teams.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-niice86d4ffe5b883873f.jpg"
- },
- {
-   "category": "Software",
-   "name": "Principle",
-   "url": "http://principleformac.com/",
-   "description": "Prototyping tool for animated design and interaction.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-principle0b32197347aa6aec.jpg"
- },
- {
-   "category": "Software",
-   "name": "Sketch",
-   "url": "https://sketchapp.com/",
-   "description": "Digital design toolkit for interface design.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-sketch7d8939f47e0fba48.jpg"
- },
- {
-   "category": "Software",
-   "name": "Zeplin",
-   "url": "https://zeplin.io/",
-   "description": "Collaboration tool for UI designers & front-end developers.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/software-zeplin9bb004436156f291.jpg"
- },
- {
-   "category": "Typography",
-   "name": "DaFont",
-   "url": "https://www.dafont.com/",
-   "description": "An extensive collection of downloadable fonts for use in various projects.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/typography-dafont7692c7a93f836abf.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Fonts In Use",
-   "url": "https://fontsinuse.com/",
-   "description": "An archive for discovering fonts used in various designs.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/typography-fontsinuseafe14f81b5a992d8.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Glyphs",
-   "url": "https://glyphsapp.com/",
-   "description": "Mac app for designing, editing and creating custom fonts.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/typography-glyphs3f04ebeca9095554.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Google Fonts",
-   "url": "https://fonts.google.com/",
-   "description": "Google's collection of over 800 free open-sourced fonts for use in your projects.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/typography-googlefonts8b1b08edfcf16f14.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Typekit",
-   "url": "https://typekit.com/",
-   "description": "Adobe's subscription service for fonts synced directly to softwares or websites.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/typography-adobetypekit5dd80c4b99a3fe89.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Typespiration",
-   "url": "http://typespiration.com/",
-   "description": "Inspiration for web font combinations with ready-to-use HTML/CSS code.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/typography-typespiration58464ee555cd71d6.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Typographica",
-   "url": "http://typographica.org/",
-   "description": "Review and commentary on difference typefaces and typebooks.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/typography-typographica44b4ed0646502f57.jpg"
- },
- {
-   "category": "Typography",
-   "name": "You Work For Them",
-   "url": "https://www.youworkforthem.com/fonts/",
-   "description": "A marketplace for designer fonts in difference licensing options.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/typography-youworkforthem507a2aa705ab6de0.jpg"
- },
- {
-   "category": "UI",
-   "name": "Great Simple Studio",
-   "url": "https://greatsimple.io/",
-   "description": "UI resources for wireframes, graphic interfaces, icons and core elements.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-greatsimple20fb0ffbc81f3a41.jpg"
- },
- {
-   "category": "UI",
-   "name": "PSDDD",
-   "url": "https://psddd.co/",
-   "description": "Extensive collection of free resources - Photoshop, Sketch, Web & Mobile UI templates.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-psddd6df368bb85bea35f.jpg"
- },
- {
-   "category": "UI",
-   "name": "Semantic UI",
-   "url": "https://semantic-ui.com/",
-   "description": "User interface component library for designers and web developers.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-semanticui09284dc1f02ed3d5.jpg"
- },
- {
-   "category": "UI",
-   "name": "Simple Mockups",
-   "url": "https://lstore.graphics",
-   "description": "Device mockups and scene creators for laying out your designs.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-lstore7bc23998b2b935ab.jpg"
- },
- {
-   "category": "UI",
-   "name": "Sketch App Resources",
-   "url": "https://www.sketchappsources.com/",
-   "description": "Collection of free and premium Sketch resources for mobile, web, UI and UX design.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-sketchappsources668717c4b1c0a723.jpg"
- },
- {
-   "category": "UI",
-   "name": "Sketch For Designers",
-   "url": "https://sketch.fordesignrs.com/",
-   "description": "Collection of Sketch resources - templates, plugins, tutorials and more.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-sketchfordesignersa9c9c2c366597bfe.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI 8",
-   "url": "https://ui8.net/",
-   "description": "Free and Paid UI Template and Wireframing Kits.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-ui808f1032e5b609e42.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI Space",
-   "url": "https://uispace.net/",
-   "description": "Collection of UI resources for Photoshop, Illustrator, Sketch & Web Design.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-uispacec8971a550679ceb8.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI Stencils",
-   "url": "https://www.uistencils.com/",
-   "description": "Stationaries, tools and materials for sketching prototypes and wireframes.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ui-uistencilsfd101af7b7ec9a4a.jpg"
- },
- {
-   "category": "UX",
-   "name": "Dark Patterns",
-   "url": "https://darkpatterns.org/",
-   "description": "Website that exposes decepting user interfaces and types of tricks used to deceive users.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-darkpatternsebf847bffb575cc6.jpg"
- },
- {
-   "category": "UX",
-   "name": "Design Kit",
-   "url": "http://www.designkit.org/",
-   "description": "IDEO's platform to learn about human-centered design and best practices.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-designkitae0887e2a4718a51.jpg"
- },
- {
-   "category": "UX",
-   "name": "Laws of UX",
-   "url": "https://lawsofux.com/",
-   "description": "Collection of maxims and principles for designing user interfaces.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-lawsofux68fea2f3fcaadc39.jpg"
- },
- {
-   "category": "UX",
-   "name": "Little Big Details",
-   "url": "http://littlebigdetails.com/",
-   "description": "A collection of finer design details that leads to user delight in their user experience. ",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-littlebigdetails0bbc5d046000fce6.jpg"
- },
- {
-   "category": "UX",
-   "name": "Lookback",
-   "url": "https://lookback.io/",
-   "description": "Tool for recording user interactions during user interviews and usability testing.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-lookback0d5e2da8df2aa983.jpg"
- },
- {
-   "category": "UX",
-   "name": "Microsoft Design",
-   "url": "https://www.microsoft.com/design/inclusive/",
-   "description": "Toolkit designed by Microsoft for designing for inclusivity and accesibility.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-microsoftinclusivedesigndbbadea48c8ad2e5.jpg"
- },
- {
-   "category": "UX",
-   "name": "Usability",
-   "url": "https://www.usability.gov/",
-   "description": "Lessons and resources for learning about UX best practices.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-usabilitygov46acb31ec7202918.jpg"
- },
- {
-   "category": "UX",
-   "name": "Usability Hub",
-   "url": "https://usabilityhub.com/",
-   "description": "User testing platform to conduct usability testing and collect insights from your users.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-usabilityhub58e838fdba58fa0c.jpg"
- },
- {
-   "category": "UX",
-   "name": "UserOnboard",
-   "url": "https://www.useronboard.com/",
-   "description": "Inspiration for designing the onboarding experience from some of the popular websites.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-useronboard40d72ebe1f7ea479.jpg"
- },
- {
-   "category": "UX",
-   "name": "UserTesting",
-   "url": "https://www.usertesting.com/",
-   "description": "User experience research and insights platform to improving the user experience.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-usertesting55f6537c04045ff5.jpg"
- },
- {
-   "category": "UX",
-   "name": "UX Pin",
-   "url": "https://www.uxpin.com/",
-   "description": "Platform for collaborating on design systems, prototyping and product development.",
-   "screenshot": "https://picoolio.net/images/2018/07/24/ux-uxpin8866c5b3090d28d3.jpg"
- },
- {
-   "category": "UX",
-   "name": "Design Principles",
-   "url": "https://principles.design/",
-   "description": "A collection of articles and examples of Design Principles that make a good product.",
-   "screenshot": "https://picoolio.net/images/2018/08/25/ux-designprinciplesa4916d8e83431efa.jpg"
- },
- {
-   "category": "UX",
-   "name": "Make My Persona",
-   "url": "https://www.hubspot.com/make-my-persona",
-   "description": "Template tool to help you build your own user persona easily.",
-   "screenshot": "https://picoolio.net/images/2018/08/25/ux-make-my-persona38b1b5fe652d3b38.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Picular",
-   "url": "https://picular.co",
-   "description": "Interesting website to search for colors with keywords like searching on Google.",
-   "screenshot": "https://picoolio.net/images/2018/08/25/colors-picularbff38da5662cc32e.jpg"
- },
- {
    "category": "Branding",
    "name": "BP&O",
    "url": "https://bpando.org/",
    "description": "Articles and reviews on branding, packaging and logo design works.",
-   "screenshot": "https://picoolio.net/images/2018/08/13/inspiration-bpando83800e194f9b6a33.jpg"
+   "screenshot": "https://i.imgur.com/T58jRTd.jpg"
  },
  {
    "category": "Branding",
    "name": "Brand New",
    "url": "https://www.underconsideration.com/brandnew",
    "description": "Editorial on corporate logo identity.",
-   "screenshot": "https://picoolio.net/images/2018/08/25/branding-brand-new1d984a32d0c4e0ec.jpg"
+   "screenshot": "https://i.imgur.com/0Wcq2XX.jpg"
  },
  {
    "category": "Branding",
    "name": "Find Guidelines",
    "url": "http://www.findguidelin.es/",
    "description": "Search brand assets and web guidelines of the most famous brands.",
-   "screenshot": "https://picoolio.net/images/2018/08/25/branding-find-guidelines003fc25add6e5091.jpg"
+   "screenshot": "https://i.imgur.com/RVVc9CW.jpg"
  },
  {
    "category": "Branding",
    "name": "Identiy Designed",
    "url": "https://identitydesigned.com/",
    "description": "A compilation of visual identities from design studios all over the world.",
-   "screenshot": "https://picoolio.net/images/2018/08/25/branding-identitiy-designed1f23a001db8d176b.jpg"
+   "screenshot": "https://i.imgur.com/IVc8LLw.jpg"
  },
  {
    "category": "Branding",
    "name": "Logo by ShapeFactory",
    "url": "https://logo.shapefactory.co/",
    "description": "Create simple hassle-free logo designs quickly.",
-   "screenshot": "https://picoolio.net/images/2018/09/02/branding-logo-shapefactoryf622e7c00a2d9cdf.jpg"
+   "screenshot": "https://i.imgur.com/7QvUztq.jpg"
  },
  {
    "category": "Branding",
    "name": "Instant Logo Search",
    "url": "http://instantlogosearch.com",
    "description": "Search and download logos from the most popular brands.",
-   "screenshot": "https://picoolio.net/images/2018/09/02/branding-instant-logo-search3825691c0c5baf81.jpg"
- },
- {
-   "category": "UX",
-   "name": "Draw IO",
-   "url": "https://www.draw.io/",
-   "description": "Create flowcharts and wireframes easily with this free online diagram software.",
-   "screenshot": "https://picoolio.net/images/2018/09/02/ux-draw-io98038b0ab11d3a6d.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Brand New Roman",
-   "url": "https://www.brandnewroman.com",
-   "description": "Typography style made up by brand logos.",
-   "screenshot": "https://picoolio.net/images/2018/09/02/typography-brand-new-roman1cadd05d0f69962a.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Archetype",
-   "url": "https://archetypeapp.com/",
-   "description": "Tool for creating consistent typography styles across projects.",
-   "screenshot": "https://picoolio.net/images/2018/09/02/typography-archetypeappe530e1ae145dc1a3.jpg"
- },
- {
-   "category": "Icons",
-   "name": "UnDraw",
-   "url": "https://undraw.co",
-   "description": "A collection of beautiful illustrations that you can use for your projects for free.",
-   "screenshot": "https://picoolio.net/images/2018/09/02/ui-unDrawed103a347bbe00cd.jpg"
- },
- {
-   "category": "Software",
-   "name": "Whimsical",
-   "url": "https://whimsical.co/",
-   "description": "A cool web app for creating flowcharts, user journeys and wireframes for your projects.",
-   "screenshot": "https://picoolio.net/images/2018/09/21/software-whimsicalf4d3bc38e0962be6.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Diverse UI",
-   "url": "https://diverseui.com/",
-   "description": "Great site to get images for profile pictures, personas for personal or commercial projects.",
-   "screenshot": "https://picoolio.net/images/2018/09/21/photos-diverse-ui5ad9b0bf4557461b.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Negative Space",
-   "url": "https://negativespace.co/",
-   "description": "Free stock photos for personal and commmercial use. Search through hashtags or colors.",
-   "screenshot": "https://picoolio.net/images/2018/09/21/photos-negative-spacesa100e14e5208f6f2.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Sans Forgetica",
-   "url": "http://sansforgetica.rmit/",
-   "description": "A font designed by RMIT to help in remembering notes.",
-   "screenshot": "https://picoolio.net/images/2018/11/02/typography-sansforgetica0a627de079df0664.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Stock Up",
-   "url": "https://www.sitebuilderreport.com/stock-up",
-   "description": "Stock photo indexing site with over 25,000 free photos.",
-   "screenshot": "https://picoolio.net/images/2018/11/02/photos-stock-up6b9cb42e7e8cb647.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Ffonts",
-   "url": "https://www.ffonts.net/",
-   "description": "Free fonts for Windows & Mac.",
-   "screenshot": "https://picoolio.net/images/2018/11/02/typography-ffonts519b65930dd7a36d.jpg"
- },
- {
-   "category": "Typography",
-   "name": "Font Reach",
-   "url": "https://www.fontreach.com/",
-   "description": "Search for fonts and see what other websites are using them.",
-   "screenshot": "https://picoolio.net/images/2018/11/02/typography-fontreachc12c47f1c87f564d.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Bestfolios",
-   "url": "https://www.bestfolios.com/home",
-   "description": "A useful site for portfolio, resume and case study inspiration.",
-   "screenshot": "https://picoolio.net/images/2018/11/02/inspiration-bestfolios64f14b5440b671a9.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Nappy",
-   "url": "https://www.nappy.co/",
-   "description": "Free high resolution stock photo of black and brown people.",
-   "screenshot": "https://picoolio.net/images/2018/11/02/photos-nappy787c49b47ffe6a06.jpg"
- },
- {
-   "category": "UI",
-   "name": "Avataaars",
-   "url": "https://getavataaars.com",
-   "description": "Free online avatar generator for profiles",
-   "screenshot": "https://picoolio.net/images/2018/11/02/ui-avataaars981c6c5a093f2c45.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Isometric Love",
-   "url": "https://isometriclove.com/",
-   "description": "A collection of cute isometric objects illustrations for your design projects",
-   "screenshot": "https://picoolio.net/images/2018/11/17/icons-isometric-love85858b47953bd25a.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Coverr",
-   "url": "http://www.coverr.co/",
-   "description": "Beautifuly, free stock video footage for your homepage",
-   "screenshot": "https://picoolio.net/images/2018/11/17/photos-coverrce4e71898802edb7.jpg"
- },
- {
-   "category": "UI",
-   "name": "Cruip",
-   "url": "https://cruip.com/",
-   "description": "Free HTML landing page templates",
-   "screenshot": "https://picoolio.net/images/2018/11/17/ui-cruip7c4f16fa6472dde7.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI Jar",
-   "url": "https://uijar.com/",
-   "description": "Curated design inspiration for web, mobile and design content",
-   "screenshot": "https://picoolio.net/images/2018/11/17/ui-uijar6f58a80a8e16d080.jpg"
+   "screenshot": "https://i.imgur.com/9jBznrg.jpg"
  },
  {
    "category": "Branding",
    "name": "Brandmark",
    "url": "https://brandmark.io/",
    "description": "An AI-powered Logo Design Creator",
-   "screenshot": "https://picoolio.net/images/2018/12/07/branding-brandmark554999ef53746518.jpg"
+   "screenshot": "https://i.imgur.com/bCTlAOC.jpg"
  },
  {
-   "category": "Typography",
-   "name": "Hemingway App",
-   "url": "http://www.hemingwayapp.com/",
-   "description": "Text checker improving your writing for readability",
-   "screenshot": "https://picoolio.net/images/2018/12/07/ux-hemingwaya1ff0f622bfca4da.jpg"
+   "category": "Colors",
+   "name": "Adobe Color Wheel",
+   "url": "https://color.adobe.com/",
+   "description": "Create color schemes with the color wheel or browse thousands of color combinations.",
+   "screenshot": "https://i.imgur.com/Av2yqsK.jpg"
  },
  {
-   "category": "Software",
-   "name": "Overflow",
-   "url": "https://overflow.io/",
-   "description": "Easy to use wireframing tool for creating user flows",
-   "screenshot": "https://picoolio.net/images/2018/12/07/software-overflow56c702908b907857.jpg"
+   "category": "Colors",
+   "name": "Brand Colors",
+   "url": "https://brandcolors.net/",
+   "description": "The biggest collection of color codes used by popular brands all around the world.",
+   "screenshot": "https://i.imgur.com/WGcMtYm.jpg"
  },
  {
-   "category": "UI",
-   "name": "Humaaans",
-   "url": "https://www.humaaans.com/",
-   "description": "Design library for illustrations of people for Sketch and Invision Studio",
-   "screenshot": "https://picoolio.net/images/2018/12/07/ui-humaaans3abff23c3fabf557.jpg"
+   "category": "Colors",
+   "name": "Color Hexa",
+   "url": "https://www.colorhexa.com/",
+   "description": "Encyclopedia on colors and generating matching color palettes for your designs.",
+   "screenshot": "https://i.imgur.com/UedDs8r.jpg"
  },
  {
-   "category": "Software",
-   "name": "References Design",
-   "url": "https://references.design/",
-   "description": "Organisational tool for images and articles that inspires your creativity",
-   "screenshot": "https://picoolio.net/images/2018/12/07/software-referencesdesign34a98e8c41c08a0c.jpg"
+   "category": "Colors",
+   "name": "Color Hunt",
+   "url": "https://colorhunt.co/",
+   "description": "An open collection of curated color palette inspiration for your projects.",
+   "screenshot": "https://i.imgur.com/4616p3X.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Color Method",
+   "url": "http://color.method.ac/",
+   "description": "A fun color matching game that trains your eye to learn about color pairing.",
+   "screenshot": "https://i.imgur.com/Cvw4AkS.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "ColorSpace",
+   "url": "https://mycolor.space/",
+   "description": "Generate color palettes and schemes for your designs from your favorite color.",
+   "screenshot": "https://i.imgur.com/YwGdylt.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Khroma",
+   "url": "http://khroma.co/train/",
+   "description": "Personalized Color Patette Generator powered by Artificial Intelligence.",
+   "screenshot": "https://i.imgur.com/VlwkdrN.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Sip",
+   "url": "http://sipapp.io/",
+   "description": "Desktop app for color palette management, organization and exporting.",
+   "screenshot": "https://i.imgur.com/xjPAWGM.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Use Contrast",
+   "url": "https://usecontrast.com/",
+   "description": "Desktop app for creating more accessible color schemes following the WCAG.",
+   "screenshot": "https://i.imgur.com/aliemdv.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "WebGradients",
+   "url": "https://webgradients.com/",
+   "description": "Collection of linear gradients for use as content backdrop ready in multiple formats.",
+   "screenshot": "https://i.imgur.com/V2dHXyr.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Picular",
+   "url": "https://picular.co",
+   "description": "Interesting website to search for colors with keywords like searching on Google.",
+   "screenshot": "https://i.imgur.com/7qFVhGy.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Behance",
+   "url": "https://www.behance.net/",
+   "description": "Showcase and discover the latest work by creative professionals across industries.",
+   "screenshot": "https://i.imgur.com/osf5BKt.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Designer News",
+   "url": "https://www.designernews.co/",
+   "description": "Community for design and technology professionals to share latest news and events.",
+   "screenshot": "https://i.imgur.com/YUXKMM9.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Designers Talk",
+   "url": "http://www.designerstalk.com/forums/",
+   "description": "Forum for designers from all disciplines to discuss about ideas and industry news.",
+   "screenshot": "https://i.imgur.com/AJYEnTA.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Dribbble",
+   "url": "https://dribbble.com/",
+   "description": "Online community to showcase, discover work and connect with other designers.",
+   "screenshot": "https://i.imgur.com/hDIJq3B.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Playbook",
+   "url": "https://askplaybook.com/",
+   "description": "Community for asking questions about career advice for and from designers.",
+   "screenshot": "https://i.imgur.com/SSbE41T.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Product Hunt",
+   "url": "https://producthunt.com",
+   "description": "Discover new products released each day, explore and support upcoming products.",
+   "screenshot": "https://i.imgur.com/AJC1Dkj.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Smashing Magazine",
+   "url": "https://www.smashingmagazine.com/",
+   "description": "Editorial content, resources and for web developers and web designers.",
+   "screenshot": "https://i.imgur.com/6qjamES.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Spectrum",
+   "url": "https://spectrum.chat/",
+   "description": "A chatting and discussion platform with mutiple design and technology communities.",
+   "screenshot": "https://i.imgur.com/HoCVXvB.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "UX Stack Exchange",
+   "url": "https://ux.stackexchange.com/",
+   "description": "Question and Answer site for user experience researchers and experts.",
+   "screenshot": "https://i.imgur.com/fOMKBzm.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Web designer News",
+   "url": "https://www.webdesignernews.com/",
+   "description": "Daily curated stories for web designers and developers.",
+   "screenshot": "https://i.imgur.com/9zoInXC.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Apply Pixels",
+   "url": "https://applypixels.com/",
+   "description": "Icon & UI templates for mobile and web design.",
+   "screenshot": "https://i.imgur.com/zHpe0ZT.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Feather Icons",
+   "url": "https://feathericons.com/",
+   "description": "Collection of simple open sources icons built for consistency and readability.",
+   "screenshot": "https://i.imgur.com/cecwrwe.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Flaticon",
+   "url": "https://www.flaticon.com/",
+   "description": "Vector based icons prepared in multiple formats.",
+   "screenshot": "https://i.imgur.com/JEZ9osv.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Font Awesome",
+   "url": "https://fontawesome.com",
+   "description": "Icon set and toolkit for Web design.",
+   "screenshot": "https://i.imgur.com/HGXH3cJ.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Graphic Burger",
+   "url": "https://graphicburger.com/",
+   "description": "Design resources for graphic and visual design.",
+   "screenshot": "https://i.imgur.com/aPNnZH2.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Iconfinder",
+   "url": "https://www.iconfinder.com/",
+   "description": "Marketplace for designer icon packs.",
+   "screenshot": "https://i.imgur.com/T5ZvmGC.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "IconJar",
+   "url": "https://geticonjar.com/",
+   "description": "Organisational tool for your icon libraries.",
+   "screenshot": "https://i.imgur.com/17TwLB5.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Iconmonstr",
+   "url": "https://iconmonstr.com/",
+   "description": "Simple icons all made by the same creator.",
+   "screenshot": "https://i.imgur.com/0XOUcDT.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Maki Icons",
+   "url": "https://www.mapbox.com/maki-icons/",
+   "description": "Icon set made specifically for map designers.",
+   "screenshot": "https://i.imgur.com/EUEEkjN.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Nounproject",
+   "url": "https://thenounproject.com/",
+   "description": "An extensive collection of icons for everything.",
+   "screenshot": "https://i.imgur.com/OquWuDb.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "SVG Icons",
+   "url": "http://svgicons.sparkk.fr/",
+   "description": "Collection of SVG Icons specifically designed for the web.",
+   "screenshot": "https://i.imgur.com/6mZWHxH.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "UnDraw",
+   "url": "https://undraw.co",
+   "description": "A collection of beautiful illustrations that you can use for your projects for free.",
+   "screenshot": "https://i.imgur.com/A1jrMMc.jpg"
+ },
+ {
+   "category": "Icons",
+   "name": "Isometric Love",
+   "url": "https://isometriclove.com/",
+   "description": "A collection of cute isometric objects illustrations for your design projects",
+   "screenshot": "https://imgur.com/nN76dip"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Awwwards",
+   "url": "https://www.awwwards.com/",
+   "description": "Best web design trends and competition.",
+   "screenshot": "https://i.imgur.com/PbeDxnJ.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Collect UI",
+   "url": "http://collectui.com/",
+   "description": "Daily inspiration collected from the dailyui challenge archive.",
+   "screenshot": "https://i.imgur.com/xNNab95.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Empty States",
+   "url": "http://emptystat.es/",
+   "description": "Inspiration website for different types of design for empty states.",
+   "screenshot": "https://i.imgur.com/mFy79Ew.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Good Web Design",
+   "url": "http://www.goodweb.design/",
+   "description": "Curated landing page designs organized by section.",
+   "screenshot": "https://i.imgur.com/9jvS0Q5.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Httpster",
+   "url": "https://httpster.net/",
+   "description": "Inspiration for websites around the world.",
+   "screenshot": "https://i.imgur.com/ql9jE2A.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Lapa",
+   "url": "https://www.lapa.ninja/",
+   "description": "Inspiration for landing page designs.",
+   "screenshot": "https://i.imgur.com/jTFXn6d.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Mobbin Design",
+   "url": "https://mobbin.design/",
+   "description": "Hand-picked collection of some of the latest mobile design patterns.",
+   "screenshot": "https://i.imgur.com/zUDpGNQ.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Nicely Done",
+   "url": "http://nicelydone.club/products/",
+   "description": "Product inspiration for design patterns.",
+   "screenshot": "https://i.imgur.com/nXD6Vyr.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Prototypr",
+   "url": "https://www.prototypr.io/home/",
+   "description": "Daily design news, inspirations and deals.",
+   "screenshot": "https://i.imgur.com/PhzQcYJ.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Pttrns",
+   "url": "https://pttrns.com/",
+   "description": "A collection of some of the finest mobile design patterns across iOS and Android.",
+   "screenshot": "https://i.imgur.com/6XGwpeH.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Really Good Emails",
+   "url": "https://reallygoodemails.com/",
+   "description": "A curated ollection of really good email designs from various companies.",
+   "screenshot": "https://i.imgur.com/pOX4fZC.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Siiimple",
+   "url": "https://siiimple.com/",
+   "description": "Inspiration for minimalistically styled websites,",
+   "screenshot": "https://i.imgur.com/yZmM5Z1.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Sitesee",
+   "url": "https://sitesee.co/",
+   "description": "Curated gallery of beautiful modern websites.",
+   "screenshot": "https://i.imgur.com/tDuToi0.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Bestfolios",
+   "url": "https://www.bestfolios.com/home",
+   "description": "A useful site for portfolio, resume and case study inspiration.",
+   "screenshot": "https://i.imgur.com/ZklAV8s.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "500px",
+   "url": "https://500px.com",
+   "description": "Online community and marketplace for photography.",
+   "screenshot": "https://i.imgur.com/Z46RsBs.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Barn Images",
+   "url": "https://barnimages.com/",
+   "description": "Collection of free high-resolution photos for use in personal and commercial projects.",
+   "screenshot": "https://i.imgur.com/IAj2GMQ.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Death To Stock",
+   "url": "https://deathtothestockphoto.com/",
+   "description": "Photo resources for creatives.",
+   "screenshot": "https://i.imgur.com/3l9RK4v.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Flickr",
+   "url": "https://www.flickr.com/",
+   "description": "Image hosting site with online community.",
+   "screenshot": "https://i.imgur.com/uFq00d9.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Pexels",
+   "url": "https://www.pexels.com/",
+   "description": "Free stock photos with Creative Commons Zero (CC0) License.",
+   "screenshot": "https://i.imgur.com/Z7bHujI.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Pinterest",
+   "url": "https://www.pinterest.com",
+   "description": "Discover and organize your photos with pinterest boards.",
+   "screenshot": "https://i.imgur.com/MLV8aEQ.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Pixabay",
+   "url": "https://pixabay.com/",
+   "description": "Royalty free stock photos and videos.",
+   "screenshot": "https://i.imgur.com/IkCQRVt.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Unsplash",
+   "url": "https://unsplash.com/",
+   "description": "Curated collection of high resolution stock photos by photographers.",
+   "screenshot": "https://i.imgur.com/KBsCg8Z.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Diverse UI",
+   "url": "https://diverseui.com/",
+   "description": "Great site to get images for profile pictures, personas for personal or commercial projects.",
+   "screenshot": "https://i.imgur.com/cJbdNTg.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Negative Space",
+   "url": "https://negativespace.co/",
+   "description": "Free stock photos for personal and commmercial use. Search through hashtags or colors.",
+   "screenshot": "https://i.imgur.com/cCYtTUH.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Stock Up",
+   "url": "https://www.sitebuilderreport.com/stock-up",
+   "description": "Stock photo indexing site with over 25,000 free photos.",
+   "screenshot": "https://i.imgur.com/NnmV5MY.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Nappy",
+   "url": "https://www.nappy.co/",
+   "description": "Free high resolution stock photo of black and brown people.",
+   "screenshot": "https://i.imgur.com/DMjBUDO.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Coverr",
+   "url": "http://www.coverr.co/",
+   "description": "Beautifuly, free stock video footage for your homepage",
+   "screenshot": "https://i.imgur.com/Nm0MpKZ.jpg"
  },
  {
    "category": "Photo",
    "name": "User Persona Images",
    "url": "https://www.userpersonaimages.com/",
    "description": "Free stock photos for user persona images",
-   "screenshot": "https://picoolio.net/images/2018/12/07/photos-userpersona71ba93497e519d5d.jpg"
+   "screenshot": "https://i.imgur.com/NcJCRWq.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Abstract",
+   "url": "https://www.goabstract.com/",
+   "description": "Secure version control and design workflow management for Sketch files.",
+   "screenshot": "https://i.imgur.com/oa37EZt.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Affinity",
+   "url": "https://affinity.serif.com/en-us/",
+   "description": "Professional graphics and editing software.",
+   "screenshot": "https://i.imgur.com/TupBEmT.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Atomic ",
+   "url": "https://atomic.io/",
+   "description": "Advanced interactive design software.",
+   "screenshot": "https://i.imgur.com/WPwbGnr.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Evrybo",
+   "url": "https://evrybo.com/",
+   "description": "Design collaboration tool and workflow management for teams.",
+   "screenshot": "https://i.imgur.com/R4Tpavz.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Figma",
+   "url": "https://www.figma.com/",
+   "description": "Browser-based interface design tool for prototyping and gathering feedback.",
+   "screenshot": "https://i.imgur.com/YCHLEF2.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Framer",
+   "url": "https://framer.com/",
+   "description": "Interactive design and prototyping tool. ",
+   "screenshot": "https://i.imgur.com/Vhc2v9I.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "InVision",
+   "url": "https://www.invisionapp.com/",
+   "description": "Digital product design, workflow & collaboration tool.",
+   "screenshot": "https://i.imgur.com/mqYTaQA.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Marvel",
+   "url": "https://marvelapp.com/",
+   "description": "Collaborative design platform for digital design & prototyping.",
+   "screenshot": "https://i.imgur.com/CNMAcqL.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Material Design",
+   "url": "https://material.io",
+   "description": "Google's design system that covers a wide spectrum of digital design principles and guidelines.",
+   "screenshot": "https://i.imgur.com/yLmkQwu.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Niice",
+   "url": "https://niice.co",
+   "description": "Collaboration tool for creative discussion within teams.",
+   "screenshot": "https://i.imgur.com/7r5kniH.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Principle",
+   "url": "http://principleformac.com/",
+   "description": "Prototyping tool for animated design and interaction.",
+   "screenshot": "https://i.imgur.com/NTfk8Nn.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Sketch",
+   "url": "https://sketchapp.com/",
+   "description": "Digital design toolkit for interface design.",
+   "screenshot": "https://i.imgur.com/kysml8h.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Zeplin",
+   "url": "https://zeplin.io/",
+   "description": "Collaboration tool for UI designers & front-end developers.",
+   "screenshot": "https://i.imgur.com/IRmUAyD.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Whimsical",
+   "url": "https://whimsical.co/",
+   "description": "A cool web app for creating flowcharts, user journeys and wireframes for your projects.",
+   "screenshot": "https://i.imgur.com/rBGq6xx.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Overflow",
+   "url": "https://overflow.io/",
+   "description": "Easy to use wireframing tool for creating user flows",
+   "screenshot": "https://i.imgur.com/xIZp2fF.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "References Design",
+   "url": "https://references.design/",
+   "description": "Organisational tool for images and articles that inspires your creativity",
+   "screenshot": "https://i.imgur.com/dmuY492.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "DaFont",
+   "url": "https://www.dafont.com/",
+   "description": "An extensive collection of downloadable fonts for use in various projects.",
+   "screenshot": "https://i.imgur.com/caqaWNQ.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Fonts In Use",
+   "url": "https://fontsinuse.com/",
+   "description": "An archive for discovering fonts used in various designs.",
+   "screenshot": "https://i.imgur.com/hyDsdes.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Glyphs",
+   "url": "https://glyphsapp.com/",
+   "description": "Mac app for designing, editing and creating custom fonts.",
+   "screenshot": "https://i.imgur.com/l36sD0z.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Google Fonts",
+   "url": "https://fonts.google.com/",
+   "description": "Google's collection of over 800 free open-sourced fonts for use in your projects.",
+   "screenshot": "https://i.imgur.com/cuGiR41.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Typekit",
+   "url": "https://typekit.com/",
+   "description": "Adobe's subscription service for fonts synced directly to softwares or websites.",
+   "screenshot": "https://i.imgur.com/aXeKxN6.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Typespiration",
+   "url": "http://typespiration.com/",
+   "description": "Inspiration for web font combinations with ready-to-use HTML/CSS code.",
+   "screenshot": "https://i.imgur.com/DLKdMZx.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Typographica",
+   "url": "http://typographica.org/",
+   "description": "Review and commentary on difference typefaces and typebooks.",
+   "screenshot": "https://i.imgur.com/JgahU8x.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "You Work For Them",
+   "url": "https://www.youworkforthem.com/fonts/",
+   "description": "A marketplace for designer fonts in difference licensing options.",
+   "screenshot": "https://i.imgur.com/DOiza5J.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Brand New Roman",
+   "url": "https://www.brandnewroman.com",
+   "description": "Typography style made up by brand logos.",
+   "screenshot": "https://i.imgur.com/kyyAMB1.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Archetype",
+   "url": "https://archetypeapp.com/",
+   "description": "Tool for creating consistent typography styles across projects.",
+   "screenshot": "https://i.imgur.com/8kEZCnD.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Sans Forgetica",
+   "url": "http://sansforgetica.rmit/",
+   "description": "A font designed by RMIT to help in remembering notes.",
+   "screenshot": "https://i.imgur.com/7NK0158.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Ffonts",
+   "url": "https://www.ffonts.net/",
+   "description": "Free fonts for Windows & Mac.",
+   "screenshot": "https://i.imgur.com/pen4fl5.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Font Reach",
+   "url": "https://www.fontreach.com/",
+   "description": "Search for fonts and see what other websites are using them.",
+   "screenshot": "https://i.imgur.com/wCpAivM.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Hemingway App",
+   "url": "http://www.hemingwayapp.com/",
+   "description": "Text checker improving your writing for readability",
+   "screenshot": "https://i.imgur.com/7EM2H74.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Great Simple Studio",
+   "url": "https://greatsimple.io/",
+   "description": "UI resources for wireframes, graphic interfaces, icons and core elements.",
+   "screenshot": "https://i.imgur.com/wGJK1ZJ.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "PSDDD",
+   "url": "https://psddd.co/",
+   "description": "Extensive collection of free resources - Photoshop, Sketch, Web & Mobile UI templates.",
+   "screenshot": "https://i.imgur.com/XKci47A.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Semantic UI",
+   "url": "https://semantic-ui.com/",
+   "description": "User interface component library for designers and web developers.",
+   "screenshot": "https://i.imgur.com/yMr7rP7.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Simple Mockups",
+   "url": "https://lstore.graphics",
+   "description": "Device mockups and scene creators for laying out your designs.",
+   "screenshot": "https://i.imgur.com/VUI3KiD.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Sketch App Resources",
+   "url": "https://www.sketchappsources.com/",
+   "description": "Collection of free and premium Sketch resources for mobile, web, UI and UX design.",
+   "screenshot": "https://i.imgur.com/x4k5vIK.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Sketch For Designers",
+   "url": "https://sketch.fordesignrs.com/",
+   "description": "Collection of Sketch resources - templates, plugins, tutorials and more.",
+   "screenshot": "https://i.imgur.com/uBxR5r1.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "UI 8",
+   "url": "https://ui8.net/",
+   "description": "Free and Paid UI Template and Wireframing Kits.",
+   "screenshot": "https://i.imgur.com/Dp8jtwU.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "UI Space",
+   "url": "https://uispace.net/",
+   "description": "Collection of UI resources for Photoshop, Illustrator, Sketch & Web Design.",
+   "screenshot": "https://i.imgur.com/NVsiPfB.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "UI Stencils",
+   "url": "https://www.uistencils.com/",
+   "description": "Stationaries, tools and materials for sketching prototypes and wireframes.",
+   "screenshot": "https://i.imgur.com/UmxRQJL.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Avataaars",
+   "url": "https://getavataaars.com",
+   "description": "Free online avatar generator for profiles",
+   "screenshot": "https://i.imgur.com/WL3X5f4.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Cruip",
+   "url": "https://cruip.com/",
+   "description": "Free HTML landing page templates",
+   "screenshot": "https://i.imgur.com/Owc0mph.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "UI Jar",
+   "url": "https://uijar.com/",
+   "description": "Curated design inspiration for web, mobile and design content",
+   "screenshot": "https://i.imgur.com/aGmBG5n.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Humaaans",
+   "url": "https://www.humaaans.com/",
+   "description": "Design library for illustrations of people for Sketch and Invision Studio",
+   "screenshot": "https://i.imgur.com/RtknV0y.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Dark Patterns",
+   "url": "https://darkpatterns.org/",
+   "description": "Website that exposes decepting user interfaces and types of tricks used to deceive users.",
+   "screenshot": "https://i.imgur.com/mxHnRld.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Design Kit",
+   "url": "http://www.designkit.org/",
+   "description": "IDEO's platform to learn about human-centered design and best practices.",
+   "screenshot": "https://i.imgur.com/GalHagd.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Laws of UX",
+   "url": "https://lawsofux.com/",
+   "description": "Collection of maxims and principles for designing user interfaces.",
+   "screenshot": "https://i.imgur.com/8bVWiig.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Little Big Details",
+   "url": "http://littlebigdetails.com/",
+   "description": "A collection of finer design details that leads to user delight in their user experience. ",
+   "screenshot": "https://i.imgur.com/1FEMVeM.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Lookback",
+   "url": "https://lookback.io/",
+   "description": "Tool for recording user interactions during user interviews and usability testing.",
+   "screenshot": "https://i.imgur.com/w4u4Gj0.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Microsoft Design",
+   "url": "https://www.microsoft.com/design/inclusive/",
+   "description": "Toolkit designed by Microsoft for designing for inclusivity and accesibility.",
+   "screenshot": "https://i.imgur.com/bYRWcjb.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Usability",
+   "url": "https://www.usability.gov/",
+   "description": "Lessons and resources for learning about UX best practices.",
+   "screenshot": "https://i.imgur.com/mJ9gdIy.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Usability Hub",
+   "url": "https://usabilityhub.com/",
+   "description": "User testing platform to conduct usability testing and collect insights from your users.",
+   "screenshot": "https://i.imgur.com/NldHeKy.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "UserOnboard",
+   "url": "https://www.useronboard.com/",
+   "description": "Inspiration for designing the onboarding experience from some of the popular websites.",
+   "screenshot": "https://i.imgur.com/PKILtix.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "UserTesting",
+   "url": "https://www.usertesting.com/",
+   "description": "User experience research and insights platform to improving the user experience.",
+   "screenshot": "https://i.imgur.com/2hPbitf.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "UX Pin",
+   "url": "https://www.uxpin.com/",
+   "description": "Platform for collaborating on design systems, prototyping and product development.",
+   "screenshot": "https://i.imgur.com/5pxPQGk.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Design Principles",
+   "url": "https://principles.design/",
+   "description": "A collection of articles and examples of Design Principles that make a good product.",
+   "screenshot": "https://i.imgur.com/9qb9MhK.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Make My Persona",
+   "url": "https://www.hubspot.com/make-my-persona",
+   "description": "Template tool to help you build your own user persona easily.",
+   "screenshot": "https://i.imgur.com/AImwxXk.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Draw IO",
+   "url": "https://www.draw.io/",
+   "description": "Create flowcharts and wireframes easily with this free online diagram software.",
+   "screenshot": "https://i.imgur.com/Fwh1NWD.jpg"
  }
 ]
