@@ -25,6 +25,7 @@ class Navigation extends Component {
 
           <NavLink exact to="/" className="nav-button" activeStyle={{fontFamily: "Montserrat-Medium",color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="home" /><div className="spacer"/>Home</NavLink>
           <NavLink to="/Favorites"  className="nav-button" activeStyle={{fontFamily: "Montserrat-Medium",color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="favorite"/><div className="spacer"/>Favorites</NavLink>
+          <NavLink to="/Books"  className="nav-button" activeStyle={{fontFamily: "Montserrat-Medium",color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="books"/><div className="spacer"/>Books</NavLink>
           <NavLink to="/Branding"  className="nav-button" activeStyle={{fontFamily: "Montserrat-Medium",color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="branding"/><div className="spacer"/>Branding</NavLink>
           <NavLink to="/Colors"  className="nav-button" activeStyle={{fontFamily: "Montserrat-Medium",color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="color"/><div className="spacer"/>Colors</NavLink>
           <NavLink to="/Community"  className="nav-button" activeStyle={{fontFamily: "Montserrat-Medium",color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="community"/><div className="spacer"/>Community</NavLink>
@@ -38,7 +39,7 @@ class Navigation extends Component {
 
           <div className="nav-footer">
             <NavLink to="/About"  className="nav-footer-item" onClick={() => this.props.componentDidMount()}>About</NavLink>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCs3Agzq0vKmxv244AMq9B3raFdZLes8ZZQemCkzFE_bnEYA/viewform?usp=sf_link"  target="_blank"  className="nav-footer-item">Submit</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCs3Agzq0vKmxv244AMq9B3raFdZLes8ZZQemCkzFE_bnEYA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"  className="nav-footer-item">Submit</a>
             <div className="nav-copyright">© 2018 Neede Design.</div>
           </div>
 

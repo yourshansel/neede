@@ -7,7 +7,6 @@ import { createStore, applyMiddleware } from 'redux';
 import { createLogger } from 'redux-logger'
 import { rootReducer } from './CardComponent';
 import { loadState, saveState } from './localStorage.js';
-import ReactGA from 'react-ga';
 
 
 

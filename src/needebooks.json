@@ -1,0 +1,66 @@
+[
+ {
+   "category": "Books",
+   "name": "Creative Confidence",
+   "url": "https://amzn.to/2PF9azG",
+   "author": "Tom Kelley & David Kelley",
+   "description": "An inspiring book on we can tap into our creative potential easily.",
+   "screenshot": "https://i.imgur.com/gkPXkqi.jpg"
+ },
+ {
+   "category": "Books",
+   "name": "The Design of Everyday Things",
+   "url": "https://amzn.to/2Em4cWz",
+   "author": "Don Norman",
+   "description": "A classic book on user-centric design that is still applicable in digital product design.",
+   "screenshot": "https://i.imgur.com/1BK23pd.jpg"
+ },
+ {
+   "category": "Books",
+   "name": "Hooked",
+   "url": "https://amzn.to/2LmgakM",
+   "author": "Nir Eyal & Ryan Hoover",
+   "description": "Interesting insights on driving user engagement.",
+   "screenshot": "https://i.imgur.com/geHTKqK.jpg"
+ },
+ {
+   "category": "Books",
+   "name": "Sprint",
+   "url": "https://amzn.to/2QSjB7J",
+   "author": "Jake Knapp",
+   "description": "A guide on running design sprints - a problem solving methodology with design.",
+   "screenshot": "https://i.imgur.com/1r0KKa0.jpg"
+ },
+ {
+   "category": "Books",
+   "name": "Lean UX",
+   "url": "https://amzn.to/2UJ0sEo",
+   "author": "Jeff Gothelf & Josh Seiden",
+   "description": "UX principles to rapidly test, evaluate and validate ideas with users.",
+   "screenshot": "https://i.imgur.com/AQtqaNC.jpg"
+ },
+ {
+   "category": "Books",
+   "name": "The Power of Habit",
+   "url": "https://amzn.to/2CfQOBZ",
+   "author": "Charles Duhigg",
+   "description": "How habits are formed and how they can be transformed into positive practices.",
+   "screenshot": "https://i.imgur.com/jO08Z9e.jpg"
+ },
+ {
+   "category": "Books",
+   "name": "Accessibility for Everyone",
+   "url": "https://amzn.to/2PD6z9x",
+   "author": "Laura Kalbag",
+   "description": "Designing for accesibility with helpful guidelines and best practices.",
+   "screenshot": "https://i.imgur.com/e705ewg.jpg"
+ },
+ {
+   "category": "Books",
+   "name": "Quiet",
+   "url": "https://amzn.to/2PEb17O",
+   "author": "Susan Cain",
+   "description": "A book on how introverts can use their strength and become successful.",
+   "screenshot": "https://i.imgur.com/rEOBMGF.jpg"
+ }
+]
