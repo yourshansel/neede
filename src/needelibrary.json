@@ -22,7 +22,7 @@
  },
  {
    "category": "Branding",
-   "name": "Identiy Designed",
+   "name": "Identity Designed",
    "url": "https://identitydesigned.com/",
    "description": "A compilation of visual identities from design studios all over the world.",
    "screenshot": "https://i.imgur.com/IVc8LLw.jpg"
@@ -136,7 +136,7 @@
    "category": "Community",
    "name": "Designer News",
    "url": "https://www.designernews.co/",
-   "description": "Community for design and technology professionals to share latest news and events.",
+   "description": "Latest news, events and discussion on Design and Technology.",
    "screenshot": "https://i.imgur.com/YUXKMM9.jpg"
  },
  {
@@ -178,7 +178,7 @@
    "category": "Community",
    "name": "Spectrum",
    "url": "https://spectrum.chat/",
-   "description": "A chatting and discussion platform with mutiple design and technology communities.",
+   "description": "A discussion platform with various design and tech communities.",
    "screenshot": "https://i.imgur.com/HoCVXvB.jpg"
  },
  {
@@ -444,14 +444,14 @@
    "category": "Photo",
    "name": "Diverse UI",
    "url": "https://diverseui.com/",
-   "description": "Great site to get images for profile pictures, personas for personal or commercial projects.",
+   "description": "Great site to get images for profile pictures or user personas for projects.",
    "screenshot": "https://i.imgur.com/cJbdNTg.jpg"
  },
  {
    "category": "Photo",
    "name": "Negative Space",
    "url": "https://negativespace.co/",
-   "description": "Free stock photos for personal and commmercial use. Search through hashtags or colors.",
+   "description": "Free stock photos for personal and commercial use.",
    "screenshot": "https://i.imgur.com/cCYtTUH.jpg"
  },
  {
@@ -542,7 +542,7 @@
    "category": "Software",
    "name": "Material Design",
    "url": "https://material.io",
-   "description": "Google's design system that covers a wide spectrum of digital design principles and guidelines.",
+   "description": "Google's design system that covers a spectrum of design principles and guidelines.",
    "screenshot": "https://i.imgur.com/yLmkQwu.jpg"
  },
  {
@@ -703,7 +703,7 @@
    "category": "UI",
    "name": "PSDDD",
    "url": "https://psddd.co/",
-   "description": "Extensive collection of free resources - Photoshop, Sketch, Web & Mobile UI templates.",
+   "description": "An extensive collection of free templates for Sketch, Photoshop and more.",
    "screenshot": "https://i.imgur.com/XKci47A.jpg"
  },
  {
@@ -787,7 +787,7 @@
    "category": "UX",
    "name": "Dark Patterns",
    "url": "https://darkpatterns.org/",
-   "description": "Website that exposes decepting user interfaces and types of tricks used to deceive users.",
+   "description": "Website that exposes decepting user interfaces and tricks used to deceive users.",
    "screenshot": "https://i.imgur.com/mxHnRld.jpg"
  },
  {
@@ -843,7 +843,7 @@
    "category": "UX",
    "name": "UserOnboard",
    "url": "https://www.useronboard.com/",
-   "description": "Inspiration for designing the onboarding experience from some of the popular websites.",
+   "description": "Onboarding experiences from various popular websites.",
    "screenshot": "https://i.imgur.com/PKILtix.jpg"
  },
  {
