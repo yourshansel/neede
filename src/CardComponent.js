@@ -4,6 +4,7 @@ import IconComponent from './IconComponent.js';
 import { store } from './App.js'
 import NotificationSystem from 'react-notification-system';
 import style from './styles.js';
+import {CopyToClipboard} from 'react-copy-to-clipboard'
 
 
 
@@ -42,7 +43,15 @@ class CardComponent extends Component {
 
 
 
-
+  toggleCopied(e) {
+    this._notificationSystem.addNotification({
+      message: this.props.data.name + ' has been copied to clipboard',
+      autoDismiss: 2,
+      level: 'info',
+      position: 'tr',
+      dismissible: 'click'
+    });
+  }
 
 
 
@@ -94,11 +103,19 @@ class CardComponent extends Component {
           <div className="cardComponent slideUp">
             <div className="CTA-container">
               <div className="CTA-wrapper">
-                    <div onClick={() => this.toggleFavorites(this.props.data)}
+                <div onClick={() => this.toggleFavorites(this.props.data)}
                       className={this.props.data.fav ? "CTA-icon-selected" : "CTA-icon"}>
                       <IconComponent icon={this.props.data.fav ? "favorited" : "favorite"}/>
-                    </div>
-                  <a href={url} className="CTA-icon" target="_blank"><IconComponent icon="link"/></a>
+                </div>
+                <div onClick={() => this.toggleCopied(this.props.data)}
+
+                  className="CTA-icon">
+                  <CopyToClipboard text={url}>
+                    <span><IconComponent icon="copy"/></span>
+                  </CopyToClipboard>
+                </div>
+
+                <a href={url} className="CTA-icon" target="_blank"><IconComponent icon="link"/></a>
               </div>
             </div>
             <img src={screenshot} alt="" className="cardComponent_img"/>
