@@ -49,6 +49,41 @@
    "screenshot": "https://i.imgur.com/bCTlAOC.jpg"
  },
  {
+   "category": "Branding",
+   "name": "Micrsoft Design",
+   "url": "https://www.microsoft.com/design/",
+   "description": "Design resources and guidelines by Microsoft - Inclusive Design & Design Systems",
+   "screenshot": "https://i.imgur.com/5NyuYZC"
+ },
+ {
+   "category": "Branding",
+   "name": "Invision Design",
+   "url": "https://www.invisionapp.com/inside-design/",
+   "description": "Design articles, stories and inspiration by Invision.",
+   "screenshot": "https://i.imgur.com/6iJCNbH"
+ },
+ {
+   "category": "Branding",
+   "name": "Uber Design",
+   "url": "https://www.uber.design/",
+   "description": "Design articles and guidelines by Uber - Motion and Interaction design",
+   "screenshot": "https://i.imgur.com/D7C1k53"
+ },
+ {
+   "category": "Branding",
+   "name": "Airbnb Design",
+   "url": "https://airbnb.design/",
+   "description": "Design articles and guidelines by Airbnb - Design system and community building",
+   "screenshot": "https://i.imgur.com/mfi0H30"
+ },
+ {
+   "category": "Branding",
+   "name": "Google Design",
+   "url": "https://design.google/",
+   "description": "Design articles and tools by Google.",
+   "screenshot": ""
+ },
+ {
    "category": "Colors",
    "name": "Adobe Color Wheel",
    "url": "https://color.adobe.com/",
@@ -194,6 +229,20 @@
    "url": "https://www.webdesignernews.com/",
    "description": "Daily curated stories for web designers and developers.",
    "screenshot": "https://i.imgur.com/9zoInXC.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Fiverr",
+   "url": "https://www.fiverr.com/",
+   "description": "An online marketplace to search for freelance services starting from five dollars.",
+   "screenshot": "https://i.imgur.com/A4PHHJ6"
+ },
+ {
+   "category": "Community",
+   "name": "Upwork",
+   "url": "https://www.upwork.com/",
+   "description": "Marketplace to search for freelance services ranging from short-term projects to full-time work.",
+   "screenshot": "https://i.imgur.com/uL5Wycs"
  },
  {
    "category": "Icons",
@@ -385,6 +434,13 @@
    "screenshot": "https://i.imgur.com/ZklAV8s.jpg"
  },
  {
+   "category": "Inspiration",
+   "name": "UI Sources",
+   "url": "https://www.uisources.com",
+   "description": "Video patterns and micro interaction of popular apps.",
+   "screenshot": "https://i.imgur.com/gdPvhrO"
+ },
+ {
    "category": "Photo",
    "name": "500px",
    "url": "https://500px.com",
@@ -481,6 +537,27 @@
    "url": "https://www.userpersonaimages.com/",
    "description": "Free stock photos for user persona images",
    "screenshot": "https://i.imgur.com/NcJCRWq.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Visual Hunt",
+   "url": "https://visualhunt.com/",
+   "description": "Curated collection of free stock photos and images",
+   "screenshot": "https://i.imgur.com/oH8ReRc"
+ },
+ {
+   "category": "Photo",
+   "name": "Down BG",
+   "url": "https://www.downbg.com/",
+   "description": "Free background photos and images for your projects",
+   "screenshot": "https://i.imgur.com/Fmq6TpA"
+ },
+ {
+   "category": "Photo",
+   "name": "Remove BG",
+   "url": "https://www.remove.bg/",
+   "description": "Tool that helps you remove the background from your photos and images",
+   "screenshot": "https://i.imgur.com/J4xa9WQ"
  },
  {
    "category": "Software",
@@ -593,6 +670,34 @@
    "url": "https://references.design/",
    "description": "Organisational tool for images and articles that inspires your creativity",
    "screenshot": "https://i.imgur.com/dmuY492.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Webflow",
+   "url": "https://webflow.com/",
+   "description": "An easy to use web app for building and launching responsive websites.",
+   "screenshot": "https://i.imgur.com/UNiYVjU"
+ },
+ {
+   "category": "Software",
+   "name": "Adobe XD",
+   "url": "https://www.adobe.com/products/xd.html",
+   "description": "Prototyping and design tool by Adobe ",
+   "screenshot": "https://i.imgur.com/737Eql3"
+ },
+ {
+   "category": "Software",
+   "name": "Figma",
+   "url": "https://www.figma.com/",
+   "description": "Prototyping and design tool built for collaborative teams.",
+   "screenshot": "https://i.imgur.com/HnJHaDe"
+ },
+ {
+   "category": "Software",
+   "name": "Marvel App",
+   "url": "https://marvelapp.com/",
+   "description": "Wireframing and prototyping tool.",
+   "screenshot": "https://i.imgur.com/SnEbUpJ"
  },
  {
    "category": "Typography",
@@ -784,6 +889,13 @@
    "screenshot": "https://i.imgur.com/RtknV0y.jpg"
  },
  {
+   "category": "UI",
+   "name": "UI Oh My",
+   "url": "http://uiohmy.com",
+   "description": "UI screens comparison between Android and iOS.",
+   "screenshot": "https://i.imgur.com/0695qXg"
+ },
+ {
    "category": "UX",
    "name": "Dark Patterns",
    "url": "https://darkpatterns.org/",
@@ -880,5 +992,215 @@
    "url": "https://www.draw.io/",
    "description": "Create flowcharts and wireframes easily with this free online diagram software.",
    "screenshot": "https://i.imgur.com/Fwh1NWD.jpg"
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": ""
+ },
+ {
+   "category": "",
+   "name": "",
+   "url": "",
+   "description": "",
+   "screenshot": "https://i.imgur.com/nsOHMAS"
  }
 ]

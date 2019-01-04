@@ -40,7 +40,7 @@ class Navigation extends Component {
           <div className="nav-footer">
             <NavLink to="/About"  className="nav-footer-item" onClick={() => this.props.componentDidMount()}>About</NavLink>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCs3Agzq0vKmxv244AMq9B3raFdZLes8ZZQemCkzFE_bnEYA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"n  className="nav-footer-item">Submit</a>
-            <div className="nav-copyright">© 2018 Neede Design.</div>
+            <div className="nav-copyright">© 2019 Neede Design.</div>
           </div>
 
         </div>
