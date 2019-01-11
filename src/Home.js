@@ -45,8 +45,8 @@ class Home extends Component {
     return (
 
       <div>
-      <div className="header">Design Resources</div>
-      <div className="description">A collection of useful online resources for designers.</div>      
+      <div className="header">Neede Design Resources</div>
+      <div className="description">A collection of useful online resources for designers.</div>
       <SearchInput className="search-input" onChange={this.searchUpdated} placeholder = 'Search for resources...'/>
       <div className="array-component">{cardComps}</div>
 
