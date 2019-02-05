@@ -1,0 +1,15 @@
+.main-background{
+  background-color: #F8F8F8;
+  display: flex;
+  min-height: 100vh;
+}
+
+
+
+@media screen
+and (min-width : 375px)
+and (max-width : 1024px){
+
+  .main-background{display:block;}
+
+}

@@ -1,0 +1,185 @@
+@import 'fonts.css';
+
+/* Card Component Styles */
+
+.cardComponent_wrapper{
+  display: flex;
+}
+
+.slideUp {
+    animation: slide-up 0.4s ease-out forwards;
+}
+
+.cardComponent{
+  height: auto;
+  width: 320px;
+  margin-bottom: 64px;
+  background-color: #FFF;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgb(81,86,229, 0.1);
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.cardComponent:hover {
+  opacity: 1;
+  box-shadow: 0px 2px 32px rgb(81,86,229, 0.1);
+  position: relative;
+  top: -5px;
+
+
+}
+
+.cardComponent:hover .CTA-container {
+  display: block;
+}
+
+.cardComponent:hover .cardComponent_category_wrapper{
+  display: block;
+}
+
+
+.cardComponent_img {
+  height: 160px;
+  width: 100%;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom: 4px solid #F8F8F8;
+  margin-bottom: 16px;
+}
+
+.cardComponent_name {
+  font-family: Montserrat-Medium;
+  font-size: 16px;
+  color: #5156E5;
+  padding-left: 24px;
+  text-decoration: none;
+
+}
+
+.cardComponent_name:hover {
+  text-decoration: underline;
+}
+
+
+.cardComponent_description {
+  font-family: Montserrat;
+  font-size: 12px;
+  color: #818C9F;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 8px;
+  line-height: 1.6;
+}
+
+.cardComponent_author {
+  font-family: Montserrat;
+  font-size: 12px;
+  color: #818C9F;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 8px;
+
+}
+
+/*Card Component CTA Styles */
+
+
+.CTA-container{
+  z-index: 1;
+  display: none;
+  position: absolute;
+  width: 80px;
+  height: 24px;
+  box-shadow: 1px 2px 16px rgb(81,86,229, 0.3);
+  margin-top : 8px;
+  margin-left: 232px;
+  border-radius: 2px;
+  background-color: #FFF;
+  justify-content: space-around;
+
+}
+
+.CTA-wrapper{
+  display: flex;
+  align-content: flex-start;
+}
+
+.CTA-icon{
+  width: 16px;
+  height: 16px;
+  padding-left: 8px;
+  padding-top: 4px;
+  fill: #5156E5;
+  cursor: pointer;
+}
+
+.CTA-icon-selected{
+  width: 16px;
+  height: 16px;
+  padding-left: 8px;
+  padding-top: 4px;
+  fill: #E45050;
+  cursor: pointer;
+  animation: fav 0.4s ease-out forwards;
+}
+
+/* Notification System */
+
+.notification-system{
+  display: block;
+}
+
+/*  HELPER CSS */
+
+@keyframes slide-up {
+    0% {
+       transform: translateY(8%);
+       opacity: 0;
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+
+    }
+
+
+
+
+@keyframes fav {
+      0% {
+       transform: translateY(8%);
+       opacity: 0;
+       -webkit-transform: scale(1.0);
+       -moz-transition: scale(1.0);
+        transition: scale(1.0);
+      }
+    50% {
+      -webkit-transform: scale(1.2);
+      -moz-transition: scale(1.2);
+       transition: scale(1.2);
+      transform-origin: center;
+    }
+
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+        -webkit-transform: scale(1.0);
+        -moz-transition: scale(1.0);
+         transition: scale(1.0);
+      }
+
+      }
+
+
+/* Media Queries */
+
+
+
+@media screen and (min-width : 375px)
+and (max-width : 1024px){
+  .cardComponent{margin-bottom: 24px;}
+  .CTA-container{display:block;}
+  .notification-system{display:none;}
+}
