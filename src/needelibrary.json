@@ -232,7 +232,7 @@
  },
  {
    "category": "Community",
-   "name": "Web designer News",
+   "name": "Web Designer News",
    "url": "https://www.webdesignernews.com/?ref=neede.co",
    "description": "Daily curated stories for web designers and developers.",
    "screenshot": "https://i.imgur.com/9zoInXC.jpg"
@@ -813,13 +813,6 @@
  },
  {
    "category": "Software",
-   "name": "Marvel App",
-   "url": "https://marvelapp.com/?ref=neede.co",
-   "description": "Wireframing and prototyping tool.",
-   "screenshot": "https://i.imgur.com/SnEbUpJ.jpg"
- },
- {
-   "category": "Software",
    "name": "Dratium",
    "url": "http://www.draftium.com/?ref=neede.co",
    "description": "Tool for turbo prototyping with real-time collaboration.",
@@ -1202,5 +1195,82 @@
    "url": "https://lottiefiles.com/?ref=neede.co",
    "description": "A library of micro UI animations in JSON format for use in web and mobile platforms.",
    "screenshot": "https://i.imgur.com/bqQ9hce.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Blacks Who Design",
+   "url": "https://blackswho.design/?ref=neede.co",
+   "description": "A community to discover or connect with talented Black designers in the industry.",
+   "screenshot": "https://i.imgur.com/zASpJ8X.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Mix Kit",
+   "url": "https://mixkit.co/?ref=neede.co",
+   "description": "Free stock video footage and animation for use in your projects.",
+   "screenshot": "https://i.imgur.com/riqtEAo.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Heropatterns",
+   "url": "http://www.heropatterns.com/?ref=neede.co",
+   "description": "A collection of repeatable SVG background patterns to use on web projects.",
+   "screenshot": "https://i.imgur.com/oxGsppz.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Make Tint & Shades",
+   "url": "https://maketintsandshades.com/?ref=neede.co",
+   "description": "Generator shades of colors in 10% increments between colors.",
+   "screenshot": "https://i.imgur.com/10QrucJ.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Page Flows",
+   "url": "https://pageflows.com/?ref=neede.co",
+   "description": "User flow videos and screenshots of popular websites and mobile apps.",
+   "screenshot": "https://i.imgur.com/bC50R6T.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Frrames",
+   "url": "https://frrames.com/?ref=neede.co",
+   "description": "Design Mockup Frames for Mac OS, Windows, iOS and Android. Free to download.",
+   "screenshot": "https://i.imgur.com/ZRDwEf3.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Framer X",
+   "url": "https://framer.com/?ref=neede.co",
+   "description": "Interctive Design & Prototyping Tool ",
+   "screenshot": "https://i.imgur.com/vvcBHIn.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "UI Faces",
+   "url": "https://uifaces.co/?ref=neede.co",
+   "description": "Find profile photos or avatars for yours design mockups with this aggregator site.",
+   "screenshot": "https://i.imgur.com/cvbyRVv.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Women Who Design",
+   "url": "https://womenwho.design/?ref=neede.co",
+   "description": "A community to discover or connect with talented Women in the design industry.",
+   "screenshot": "https://i.imgur.com/ogekkNZ.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Latinxs Who Design",
+   "url": "https://latinxswhodesign.com/?ref=neede.co",
+   "description": "A community to discover or connect with talented Latinxs in the design industry.",
+   "screenshot": "https://i.imgur.com/XiLDYgv.jpg"
+ },
+ {
+   "category": "UI",
+   "name": "Carbon Now",
+   "url": "https://carbon.now.sh/?ref=neede.co",
+   "description": "Create beauitful images of your source code to share with others.",
+   "screenshot": "https://i.imgur.com/8O3xCNa.jpg"
  }
 ]
