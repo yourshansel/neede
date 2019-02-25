@@ -115,11 +115,11 @@ class CardComponent extends Component {
                   </CopyToClipboard>
                 </div>
 
-                <a href={url} className="CTA-icon" target="_blank"><IconComponent icon="link"/></a>
+                <a href={url} className="CTA-icon" target="_blank" rel="noopener noreferrer"><IconComponent icon="link"/></a>
               </div>
             </div>
             <img src={screenshot} alt="" className="cardComponent_img"/>
-            <a href={url} className="cardComponent_name" target="_blank">{name}</a>
+            <a href={url} className="cardComponent_name" target="_blank" rel="noopener noreferrer">{name}</a>
             <p className="cardComponent_description">{description}</p>
         </div>
       </div>
