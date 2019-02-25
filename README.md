@@ -1,1 +1,0 @@
-Neede Design Resources Library.
