@@ -60,8 +60,6 @@ const IconComponent = (props) => (
   </svg>
 );
 
-IconComponent.propTypes = {
-  icon: (this.props),
-};
+
 
 export default IconComponent;
