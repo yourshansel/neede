@@ -183,6 +183,13 @@
  },
  {
    "category": "Community",
+   "name": "Designers Talk",
+   "url": "http://www.designerstalk.com/forums/?ref=neede.co",
+   "description": "Forum for designers from all disciplines to discuss about ideas and industry news.",
+   "screenshot": "https://i.imgur.com/AJYEnTA.jpg"
+ },
+ {
+   "category": "Community",
    "name": "Dribbble",
    "url": "https://dribbble.com/?ref=neede.co",
    "description": "Online community to showcase, discover work and connect with other designers.",
@@ -1235,7 +1242,7 @@
    "category": "Software",
    "name": "Framer X",
    "url": "https://framer.com/?ref=neede.co",
-   "description": "Interctive Design & Prototyping Tool ",
+   "description": "React-based Interactive Design & Prototyping Tool.",
    "screenshot": "https://i.imgur.com/vvcBHIn.jpg"
  },
  {
@@ -1265,5 +1272,40 @@
    "url": "https://carbon.now.sh/?ref=neede.co",
    "description": "Create beauitful images of your source code to share with others.",
    "screenshot": "https://i.imgur.com/8O3xCNa.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Color Review",
+   "url": "https://color.review/?ref=neede.co",
+   "description": "A tool and guide for color accessibility and readability.",
+   "screenshot": "https://i.imgur.com/LOcdedn.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Rotato",
+   "url": "https://rotato.xyz/?ref=neede.co",
+   "description": "Software to animate 3D Mockups for mobile apps and web design.",
+   "screenshot": "https://i.imgur.com/MW9mdZd.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Absurd Design",
+   "url": "https://absurd.design/?ref=neede.co",
+   "description": "Free surrealistic illustrations for use in personal and commercial projects.",
+   "screenshot": "https://i.imgur.com/3cz4X2Y.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Voiceflow",
+   "url": "https://getvoiceflow.com/?ref=neede.co",
+   "description": "Design & Prototyping tool for voice apps.",
+   "screenshot": "https://i.imgur.com/cP4oKY5.jpg"
+ },
+ {
+   "category": "UX",
+   "name": "Humane by Design",
+   "url": "https://humanebydesign.com/?ref=neede.co",
+   "description": "Guide to designing ethically humane and user-focused digital products ",
+   "screenshot": "https://i.imgur.com/GobZ8X3.jpg"
  }
 ]
