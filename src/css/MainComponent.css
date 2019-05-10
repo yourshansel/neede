@@ -4,10 +4,6 @@
   display: flex;
 }
 
-.header-2{
-  font-size: 24px;
-  color: #12122;
-}
 
 .array-component{
   margin-top: 32px;
@@ -45,7 +41,7 @@
   width: 320px;
   height: 72px;
   font-family: Montserrat-Medium;
-  color: #212121;
+  color: #818C9F;
   font-size: 14px;
   border: none;
   line-height: 22px;
@@ -56,8 +52,9 @@
 }
 
 .search-input > input:focus {
+  border-radius: 8px;
   outline: none;
-  box-shadow: 0px 2px 24px rgb(81,86,229, 0.1);
+  box-shadow: 0px 2px 24px rgb(102,118,222,0.1);
 
 }
 /* Navigation Styles */
@@ -82,7 +79,7 @@
   display: flex;
   width: 160px;
   height: 16px;
-  font-family: Montserrat;
+  font-family: Montserrat-Medium;
   font-size: 12px;
   color: #818C9F;
   margin-left: 40px;
