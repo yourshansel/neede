@@ -1305,7 +1305,28 @@
    "category": "UX",
    "name": "Humane by Design",
    "url": "https://humanebydesign.com/?ref=neede.co",
-   "description": "Guide to designing ethically humane and user-focused digital products ",
+   "description": "Guide to designing ethically humane and user-focused digital products.",
    "screenshot": "https://i.imgur.com/GobZ8X3.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Manypixels",
+   "url": "https://gallery.manypixels.co/?ref=neede.co",
+   "description": "Royalty free graphical illustrations for commercial and non-commercial use. ",
+   "screenshot": "https://i.imgur.com/NrtMDfB.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Muzli Inspiration",
+   "url": "https://muz.li/inspiration/best-designed-landing-pages/?ref=neede.co",
+   "description": "A curated collection of landing page inspirations from Muzli by Invision.",
+   "screenshot": "https://i.imgur.com/YWeTQjC.jpg"
+ },
+ {
+   "category": "Typography",
+   "name": "Speak Human",
+   "url": "http://speakhuman.today/?ref=neede.co",
+   "description": "Human centric microcopy generator for UX copywriting inspirations.",
+   "screenshot": "https://i.imgur.com/rqR6WbS.jpg"
  }
 ]
