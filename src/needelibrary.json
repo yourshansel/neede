@@ -1190,7 +1190,7 @@
    "screenshot": "https://i.imgur.com/NuF3UBc.jpg"
  },
  {
-   "category": "UI",
+   "category": "Animation",
    "name": "Lottie Files",
    "url": "https://lottiefiles.com/?ref=neede.co",
    "description": "A library of micro UI animations in JSON format for use in web and mobile platforms.",
@@ -1328,5 +1328,26 @@
    "url": "http://speakhuman.today/?ref=neede.co",
    "description": "Human centric microcopy generator for UX copywriting inspirations.",
    "screenshot": "https://i.imgur.com/rqR6WbS.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Blendful",
+   "url": "https://blendful.com/?ref=neede.co",
+   "description": "A tool and community for creating illustrations for your projects.",
+   "screenshot": "https://i.imgur.com/S9h20Ae.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Webframe",
+   "url": "https://webframe.xyz/?ref=neede.co",
+   "description": "A collection of web app screenshots for design inspiration.",
+   "screenshot": "https://i.imgur.com/ya4U5SM.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Paper Sizes",
+   "url": "https://papersizes.io/?ref=neede.co",
+   "description": "A comprehensive resource listing all international paper sizes and formats.",
+   "screenshot": "https://i.imgur.com/ClhDjwy.jpg"
  }
 ]

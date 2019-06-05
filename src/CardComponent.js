@@ -4,8 +4,7 @@ import IconComponent from './IconComponent.js';
 import { store } from './App.js'
 import NotificationSystem from 'react-notification-system';
 import style from './styles.js';
-import {CopyToClipboard} from 'react-copy-to-clipboard'
-
+import {CopyToClipboard} from 'react-copy-to-clipboard';
 
 
 
@@ -91,7 +90,7 @@ class CardComponent extends Component {
 
 
   render() {
-    let {name, description, url , screenshot, fav} = this.props.data;
+    let {name, category, description, url , screenshot, fav} = this.props.data;
 
     if (!fav) {
   fav = false;

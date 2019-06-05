@@ -49,7 +49,7 @@ class Home extends Component {
       <div className="description">A collection of useful online resources for designers.</div>
       <SearchInput className="search-input" onChange={this.searchUpdated} placeholder = 'Search for resources...'/>
       <div className="array-component">{cardComps}</div>
-
+     
 
       </div>
 
