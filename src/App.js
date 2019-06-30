@@ -10,7 +10,6 @@ import { loadState, saveState } from './localStorage.js';
 
 
 
-
 class App extends Component {
   constructor() {
     super();

@@ -127,17 +127,21 @@
   position: fixed;
   margin-left: 40px;
   padding-top: 24px;
+}
+
+.nav-footer-block{
   display: block;
 }
 
 .nav-footer-item{
   font-family: Montserrat-Medium;
-  padding-right: 16px;
-  padding-top: 16px;
-  padding-bottom: 16px;
+  width: 72px;
+  padding-top: 8px;
+  padding-bottom: 8px;
   text-decoration: none;
   font-size: 12px;
   color: #818C9F;
+  display: inline-block;
 }
 
 .nav-footer-item:hover{

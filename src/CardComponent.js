@@ -9,7 +9,6 @@ import {CopyToClipboard} from 'react-copy-to-clipboard';
 
 
 
-
 export function rootReducer(state=[], action) {
 
   switch(action.type) {
@@ -49,7 +48,7 @@ class CardComponent extends Component {
       level: 'info',
       position: 'tr',
       dismissible: 'click'
-    });
+    })
   }
 
 
@@ -58,66 +57,72 @@ class CardComponent extends Component {
 
   toggleFavorites(e) {
     if
-    (store.getState().includes(this.props.data))
-  {
-    this._notificationSystem.addNotification({
-      message: this.props.data.name + ' has been removed from Favorites',
-      autoDismiss: 2,
-      level: 'info',
-      position: 'tr',
-      dismissible: 'click'
-    });
-    console.log(this.props.data.name + ' removed from favorites');
-    this.props.data.fav = false;
-    store.dispatch({type: 'SUB_FAVORITE', data: this.props.data});
+      (store.getState().includes(this.props.data))
+    {
+      this._notificationSystem.addNotification({
+        message: this.props.data.name + ' has been removed from Favorites',
+        autoDismiss: 2,
+        level: 'info',
+        position: 'tr',
+        dismissible: 'click'
+      });
+      console.log(this.props.data.name + ' removed from favorites');
+      this.props.data.fav = false;
+      store.dispatch({type: 'SUB_FAVORITE', data: this.props.data});
 
-  }
+    }
 
-    else{
-    this._notificationSystem.addNotification({
-      message: this.props.data.name + ' has been added to Favorites',
-      autoDismiss: 2,
-      level: 'info',
-      position: 'tr',
-      dismissible: 'click'
-    });
-    console.log(this.props.data.name + ' added to favorites');
-    this.props.data.fav = true;
-    store.dispatch({type: 'ADD_FAVORITE', data: this.props.data});
+      else
+    {
+      this._notificationSystem.addNotification({
+        message: this.props.data.name + ' has been added to Favorites',
+        autoDismiss: 2,
+        level: 'info',
+        position: 'tr',
+        dismissible: 'click'
+      });
+      console.log(this.props.data.name + ' added to favorites');
+      this.props.data.fav = true;
+      store.dispatch({type: 'ADD_FAVORITE', data: this.props.data});
 
-  }
+    }
   }
 
 
   render() {
-    let {name, category, description, url , screenshot, fav} = this.props.data;
+    let {name, description, url, screenshot, fav} = this.props.data;
 
     if (!fav) {
   fav = false;
-}
+  }
+
+  
 
     return (
       <div className="cardComponent_wrapper">
         <div className="notification-system"><NotificationSystem style={style} ref="notificationSystem"/></div>
           <div className="cardComponent slideUp">
             <div className="CTA-container">
+
+
               <div className="CTA-wrapper">
+                
                 <div onClick={() => this.toggleFavorites(this.props.data)}
                       className={this.props.data.fav ? "CTA-icon-selected" : "CTA-icon"}>
                       <IconComponent icon={this.props.data.fav ? "favorited" : "favorite"}/>
                 </div>
-                <div onClick={() => this.toggleCopied(this.props.data)}
 
+
+                <div onClick={() => this.toggleCopied(this.props.data)}
                   className="CTA-icon">
-                  <CopyToClipboard text={url}>
-                    <span><IconComponent icon="copy"/></span>
-                  </CopyToClipboard>
+                  <CopyToClipboard text={url}><span><IconComponent icon="copy"/></span></CopyToClipboard>
                 </div>
 
                 <a href={url} className="CTA-icon" target="_blank" rel="noopener noreferrer"><IconComponent icon="link"/></a>
               </div>
+
             </div>
-            <img src={screenshot} alt="" className="cardComponent_img"/>
+            <img src={screenshot} alt="a" className="cardComponent_img"/>
             <a href={url} className="cardComponent_name" target="_blank" rel="noopener noreferrer">{name}</a>
             <p className="cardComponent_description">{description}</p>
         </div>

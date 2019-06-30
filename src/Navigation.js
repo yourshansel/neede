@@ -17,7 +17,7 @@ class Navigation extends Component {
     return(
 
       <div className={this.props.isToggleOn ? "nav-on":"nav"}>
-        
+
         <HashRouter>
         <Analytics id='UA-123483640-1' debug>
           <Switch>
@@ -40,10 +40,16 @@ class Navigation extends Component {
             <NavLink to="/UI-Design"  className="nav-button" activeStyle={{fontFamily: "Montserrat-Medium",color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="ui"/><div className="spacer"/>UI Design</NavLink>
             <NavLink to="/UX-Design"  className="nav-button" activeStyle={{fontFamily: "Montserrat-Medium",color: '#5156E5',fill: '#5156E5'}} onClick={() => this.props.componentDidMount()}><IconComponent icon="ux"/><div className="spacer"/>UX Design</NavLink>
             </div>
-            <div className="nav-footer">
-              <NavLink to="/About"  className="nav-footer-item" onClick={() => this.props.componentDidMount()}>About</NavLink>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCs3Agzq0vKmxv244AMq9B3raFdZLes8ZZQemCkzFE_bnEYA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"n  className="nav-footer-item">Submit</a>
-              <div className="nav-copyright">© 2019 Neede Design.</div>
+              <div className="nav-footer">
+               <div className="nav-footer-block">
+               <NavLink to="/About"  className="nav-footer-item" onClick={() => this.props.componentDidMount()}>About</NavLink>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCs3Agzq0vKmxv244AMq9B3raFdZLes8ZZQemCkzFE_bnEYA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"  className="nav-footer-item">Submit</a>              
+                </div>
+                <div className="nav-footer-block">
+                <a href="https://buymeacoff.ee/Kt2uTM15b" target="_blank" rel="noopener noreferrer" className="nav-footer-item">Donate</a> 
+                <a href="https://medium.com/@hanselwong" target="_blank" rel="noopener noreferrer" className="nav-footer-item">Medium</a>
+                </div>
+                <div className="nav-copyright">© 2019 Neede Design Co.</div>
             </div>
 
         </div>
