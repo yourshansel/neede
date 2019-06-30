@@ -46,7 +46,7 @@ class Navigation extends Component {
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCs3Agzq0vKmxv244AMq9B3raFdZLes8ZZQemCkzFE_bnEYA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"  className="nav-footer-item">Submit</a>              
                 </div>
                 <div className="nav-footer-block">
-                <a href="https://buymeacoff.ee/Kt2uTM15b" target="_blank" rel="noopener noreferrer" className="nav-footer-item">Donate</a> 
+                <a href="https://paypal.me/needeco?locale.x=en_GB" target="_blank" rel="noopener noreferrer" className="nav-footer-item">Donate</a> 
                 <a href="https://medium.com/@hanselwong" target="_blank" rel="noopener noreferrer" className="nav-footer-item">Medium</a>
                 </div>
                 <div className="nav-copyright">© 2019 Neede Design Co.</div>

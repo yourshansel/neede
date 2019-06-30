@@ -23,7 +23,7 @@ class About extends Component {
       <div className="about-header">Favoriting a Website</div>
       <div className="about-description">When you click on the favourite button, the website is being saved on your browser’s local storage so you can manage and access them on the favourites tab.</div>
       <div className="about-header">Found something awesome that you want to share?</div>
-      <div className="about-description">Send me any links or categories you’d like to see added to Neede by clicking on the Submit button. If you'd like to say hi, drop me a message at <a href="mailto:yourshansel@email.com" className="about-link">yourshansel@gmail.com</a></div>
+      <div className="about-description">Send me any links or categories you’d like to see added to Neede by clicking on the Submit button. If you'd like to support this website, click on the Donate button or drop me a message at <a href="mailto:yourshansel@email.com" className="about-link">yourshansel@gmail.com</a> just to say hi!</div>
       <div className="about-description"><br/>Curated by <a href="https://twitter.com/yourshansel" className="about-link">Hansel Wong</a></div>
       <div className="about-spacer"/>
       </div>
