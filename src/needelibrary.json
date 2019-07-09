@@ -1,5 +1,12 @@
 [
  {
+   "category": "Animation",
+   "name": "Lottie Files",
+   "url": "https://lottiefiles.com/?ref=neede.co",
+   "description": "A library of micro UI animations in JSON format for use in web and mobile platforms.",
+   "screenshot": "https://i.imgur.com/bqQ9hce.jpg"
+ },
+ {
    "category": "Branding",
    "name": "BP&O",
    "url": "https://bpando.org/?ref=neede.co",
@@ -168,6 +175,20 @@
    "screenshot": "https://i.imgur.com/jag7b7w.jpg"
  },
  {
+   "category": "Colors",
+   "name": "Make Tint & Shades",
+   "url": "https://maketintsandshades.com/?ref=neede.co",
+   "description": "Generator shades of colors in 10% increments between colors.",
+   "screenshot": "https://i.imgur.com/10QrucJ.jpg"
+ },
+ {
+   "category": "Colors",
+   "name": "Color Review",
+   "url": "https://color.review/?ref=neede.co",
+   "description": "A tool and guide for color accessibility and readability.",
+   "screenshot": "https://i.imgur.com/LOcdedn.jpg"
+ },
+ {
    "category": "Community",
    "name": "Behance",
    "url": "https://www.behance.net/?ref=neede.co",
@@ -250,6 +271,27 @@
    "url": "https://www.upwork.com/?ref=neede.co",
    "description": "Marketplace to search for freelance services for short-term projects to full-time work.",
    "screenshot": "https://i.imgur.com/uL5Wycs.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Blacks Who Design",
+   "url": "https://blackswho.design/?ref=neede.co",
+   "description": "A community to discover or connect with talented Black designers in the industry.",
+   "screenshot": "https://i.imgur.com/zASpJ8X.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Women Who Design",
+   "url": "https://womenwho.design/?ref=neede.co",
+   "description": "A community to discover or connect with talented Women in the design industry.",
+   "screenshot": "https://i.imgur.com/ogekkNZ.jpg"
+ },
+ {
+   "category": "Community",
+   "name": "Latinxs Who Design",
+   "url": "https://latinxswhodesign.com/?ref=neede.co",
+   "description": "A community to discover or connect with talented Latinxs in the design industry.",
+   "screenshot": "https://i.imgur.com/XiLDYgv.jpg"
  },
  {
    "category": "Icons",
@@ -357,6 +399,13 @@
    "screenshot": "https://i.imgur.com/1E6aD3J.jpg"
  },
  {
+   "category": "Icons",
+   "name": "Unicons",
+   "url": "https://iconscout.com/unicons/?ref=neede.co",
+   "description": "Free vector icons and icon-font for your projects.",
+   "screenshot": "https://i.imgur.com/b3tToHh.jpg"
+ },
+ {
    "category": "Illustration",
    "name": "UnDraw",
    "url": "https://undraw.co/?ref=neede.co",
@@ -390,6 +439,48 @@
    "url": "https://icons8.com/ouch/?ref=neede.co",
    "description": "Free illustrations for interface design by the awesome people at Icons8",
    "screenshot": "https://i.imgur.com/cWNHsIR.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Dimensions Guide",
+   "url": "https://www.dimensions.guide/?ref=neede.co",
+   "description": "A database of dimensioned drawings of everyday objects and spaces.",
+   "screenshot": "https://i.imgur.com/3Ssuw1K.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Heropatterns",
+   "url": "http://www.heropatterns.com/?ref=neede.co",
+   "description": "A collection of repeatable SVG background patterns to use on web projects.",
+   "screenshot": "https://i.imgur.com/oxGsppz.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Absurd Design",
+   "url": "https://absurd.design/?ref=neede.co",
+   "description": "Free surrealistic illustrations for use in personal and commercial projects.",
+   "screenshot": "https://i.imgur.com/3cz4X2Y.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Manypixels",
+   "url": "https://gallery.manypixels.co/?ref=neede.co",
+   "description": "Royalty free graphical illustrations for commercial and non-commercial use. ",
+   "screenshot": "https://i.imgur.com/NrtMDfB.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Blendful",
+   "url": "https://blendful.com/?ref=neede.co",
+   "description": "A tool and community for creating illustrations for your projects.",
+   "screenshot": "https://i.imgur.com/S9h20Ae.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Paper Sizes",
+   "url": "https://papersizes.io/?ref=neede.co",
+   "description": "A comprehensive resource listing all international paper sizes and formats.",
+   "screenshot": "https://i.imgur.com/ClhDjwy.jpg"
  },
  {
    "category": "Inspiration",
@@ -553,133 +644,189 @@
    "screenshot": "https://i.imgur.com/ZtyvOCW.jpg"
  },
  {
+   "category": "Inspiration",
+   "name": "UI Jar",
+   "url": "https://uijar.com/?ref=neede.co",
+   "description": "Curated design inspiration for web, mobile and design content",
+   "screenshot": "https://i.imgur.com/aGmBG5n.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "UI Movement",
+   "url": "https://uimovement.com/?ref=neede.co",
+   "description": "UI Design inspiration for animating transitions and micro interactions.",
+   "screenshot": "https://i.imgur.com/NuF3UBc.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Page Flows",
+   "url": "https://pageflows.com/?ref=neede.co",
+   "description": "User flow videos and screenshots of popular websites and mobile apps.",
+   "screenshot": "https://i.imgur.com/bC50R6T.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Muzli Inspiration",
+   "url": "https://muz.li/inspiration/best-designed-landing-pages/?ref=neede.co",
+   "description": "A curated collection of landing page inspirations from Muzli by Invision.",
+   "screenshot": "https://i.imgur.com/YWeTQjC.jpg"
+ },
+ {
+   "category": "Inspiration",
+   "name": "Webframe",
+   "url": "https://webframe.xyz/?ref=neede.co",
+   "description": "A collection of web app screenshots for design inspiration.",
+   "screenshot": "https://i.imgur.com/ya4U5SM.jpg"
+ },
+ {
    "category": "Photo",
+   "name": "Pixel Mob",
+   "url": "https://pixelmob.co/?ref=neede.co",
+   "description": "Find royalty-free stock photos from multiple sources.",
+   "screenshot": "https://i.imgur.com/6LDoDs6.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "Mix Kit",
+   "url": "https://mixkit.co/?ref=neede.co",
+   "description": "Free stock video footage and animation for use in your projects.",
+   "screenshot": "https://i.imgur.com/riqtEAo.jpg"
+ },
+ {
+   "category": "Photo",
+   "name": "UI Faces",
+   "url": "https://uifaces.co/?ref=neede.co",
+   "description": "Find profile photos or avatars for yours design mockups with this aggregator site.",
+   "screenshot": "https://i.imgur.com/cvbyRVv.jpg"
+ },
+ {
+   "category": "Photos",
    "name": "500px",
    "url": "https://500px.com/?ref=neede.co",
    "description": "Online community and marketplace for photography.",
    "screenshot": "https://i.imgur.com/Z46RsBs.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Barn Images",
    "url": "https://barnimages.com/?ref=neede.co",
    "description": "Collection of free high-resolution photos for use in personal and commercial projects.",
    "screenshot": "https://i.imgur.com/IAj2GMQ.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Death To Stock",
    "url": "https://deathtothestockphoto.com/?ref=neede.co",
    "description": "Photo resources for creatives.",
    "screenshot": "https://i.imgur.com/3l9RK4v.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Flickr",
    "url": "https://www.flickr.com/?ref=neede.co",
    "description": "Image hosting site with online community.",
    "screenshot": "https://i.imgur.com/uFq00d9.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Pexels",
    "url": "https://www.pexels.com/?ref=neede.co",
    "description": "Free stock photos with Creative Commons Zero (CC0) License.",
    "screenshot": "https://i.imgur.com/Z7bHujI.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Pinterest",
    "url": "https://www.pinterest.com?ref=neede.co",
    "description": "Discover and organize your photos with pinterest boards.",
    "screenshot": "https://i.imgur.com/MLV8aEQ.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Pixabay",
    "url": "https://pixabay.com/?ref=neede.co",
    "description": "Royalty free stock photos and videos.",
    "screenshot": "https://i.imgur.com/IkCQRVt.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Unsplash",
    "url": "https://unsplash.com/?ref=neede.co",
    "description": "Curated collection of high resolution stock photos by photographers.",
    "screenshot": "https://i.imgur.com/KBsCg8Z.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Diverse UI",
    "url": "https://diverseui.com/?ref=neede.co",
    "description": "Great site to get images for profile pictures or user personas for projects.",
    "screenshot": "https://i.imgur.com/cJbdNTg.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Negative Space",
    "url": "https://negativespace.co/?ref=neede.co",
    "description": "Free stock photos for personal and commercial use.",
    "screenshot": "https://i.imgur.com/cCYtTUH.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Stock Up",
    "url": "https://www.sitebuilderreport.com/stock-up/?ref=neede.co",
    "description": "Stock photo indexing site with over 25,000 free photos.",
    "screenshot": "https://i.imgur.com/NnmV5MY.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Nappy",
    "url": "https://www.nappy.co/?ref=neede.co",
    "description": "Free high resolution stock photo of black and brown people.",
    "screenshot": "https://i.imgur.com/DMjBUDO.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Coverr",
    "url": "http://www.coverr.co/?ref=neede.co",
    "description": "Beautifuly, free stock video footage for your homepage",
    "screenshot": "https://i.imgur.com/Nm0MpKZ.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "User Persona Images",
    "url": "https://www.userpersonaimages.com/?ref=neede.co",
    "description": "Free stock photos for user persona images",
    "screenshot": "https://i.imgur.com/NcJCRWq.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Visual Hunt",
    "url": "https://visualhunt.com/?ref=neede.co",
    "description": "Curated collection of free stock photos and images",
    "screenshot": "https://i.imgur.com/oH8ReRc.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Down BG",
    "url": "https://www.downbg.com/?ref=neede.co",
    "description": "Free background photos and images for your projects",
    "screenshot": "https://i.imgur.com/Fmq6TpA.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Remove BG",
    "url": "https://www.remove.bg/?ref=neede.co",
    "description": "Tool that helps you remove the background from your photos and images",
    "screenshot": "https://i.imgur.com/J4xa9WQ.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Dipixio",
    "url": "https://www.dipixio.com/?ref=neede.co",
    "description": "Continuously growing gallery of free high quality isolated, background-free photos.",
    "screenshot": "https://i.imgur.com/PH9Xvxv.jpg"
  },
  {
-   "category": "Photo",
+   "category": "Photos",
    "name": "Moose",
    "url": "https://photos.icons8.com/?ref=neede.co",
    "description": "Free stock photos designed to work together by Icons8. *Requires link attribution*",
@@ -826,6 +973,118 @@
    "screenshot": "https://i.imgur.com/t3eEYUY.jpg"
  },
  {
+   "category": "Software",
+   "name": "Framer X",
+   "url": "https://framer.com/?ref=neede.co",
+   "description": "React-based Interactive Design & Prototyping Tool.",
+   "screenshot": "https://i.imgur.com/vvcBHIn.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Rotato",
+   "url": "https://rotato.xyz/?ref=neede.co",
+   "description": "Software to animate 3D Mockups for mobile apps and web design.",
+   "screenshot": "https://i.imgur.com/MW9mdZd.jpg"
+ },
+ {
+   "category": "Software",
+   "name": "Voiceflow",
+   "url": "https://getvoiceflow.com/?ref=neede.co",
+   "description": "Design & Prototyping tool for voice apps.",
+   "screenshot": "https://i.imgur.com/cP4oKY5.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Great Simple Studio",
+   "url": "https://greatsimple.io/?ref=neede.co",
+   "description": "UI resources for wireframes, graphic interfaces, icons and core elements.",
+   "screenshot": "https://i.imgur.com/wGJK1ZJ.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "PSDDD",
+   "url": "https://psddd.co/?ref=neede.co",
+   "description": "An extensive collection of free templates for Sketch, Photoshop and more.",
+   "screenshot": "https://i.imgur.com/XKci47A.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Simple Mockups",
+   "url": "https://lstore.graphics/?ref=neede.co",
+   "description": "Device mockups and scene creators for laying out your designs.",
+   "screenshot": "https://i.imgur.com/VUI3KiD.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Sketch App Resources",
+   "url": "https://www.sketchappsources.com/?ref=neede.co",
+   "description": "Collection of free and premium Sketch resources for mobile, web, UI and UX design.",
+   "screenshot": "https://i.imgur.com/x4k5vIK.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Sketch For Designers",
+   "url": "https://sketch.fordesignrs.com/?ref=neede.co",
+   "description": "Collection of Sketch resources - templates, plugins, tutorials and more.",
+   "screenshot": "https://i.imgur.com/uBxR5r1.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "UI 8",
+   "url": "https://ui8.net/?ref=neede.co",
+   "description": "Free and Paid UI Template and Wireframing Kits.",
+   "screenshot": "https://i.imgur.com/Dp8jtwU.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "UI Space",
+   "url": "https://uispace.net/?ref=neede.co",
+   "description": "Collection of UI resources for Photoshop, Illustrator, Sketch & Web Design.",
+   "screenshot": "https://i.imgur.com/NVsiPfB.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Cruip",
+   "url": "https://cruip.com/?ref=neede.co",
+   "description": "Free HTML landing page templates",
+   "screenshot": "https://i.imgur.com/Owc0mph.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Sketch Repo",
+   "url": "https://sketchrepo.com/?ref=neede.co",
+   "description": "A repository of sketch resources and UI kits for mobile, web and desktop design.",
+   "screenshot": "https://i.imgur.com/zaMMZb5.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Freebie Supply",
+   "url": "https://freebiesupply.com/?ref=neede.co",
+   "description": "Free design resources for Photoshop, Sketch, Illustration, Adobe XD and Figma",
+   "screenshot": "https://i.imgur.com/sqM6KXF.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Mockuuups",
+   "url": "https://mockuuups.studio/?ref=neede.co",
+   "description": "A collection of free mockups for creating beautiful app previews.",
+   "screenshot": "https://i.imgur.com/4v6tuu7.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Frrames",
+   "url": "https://frrames.com/?ref=neede.co",
+   "description": "Design Mockup Frames for Mac OS, Windows, iOS and Android.",
+   "screenshot": "https://i.imgur.com/ZRDwEf3.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Slidesgo",
+   "url": "https://sligesgo.com/?ref=neede.co",
+   "description": "Free presentation templates for Google Slides and Microsoft Powerpoint.",
+   "screenshot": "https://i.imgur.com/PNKYe89.jpg"
+ },
+ {
    "category": "Typography",
    "name": "DaFont",
    "url": "https://www.dafont.com/?ref=neede.co",
@@ -945,384 +1204,6 @@
    "screenshot": "https://i.imgur.com/WPokDbR.jpg"
  },
  {
-   "category": "UI",
-   "name": "Great Simple Studio",
-   "url": "https://greatsimple.io/?ref=neede.co",
-   "description": "UI resources for wireframes, graphic interfaces, icons and core elements.",
-   "screenshot": "https://i.imgur.com/wGJK1ZJ.jpg"
- },
- {
-   "category": "UI",
-   "name": "PSDDD",
-   "url": "https://psddd.co/?ref=neede.co",
-   "description": "An extensive collection of free templates for Sketch, Photoshop and more.",
-   "screenshot": "https://i.imgur.com/XKci47A.jpg"
- },
- {
-   "category": "UI",
-   "name": "Semantic UI",
-   "url": "https://semantic-ui.com/?ref=neede.co",
-   "description": "User interface component library for designers and web developers.",
-   "screenshot": "https://i.imgur.com/yMr7rP7.jpg"
- },
- {
-   "category": "UI",
-   "name": "Simple Mockups",
-   "url": "https://lstore.graphics/?ref=neede.co",
-   "description": "Device mockups and scene creators for laying out your designs.",
-   "screenshot": "https://i.imgur.com/VUI3KiD.jpg"
- },
- {
-   "category": "UI",
-   "name": "Sketch App Resources",
-   "url": "https://www.sketchappsources.com/?ref=neede.co",
-   "description": "Collection of free and premium Sketch resources for mobile, web, UI and UX design.",
-   "screenshot": "https://i.imgur.com/x4k5vIK.jpg"
- },
- {
-   "category": "UI",
-   "name": "Sketch For Designers",
-   "url": "https://sketch.fordesignrs.com/?ref=neede.co",
-   "description": "Collection of Sketch resources - templates, plugins, tutorials and more.",
-   "screenshot": "https://i.imgur.com/uBxR5r1.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI 8",
-   "url": "https://ui8.net/?ref=neede.co",
-   "description": "Free and Paid UI Template and Wireframing Kits.",
-   "screenshot": "https://i.imgur.com/Dp8jtwU.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI Space",
-   "url": "https://uispace.net/?ref=neede.co",
-   "description": "Collection of UI resources for Photoshop, Illustrator, Sketch & Web Design.",
-   "screenshot": "https://i.imgur.com/NVsiPfB.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI Stencils",
-   "url": "https://www.uistencils.com/?ref=neede.co",
-   "description": "Stationaries, tools and materials for sketching prototypes and wireframes.",
-   "screenshot": "https://i.imgur.com/UmxRQJL.jpg"
- },
- {
-   "category": "UI",
-   "name": "Cruip",
-   "url": "https://cruip.com/?ref=neede.co",
-   "description": "Free HTML landing page templates",
-   "screenshot": "https://i.imgur.com/Owc0mph.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI Jar",
-   "url": "https://uijar.com/?ref=neede.co",
-   "description": "Curated design inspiration for web, mobile and design content",
-   "screenshot": "https://i.imgur.com/aGmBG5n.jpg"
- },
- {
-   "category": "UI",
-   "name": "UI Oh My",
-   "url": "http://uiohmy.com/?ref=neede.co",
-   "description": "UI screens comparison between Android and iOS.",
-   "screenshot": "https://i.imgur.com/0695qXg.jpg"
- },
- {
-   "category": "UI",
-   "name": "Sketch Repo",
-   "url": "https://sketchrepo.com/?ref=neede.co",
-   "description": "A repository of sketch resources and UI kits for mobile, web and desktop design.",
-   "screenshot": "https://i.imgur.com/zaMMZb5.jpg"
- },
- {
-   "category": "UI",
-   "name": "Cleanmock",
-   "url": "https://cleanmock.com/?ref=neede.co",
-   "description": "Free tool to create beautiful mockups for mobile or web design. ",
-   "screenshot": "https://i.imgur.com/qzGuH9a.jpg"
- },
- {
-   "category": "UI",
-   "name": "Freebie Supply",
-   "url": "https://freebiesupply.com/?ref=neede.co",
-   "description": "Free design resources for Photoshop, Sketch, Illustration, Adobe XD and Figma",
-   "screenshot": "https://i.imgur.com/sqM6KXF.jpg"
- },
- {
-   "category": "UI",
-   "name": "Mockuuups",
-   "url": "https://mockuuups.studio/?ref=neede.co",
-   "description": "A collection of free mockups for creating beautiful app previews.",
-   "screenshot": "https://i.imgur.com/4v6tuu7.jpg"
- },
- {
-   "category": "UI",
-   "name": "Mock Video",
-   "url": "https://www.mock.video/?ref=neede.co",
-   "description": "Instantly create mockups by adding a device frame to your videos.",
-   "screenshot": "https://i.imgur.com/ECctwVR.jpg"
- },
- {
-   "category": "UX",
-   "name": "Dark Patterns",
-   "url": "https://darkpatterns.org/?ref=neede.co",
-   "description": "Website that exposes decepting user interfaces and tricks used to deceive users.",
-   "screenshot": "https://i.imgur.com/mxHnRld.jpg"
- },
- {
-   "category": "UX",
-   "name": "Design Kit",
-   "url": "http://www.designkit.org/?ref=neede.co",
-   "description": "IDEO's platform to learn about human-centered design and best practices.",
-   "screenshot": "https://i.imgur.com/GalHagd.jpg"
- },
- {
-   "category": "UX",
-   "name": "Laws of UX",
-   "url": "https://lawsofux.com/?ref=neede.co",
-   "description": "Collection of maxims and principles for designing user interfaces.",
-   "screenshot": "https://i.imgur.com/8bVWiig.jpg"
- },
- {
-   "category": "UX",
-   "name": "Little Big Details",
-   "url": "http://littlebigdetails.com/?ref=neede.co",
-   "description": "A collection of finer design details that leads to user delight in their user experience. ",
-   "screenshot": "https://i.imgur.com/1FEMVeM.jpg"
- },
- {
-   "category": "UX",
-   "name": "Lookback",
-   "url": "https://lookback.io/?ref=neede.co",
-   "description": "Tool for recording user interactions during user interviews and usability testing.",
-   "screenshot": "https://i.imgur.com/w4u4Gj0.jpg"
- },
- {
-   "category": "UX",
-   "name": "Microsoft Design",
-   "url": "https://www.microsoft.com/design/inclusive/?ref=neede.co",
-   "description": "Toolkit designed by Microsoft for designing for inclusivity and accesibility.",
-   "screenshot": "https://i.imgur.com/bYRWcjb.jpg"
- },
- {
-   "category": "UX",
-   "name": "Usability",
-   "url": "https://www.usability.gov/?ref=neede.co",
-   "description": "Lessons and resources for learning about UX best practices.",
-   "screenshot": "https://i.imgur.com/mJ9gdIy.jpg"
- },
- {
-   "category": "UX",
-   "name": "Usability Hub",
-   "url": "https://usabilityhub.com/?ref=neede.co",
-   "description": "User testing platform to conduct usability testing and collect insights from your users.",
-   "screenshot": "https://i.imgur.com/NldHeKy.jpg"
- },
- {
-   "category": "UX",
-   "name": "UserOnboard",
-   "url": "https://www.useronboard.com/?ref=neede.co",
-   "description": "Onboarding experiences from various popular websites.",
-   "screenshot": "https://i.imgur.com/PKILtix.jpg"
- },
- {
-   "category": "UX",
-   "name": "UserTesting",
-   "url": "https://www.usertesting.com/?ref=neede.co",
-   "description": "User experience research and insights platform to improving the user experience.",
-   "screenshot": "https://i.imgur.com/2hPbitf.jpg"
- },
- {
-   "category": "UX",
-   "name": "UX Pin",
-   "url": "https://www.uxpin.com/?ref=neede.co",
-   "description": "Platform for collaborating on design systems, prototyping and product development.",
-   "screenshot": "https://i.imgur.com/5pxPQGk.jpg"
- },
- {
-   "category": "UX",
-   "name": "Design Principles",
-   "url": "https://principles.design/?ref=neede.co",
-   "description": "A collection of articles and examples of Design Principles that make a good product.",
-   "screenshot": "https://i.imgur.com/9qb9MhK.jpg"
- },
- {
-   "category": "UX",
-   "name": "Make My Persona",
-   "url": "https://www.hubspot.com/make-my-persona/?ref=neede.co",
-   "description": "Template tool to help you build your own user persona easily.",
-   "screenshot": "https://i.imgur.com/AImwxXk.jpg"
- },
- {
-   "category": "UX",
-   "name": "Draw IO",
-   "url": "https://www.draw.io/?ref=neede.co",
-   "description": "Create flowcharts and wireframes easily with this free online diagram software.",
-   "screenshot": "https://i.imgur.com/Fwh1NWD.jpg"
- },
- {
-   "category": "Icons",
-   "name": "Unicons",
-   "url": "https://iconscout.com/unicons/?ref=neede.co",
-   "description": "Free vector icons and icon-font for your projects.",
-   "screenshot": "https://i.imgur.com/b3tToHh.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Pixel Mob",
-   "url": "https://pixelmob.co/?ref=neede.co",
-   "description": "Find royalty-free stock photos from multiple sources.",
-   "screenshot": "https://i.imgur.com/6LDoDs6.jpg"
- },
- {
-   "category": "Illustration",
-   "name": "Dimensions Guide",
-   "url": "https://www.dimensions.guide/?ref=neede.co",
-   "description": "A database of dimensioned drawings of everyday objects and spaces.",
-   "screenshot": "https://i.imgur.com/3Ssuw1K.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "UI Movement",
-   "url": "https://uimovement.com/?ref=neede.co",
-   "description": "UI Design inspiration for animating transitions and micro interactions.",
-   "screenshot": "https://i.imgur.com/NuF3UBc.jpg"
- },
- {
-   "category": "Animation",
-   "name": "Lottie Files",
-   "url": "https://lottiefiles.com/?ref=neede.co",
-   "description": "A library of micro UI animations in JSON format for use in web and mobile platforms.",
-   "screenshot": "https://i.imgur.com/bqQ9hce.jpg"
- },
- {
-   "category": "Community",
-   "name": "Blacks Who Design",
-   "url": "https://blackswho.design/?ref=neede.co",
-   "description": "A community to discover or connect with talented Black designers in the industry.",
-   "screenshot": "https://i.imgur.com/zASpJ8X.jpg"
- },
- {
-   "category": "Photo",
-   "name": "Mix Kit",
-   "url": "https://mixkit.co/?ref=neede.co",
-   "description": "Free stock video footage and animation for use in your projects.",
-   "screenshot": "https://i.imgur.com/riqtEAo.jpg"
- },
- {
-   "category": "Illustration",
-   "name": "Heropatterns",
-   "url": "http://www.heropatterns.com/?ref=neede.co",
-   "description": "A collection of repeatable SVG background patterns to use on web projects.",
-   "screenshot": "https://i.imgur.com/oxGsppz.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Make Tint & Shades",
-   "url": "https://maketintsandshades.com/?ref=neede.co",
-   "description": "Generator shades of colors in 10% increments between colors.",
-   "screenshot": "https://i.imgur.com/10QrucJ.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Page Flows",
-   "url": "https://pageflows.com/?ref=neede.co",
-   "description": "User flow videos and screenshots of popular websites and mobile apps.",
-   "screenshot": "https://i.imgur.com/bC50R6T.jpg"
- },
- {
-   "category": "UI",
-   "name": "Frrames",
-   "url": "https://frrames.com/?ref=neede.co",
-   "description": "Design Mockup Frames for Mac OS, Windows, iOS and Android.",
-   "screenshot": "https://i.imgur.com/ZRDwEf3.jpg"
- },
- {
-   "category": "Software",
-   "name": "Framer X",
-   "url": "https://framer.com/?ref=neede.co",
-   "description": "React-based Interactive Design & Prototyping Tool.",
-   "screenshot": "https://i.imgur.com/vvcBHIn.jpg"
- },
- {
-   "category": "Photo",
-   "name": "UI Faces",
-   "url": "https://uifaces.co/?ref=neede.co",
-   "description": "Find profile photos or avatars for yours design mockups with this aggregator site.",
-   "screenshot": "https://i.imgur.com/cvbyRVv.jpg"
- },
- {
-   "category": "Community",
-   "name": "Women Who Design",
-   "url": "https://womenwho.design/?ref=neede.co",
-   "description": "A community to discover or connect with talented Women in the design industry.",
-   "screenshot": "https://i.imgur.com/ogekkNZ.jpg"
- },
- {
-   "category": "Community",
-   "name": "Latinxs Who Design",
-   "url": "https://latinxswhodesign.com/?ref=neede.co",
-   "description": "A community to discover or connect with talented Latinxs in the design industry.",
-   "screenshot": "https://i.imgur.com/XiLDYgv.jpg"
- },
- {
-   "category": "UI",
-   "name": "Carbon Now",
-   "url": "https://carbon.now.sh/?ref=neede.co",
-   "description": "Create beauitful images of your source code to share with others.",
-   "screenshot": "https://i.imgur.com/8O3xCNa.jpg"
- },
- {
-   "category": "Colors",
-   "name": "Color Review",
-   "url": "https://color.review/?ref=neede.co",
-   "description": "A tool and guide for color accessibility and readability.",
-   "screenshot": "https://i.imgur.com/LOcdedn.jpg"
- },
- {
-   "category": "Software",
-   "name": "Rotato",
-   "url": "https://rotato.xyz/?ref=neede.co",
-   "description": "Software to animate 3D Mockups for mobile apps and web design.",
-   "screenshot": "https://i.imgur.com/MW9mdZd.jpg"
- },
- {
-   "category": "Illustration",
-   "name": "Absurd Design",
-   "url": "https://absurd.design/?ref=neede.co",
-   "description": "Free surrealistic illustrations for use in personal and commercial projects.",
-   "screenshot": "https://i.imgur.com/3cz4X2Y.jpg"
- },
- {
-   "category": "Software",
-   "name": "Voiceflow",
-   "url": "https://getvoiceflow.com/?ref=neede.co",
-   "description": "Design & Prototyping tool for voice apps.",
-   "screenshot": "https://i.imgur.com/cP4oKY5.jpg"
- },
- {
-   "category": "UX",
-   "name": "Humane by Design",
-   "url": "https://humanebydesign.com/?ref=neede.co",
-   "description": "Guide to designing ethically humane and user-focused digital products.",
-   "screenshot": "https://i.imgur.com/GobZ8X3.jpg"
- },
- {
-   "category": "Illustration",
-   "name": "Manypixels",
-   "url": "https://gallery.manypixels.co/?ref=neede.co",
-   "description": "Royalty free graphical illustrations for commercial and non-commercial use. ",
-   "screenshot": "https://i.imgur.com/NrtMDfB.jpg"
- },
- {
-   "category": "Inspiration",
-   "name": "Muzli Inspiration",
-   "url": "https://muz.li/inspiration/best-designed-landing-pages/?ref=neede.co",
-   "description": "A curated collection of landing page inspirations from Muzli by Invision.",
-   "screenshot": "https://i.imgur.com/YWeTQjC.jpg"
- },
- {
    "category": "Typography",
    "name": "Speak Human",
    "url": "http://speakhuman.today/?ref=neede.co",
@@ -1330,24 +1211,150 @@
    "screenshot": "https://i.imgur.com/rqR6WbS.jpg"
  },
  {
-   "category": "Illustration",
-   "name": "Blendful",
-   "url": "https://blendful.com/?ref=neede.co",
-   "description": "A tool and community for creating illustrations for your projects.",
-   "screenshot": "https://i.imgur.com/S9h20Ae.jpg"
+   "category": "UI Design",
+   "name": "Semantic UI",
+   "url": "https://semantic-ui.com/?ref=neede.co",
+   "description": "User interface component library for designers and web developers.",
+   "screenshot": "https://i.imgur.com/yMr7rP7.jpg"
  },
  {
-   "category": "Inspiration",
-   "name": "Webframe",
-   "url": "https://webframe.xyz/?ref=neede.co",
-   "description": "A collection of web app screenshots for design inspiration.",
-   "screenshot": "https://i.imgur.com/ya4U5SM.jpg"
+   "category": "UI Design",
+   "name": "UI Stencils",
+   "url": "https://www.uistencils.com/?ref=neede.co",
+   "description": "Stationaries, tools and materials for sketching prototypes and wireframes.",
+   "screenshot": "https://i.imgur.com/UmxRQJL.jpg"
  },
  {
-   "category": "Illustration",
-   "name": "Paper Sizes",
-   "url": "https://papersizes.io/?ref=neede.co",
-   "description": "A comprehensive resource listing all international paper sizes and formats.",
-   "screenshot": "https://i.imgur.com/ClhDjwy.jpg"
+   "category": "UI Design",
+   "name": "UI Oh My",
+   "url": "http://uiohmy.com/?ref=neede.co",
+   "description": "UI screens comparison between Android and iOS.",
+   "screenshot": "https://i.imgur.com/0695qXg.jpg"
+ },
+ {
+   "category": "UI Design",
+   "name": "Cleanmock",
+   "url": "https://cleanmock.com/?ref=neede.co",
+   "description": "Free tool to create beautiful mockups for mobile or web design. ",
+   "screenshot": "https://i.imgur.com/qzGuH9a.jpg"
+ },
+ {
+   "category": "UI Design",
+   "name": "Mock Video",
+   "url": "https://www.mock.video/?ref=neede.co",
+   "description": "Instantly create mockups by adding a device frame to your videos.",
+   "screenshot": "https://i.imgur.com/ECctwVR.jpg"
+ },
+ {
+   "category": "UI Design",
+   "name": "Carbon Now",
+   "url": "https://carbon.now.sh/?ref=neede.co",
+   "description": "Create beauitful images of your source code to share with others.",
+   "screenshot": "https://i.imgur.com/8O3xCNa.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Dark Patterns",
+   "url": "https://darkpatterns.org/?ref=neede.co",
+   "description": "Website that exposes decepting user interfaces and tricks used to deceive users.",
+   "screenshot": "https://i.imgur.com/mxHnRld.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Design Kit",
+   "url": "http://www.designkit.org/?ref=neede.co",
+   "description": "IDEO's platform to learn about human-centered design and best practices.",
+   "screenshot": "https://i.imgur.com/GalHagd.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Laws of UX",
+   "url": "https://lawsofux.com/?ref=neede.co",
+   "description": "Collection of maxims and principles for designing user interfaces.",
+   "screenshot": "https://i.imgur.com/8bVWiig.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Little Big Details",
+   "url": "http://littlebigdetails.com/?ref=neede.co",
+   "description": "A collection of finer design details that leads to user delight in their user experience. ",
+   "screenshot": "https://i.imgur.com/1FEMVeM.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Lookback",
+   "url": "https://lookback.io/?ref=neede.co",
+   "description": "Tool for recording user interactions during user interviews and usability testing.",
+   "screenshot": "https://i.imgur.com/w4u4Gj0.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Microsoft Design",
+   "url": "https://www.microsoft.com/design/inclusive/?ref=neede.co",
+   "description": "Toolkit designed by Microsoft for designing for inclusivity and accesibility.",
+   "screenshot": "https://i.imgur.com/bYRWcjb.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Usability",
+   "url": "https://www.usability.gov/?ref=neede.co",
+   "description": "Lessons and resources for learning about UX best practices.",
+   "screenshot": "https://i.imgur.com/mJ9gdIy.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Usability Hub",
+   "url": "https://usabilityhub.com/?ref=neede.co",
+   "description": "User testing platform to conduct usability testing and collect insights from your users.",
+   "screenshot": "https://i.imgur.com/NldHeKy.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "UserOnboard",
+   "url": "https://www.useronboard.com/?ref=neede.co",
+   "description": "Onboarding experiences from various popular websites.",
+   "screenshot": "https://i.imgur.com/PKILtix.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "UserTesting",
+   "url": "https://www.usertesting.com/?ref=neede.co",
+   "description": "User experience research and insights platform to improving the user experience.",
+   "screenshot": "https://i.imgur.com/2hPbitf.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "UX Pin",
+   "url": "https://www.uxpin.com/?ref=neede.co",
+   "description": "Platform for collaborating on design systems, prototyping and product development.",
+   "screenshot": "https://i.imgur.com/5pxPQGk.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Design Principles",
+   "url": "https://principles.design/?ref=neede.co",
+   "description": "A collection of articles and examples of Design Principles that make a good product.",
+   "screenshot": "https://i.imgur.com/9qb9MhK.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Make My Persona",
+   "url": "https://www.hubspot.com/make-my-persona/?ref=neede.co",
+   "description": "Template tool to help you build your own user persona easily.",
+   "screenshot": "https://i.imgur.com/AImwxXk.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Draw IO",
+   "url": "https://www.draw.io/?ref=neede.co",
+   "description": "Create flowcharts and wireframes easily with this free online diagram software.",
+   "screenshot": "https://i.imgur.com/Fwh1NWD.jpg"
+ },
+ {
+   "category": "UX Design",
+   "name": "Humane by Design",
+   "url": "https://humanebydesign.com/?ref=neede.co",
+   "description": "Guide to designing ethically humane and user-focused digital products.",
+   "screenshot": "https://i.imgur.com/GobZ8X3.jpg"
  }
 ]

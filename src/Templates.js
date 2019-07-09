@@ -1,15 +1,14 @@
 import React, { Component } from 'react';
 import './css/MainComponent.css';
 import CardComponent from './CardComponent.js';
-import { store } from './App.js';
-import data from './needelibrary.json';
 import { uniqBy, sortBy } from 'lodash';
+import { store } from './App.js';
 import CarbonAd from './CarbonAd.js';
 
 
+import data from './needelibrary.json';
 
-
-class Photos extends Component {
+class Templates extends Component {
 
   constructor() {
     super();
@@ -22,8 +21,8 @@ class Photos extends Component {
 
   render() {
 
-    const mergedData=  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Photos").map((data, index) => {
+    const mergedData =  uniqBy(store.getState().concat(this.state.data), "name");
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "Templates").map((data, index) => {
       return (
         <CardComponent data = {data} key = {index} />
       )
@@ -35,8 +34,8 @@ class Photos extends Component {
     return (
 
       <div>
-      <div className="header">Photos</div>
-      <div className="description">Stock photos and videos, image organization and more.</div>
+      <div className="header">Templates</div>
+      <div className="description">Design templates, device mockups, UI kits and more.</div>
       <div className="array-component">{cardComps}</div>
 
       </div>
@@ -44,4 +43,4 @@ class Photos extends Component {
   }
 }
 
-export default Photos;
+export default Templates;

@@ -21,7 +21,7 @@ class UI extends Component {
   render() {
 
     const mergedData=  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "UI").map((data, index) => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "UI Design").map((data, index) => {
       return (
         <CardComponent data = {data} key = {index} />
       )

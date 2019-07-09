@@ -15,6 +15,7 @@ import Favorites from './Favorites'
 import Branding from './Branding';
 import Illustration from './Illustration';
 import Animation from './Animation';
+import Templates from './Templates';
 import { connect } from 'react-redux';
 
 import { Switch, Route, HashRouter } from 'react-router-dom';
@@ -45,6 +46,7 @@ class RoutingComponent extends Component {
       <Route exact path="/Inspiration" component={Inspiration} />
       <Route exact path="/Photos" component={Photos} />
       <Route exact path="/Software" component={Software} />
+      <Route exact path="/Templates" component={Templates} />
       <Route exact path="/Typography" component={Typography} />
       <Route exact path="/UI-Design" component={UI} />
       <Route exact path="/UX-Design" component={UX} />

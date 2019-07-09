@@ -62,6 +62,15 @@
   text-decoration: underline;
 }
 
+.cardComponent_category {
+  font-family: Montserrat-Medium;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #212121;
+  padding-left: 24px;
+  margin-top: 8px;
+}
+
 
 .cardComponent_description {
   font-family: Montserrat;

@@ -90,7 +90,7 @@ class CardComponent extends Component {
 
 
   render() {
-    let {name, description, url, screenshot, fav} = this.props.data;
+    let {name, category, description, url, screenshot, fav} = this.props.data;
 
     if (!fav) {
   fav = false;
@@ -124,6 +124,7 @@ class CardComponent extends Component {
             </div>
             <img src={screenshot} alt="a" className="cardComponent_img"/>
             <a href={url} className="cardComponent_name" target="_blank" rel="noopener noreferrer">{name}</a>
+            <p className="cardComponent_category">{category}</p>
             <p className="cardComponent_description">{description}</p>
         </div>
       </div>

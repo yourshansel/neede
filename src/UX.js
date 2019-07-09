@@ -21,7 +21,7 @@ class UX extends Component {
   render() {
 
     const mergedData=  uniqBy(store.getState().concat(this.state.data), "name");
-    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "UX").map((data, index) => {
+    let cardComps = sortBy(mergedData, "name").filter(data => data.category === "UX Design").map((data, index) => {
       return (
         <CardComponent data = {data} key = {index} />
       )
