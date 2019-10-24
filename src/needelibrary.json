@@ -57,7 +57,7 @@
  },
  {
    "category": "Branding",
-   "name": "Micrsoft Design",
+   "name": "Microsoft Design",
    "url": "https://www.microsoft.com/design/?ref=neede.co",
    "description": "Design resources and guidelines by Microsoft - inclusive Design ",
    "screenshot": "https://i.imgur.com/5NyuYZC.jpg"
@@ -82,13 +82,6 @@
    "url": "https://airbnb.design/?ref=neede.co",
    "description": "Design articles and guidelines by Airbnb - design system and community",
    "screenshot": "https://i.imgur.com/nsOHMAS.jpg"
- },
- {
-   "category": "Branding",
-   "name": "Google Design",
-   "url": "https://design.google/?ref=neede.co",
-   "description": "Design articles and tools by Google.",
-   "screenshot": "https://i.imgur.com/mfi0H30.jpg"
  },
  {
    "category": "Colors",
@@ -1080,7 +1073,7 @@
  {
    "category": "Templates",
    "name": "Slidesgo",
-   "url": "https://slidesgo.com/?ref=neede.co",
+   "url": "https://sligesgo.com/?ref=neede.co",
    "description": "Free presentation templates for Google Slides and Microsoft Powerpoint.",
    "screenshot": "https://i.imgur.com/PNKYe89.jpg"
  },
@@ -1356,5 +1349,61 @@
    "url": "https://humanebydesign.com/?ref=neede.co",
    "description": "Guide to designing ethically humane and user-focused digital products.",
    "screenshot": "https://i.imgur.com/GobZ8X3.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Shopify Polaris",
+   "url": "https://polaris.shopify.com/?ref=neede.co",
+   "description": "Shopify's design system, practices and guidelines.",
+   "screenshot": "https://i.imgur.com/LZj1fiy.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Apple Design",
+   "url": "https://developer.apple.com/design/?ref=neede.co",
+   "description": "Apple's Human Interface Design guidelines and resources.",
+   "screenshot": "https://i.imgur.com/2TAB0Vh.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "IBM Design",
+   "url": "https://www.ibm.com/design/?ref=neede.co",
+   "description": "IBM design principles, practices and guidelines.",
+   "screenshot": "https://i.imgur.com/gopaND6.jpg"
+ },
+ {
+   "category": "Branding",
+   "name": "Google Design",
+   "url": "https://design.google/?ref=neede.co",
+   "description": "Design articles and tools by Google.",
+   "screenshot": "https://i.imgur.com/jf0rBIH.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Lukaszadam",
+   "url": "https://lukaszadam.com/illustrations/?ref=neede.co",
+   "description": "Free graphical illustrations by an independent artist and designer.",
+   "screenshot": "https://i.imgur.com/n3LMSI0.jpg"
+ },
+ {
+   "category": "Illustration",
+   "name": "Fresh Folk",
+   "url": "https://fresh-folk.com/?ref=neede.co",
+   "description": "An illustration library of people and objects that you can mix and match for your needs.",
+   "screenshot": "https://i.imgur.com/JUy2okW.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "XDGuru",
+   "url": "https://www.xdguru.com/?ref=neede.co",
+   "description": "A collection of Adobe XD UI Kits, templates for your projects. (Free & Premium)",
+   "screenshot": "https://i.imgur.com/IYeF0js.jpg"
+ },
+ {
+   "category": "Templates",
+   "name": "Figma Crush",
+   "url": "https://www.figmacrush.com/?ref=neede.co",
+   "description": "Figma UI Kits, templates and freebies for your projects. (Free & Premium)",
+   "screenshot": "https://i.imgur.com/fwlvmGH.jpg"
  }
 ]
