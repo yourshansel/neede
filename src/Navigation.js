@@ -48,7 +48,7 @@ class Navigation extends Component {
                 </div>
                 <div className="nav-footer-block">
                 </div>
-                <div className="nav-copyright">© 2020 Neede Design Co.</div>
+                <div className="nav-copyright">© 2022 Neede Design Co.</div>
             </div>
 
         </div>
