@@ -1279,5 +1279,12 @@
         "url": "https://spotify.design/?ref=neede.co",
         "description": "Spotify Design are a cross-disciplinary product design community.",
         "screenshot": "https://i.imgur.com/Yi9aBwh.png"
+    },
+    {
+        "category": "Icons",
+        "name": "Lordicon",
+        "url": "https://lordicon.com/?ref=neede.co",
+        "description": "Powerful animated icon library with 8700+ free and premium animated Lottie animations.",
+        "screenshot": "https://i.imgur.com/pK0nhgG.png"
     }
 ]
