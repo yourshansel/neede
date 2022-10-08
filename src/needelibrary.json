@@ -1286,5 +1286,26 @@
         "url": "https://lordicon.com/?ref=neede.co",
         "description": "Powerful animated icon library with 8700+ free and premium animated Lottie animations.",
         "screenshot": "https://i.imgur.com/pK0nhgG.png"
+    },
+    {
+        "category": "Colors",
+        "name": "Happy Hues",
+        "url": "https://www.happyhues.co/?ref=neede.co",
+        "description": "See color palette inspiration on a real example website.",
+        "screenshot": "https://i.imgur.com/08CKOps.png"
+    },
+    {
+        "category": "Colors",
+        "name": "Colorsinspo",
+        "url": "https://colorsinspo.com/?ref=neede.co",
+        "description": "All in one resource for finding everything about colors",
+        "screenshot": "https://i.imgur.com/OaLfXm5.png"
+    },
+    {
+        "category": "Colors",
+        "name": "Muzli Colors",
+        "url": "https://colors.muz.li/?ref=neede.co",
+        "description": "Color Palette Generator - Create Beautiful Color Schemes",
+        "screenshot": "https://i.imgur.com/BuJUKKU.png"
     }
 ]
