@@ -1307,5 +1307,12 @@
         "url": "https://colors.muz.li/?ref=neede.co",
         "description": "Color Palette Generator - Create Beautiful Color Schemes",
         "screenshot": "https://i.imgur.com/BuJUKKU.png"
+    },
+    {
+        "category": "Colors",
+        "name": "Fffuel",
+        "url": "https://fffuel.co/?ref=neede.co",
+        "description": "A fun collection of free SVG generators for gradients, patterns, shapes, textures & cool backgrounds.",
+        "screenshot": "https://i.imgur.com/amPhReH.jpg"
     }
 ]
